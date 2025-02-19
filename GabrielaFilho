@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0 type="video" channelId="-1" group="Evangelico" background="https://i.imgur.com/mYeTloC.jpeg", Sansão e Dalila
+#EXTINF:-1 tvg-id="" tvg-name="Sansão e Dalila 1949" tvg-logo="https://i.imgur.com/mYeTloC.jpeg" group-title="Filmes | Evangelico", Sansão e Dalila - 1949
 https://ia800107.us.archive.org/28/items/24-n-240-3-d-4-l-1-l-4-1949/24N240%203%20D4L1L4%201949.mp4
-#EXTINF:0 type="video" channelId="-1" group="Acão" background="https://i.imgur.com/CziRFV0.jpeg", Gigantes de Aço
+#EXTINF:-1 tvg-id="" tvg-name="Gigantes de Aço - 2011" tvg-logo="https://i.imgur.com/CziRFV0.jpeg" group-title="Filmes |  Acão", Gigantes de Aço - 2011
 http://777up.online:80/movie/GabiPais/21973632259/1112523.mp4
-#EXTINF:0 type="video" channelId="-1" group="Terror" background="https://i.imgur.com/gNEDnNB.jpeg", Entre Montanhas
+#EXTINF:-1 tvg-id="" tvg-name="Entre Montanhas 2025" tvg-logo="https://i.imgur.com/gNEDnNB.jpeg" group-title="Filmes |  Terror", Entre Montanhas - 2025
 https://ia800807.us.archive.org/22/items/dkj0eknxa161lm/dkj0eknxa161lm.mp4
