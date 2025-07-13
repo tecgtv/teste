@@ -1,0 +1,10 @@
+#EXTM3U size="Big"
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Canais
+#EXTBG:http://7upsp8.com.br/canais.jpeg
+https://raw.githubusercontent.com/tecgtv/teste/refs/heads/main/erlem1.m3u
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes
+#EXTBG:http://7upsp8.com.br/filmes.jpeg
+https://raw.githubusercontent.com/tecgtv/teste/refs/heads/main/erlem2.m3u
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Séries
+#EXTBG:http://7upsp8.com.br/series.jpeg
+https://raw.githubusercontent.com/tecgtv/teste/refs/heads/main/erlem3.m3u
