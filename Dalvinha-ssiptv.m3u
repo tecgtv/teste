@@ -1,7 +1,7 @@
 #EXTM3U size="Big"
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Canais
 #EXTBG:http://7upsp8.com.br/canais.jpeg
-https://office7up.site/ssiptv/get/Dalvinha/21976042715/list_lives/
+https://raw.githubusercontent.com/tecgtv/teste/refs/heads/main/DalvinhaTv.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes
 #EXTBG:http://7upsp8.com.br/filmes.jpeg
 https://office7up.site/ssiptv/get/Dalvinha/21976042715/movie_categories/
