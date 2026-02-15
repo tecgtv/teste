@@ -1,0 +1,1461 @@
+#EXTM3U size="Medium"
+#EXTINF:-1 type="stream" tvg-id=" Globo Nacional FHD (SP)" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais", Globo Nacional FHD (SP)
+http://7up2.com:80/LuanSantosDELE/21974352885/123
+#EXTINF:-1 type="stream" tvg-id=" Globo Nacional HD (SP)" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais", Globo Nacional HD (SP)
+http://7up2.com:80/LuanSantosDELE/21974352885/48774
+#EXTINF:-1 type="stream" tvg-id=" Principais Jogos do Dia" tvg-logo="http://7upsp8.com.br/tvlogos/jogosdodia.png" group-title="Canais | Esportes", Principais Jogos do Dia
+http://7up2.com:80/LuanSantosDELE/21974352885/1119304
+#EXTINF:-1 type="stream" tvg-id="A&E FHD" tvg-logo="http://7upsp8.com.br/tvlogos/aee.png" group-title="Canais | Filmes e Séries",A&E FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/426
+#EXTINF:-1 type="stream" tvg-id="A&E FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/aee.png" group-title="Canais | Filmes e Séries",A&E FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/428
+#EXTINF:-1 type="stream" tvg-id="A&E HD" tvg-logo="http://7upsp8.com.br/tvlogos/aee.png" group-title="Canais | Filmes e Séries",A&E HD
+http://7up2.com:80/LuanSantosDELE/21974352885/427
+#EXTINF:-1 type="stream" tvg-id="Acelerados HD" tvg-logo="http://7upsp8.com.br/tvlogos/acelerados.png" group-title="Canais | Variedades",Acelerados HD
+http://7up2.com:80/LuanSantosDELE/21974352885/435
+#EXTINF:-1 type="stream" tvg-id="Adult Swim FHD" tvg-logo="http://7upsp8.com.br/tvlogos/adultswim.png" group-title="Canais | Variedades",Adult Swim FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/300
+#EXTINF:-1 type="stream" tvg-id="Adult Swim HD" tvg-logo="http://7upsp8.com.br/tvlogos/adultswim.png" group-title="Canais | Variedades",Adult Swim HD
+http://7up2.com:80/LuanSantosDELE/21974352885/301
+#EXTINF:-1 type="stream" tvg-id="Adult Swim SD" tvg-logo="http://7upsp8.com.br/tvlogos/adultswim.png" group-title="Canais | Variedades",Adult Swim SD
+http://7up2.com:80/LuanSantosDELE/21974352885/302
+#EXTINF:-1 type="stream" tvg-id="Agro+ FHD" tvg-logo="http://7upsp8.com.br/tvlogos/agromais.png" group-title="Canais | Abertos",Agro+ FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/3
+#EXTINF:-1 type="stream" tvg-id="AMC FHD" tvg-logo="http://7upsp8.com.br/tvlogos/amc.png" group-title="Canais | Filmes e Séries",AMC FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/429
+#EXTINF:-1 type="stream" tvg-id="AMC HD" tvg-logo="http://7upsp8.com.br/tvlogos/amc.png" group-title="Canais | Filmes e Séries",AMC HD
+http://7up2.com:80/LuanSantosDELE/21974352885/430
+#EXTINF:-1 type="stream" tvg-id="AMC HD²" tvg-logo="http://7upsp8.com.br/tvlogos/amc.png" group-title="Canais | Filmes e Séries",AMC HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/431
+#EXTINF:-1 type="stream" tvg-id="Animal Planet FHD" tvg-logo="http://7upsp8.com.br/tvlogos/animalplanet.png" group-title="Canais | Cultura e Documentário",Animal Planet FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/345
+#EXTINF:-1 type="stream" tvg-id="Animal Planet FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/animalplanet.png" group-title="Canais | Cultura e Documentário",Animal Planet FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/37188
+#EXTINF:-1 type="stream" tvg-id="Animal Planet HD" tvg-logo="http://7upsp8.com.br/tvlogos/animalplanet.png" group-title="Canais | Cultura e Documentário",Animal Planet HD
+http://7up2.com:80/LuanSantosDELE/21974352885/346
+#EXTINF:-1 type="stream" tvg-id="Animal Planet HD²" tvg-logo="http://7upsp8.com.br/tvlogos/animalplanet.png" group-title="Canais | Cultura e Documentário",Animal Planet HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/347
+#EXTINF:-1 type="stream" tvg-id="Arte 1 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/arte1.png" group-title="Canais | Variedades",Arte 1 FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/226
+#EXTINF:-1 type="stream" tvg-id="Arte 1 HD" tvg-logo="http://7upsp8.com.br/tvlogos/arte1.png" group-title="Canais | Variedades",Arte 1 HD
+http://7up2.com:80/LuanSantosDELE/21974352885/227
+#EXTINF:-1 type="stream" tvg-id="Arte 1 HD²" tvg-logo="http://7upsp8.com.br/tvlogos/arte1.png" group-title="Canais | Variedades",Arte 1 HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/228
+#EXTINF:-1 type="stream" tvg-id="AXN FHD" tvg-logo="http://7upsp8.com.br/tvlogos/axn.png" group-title="Canais | Filmes e Séries",AXN FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/432
+#EXTINF:-1 type="stream" tvg-id="AXN FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/axn.png" group-title="Canais | Filmes e Séries",AXN FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/82183
+#EXTINF:-1 type="stream" tvg-id="AXN HD" tvg-logo="http://7upsp8.com.br/tvlogos/axn.png" group-title="Canais | Filmes e Séries",AXN HD
+http://7up2.com:80/LuanSantosDELE/21974352885/433
+#EXTINF:-1 type="stream" tvg-id="AXN HD²" tvg-logo="http://7upsp8.com.br/tvlogos/axn.png" group-title="Canais | Filmes e Séries",AXN HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/79998
+#EXTINF:-1 type="stream" tvg-id="Band Bahia FHD" tvg-logo="http://7upsp8.com.br/tvlogos/band.png" group-title="Canais | Band, SBT, Record",Band Bahia FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/4
+#EXTINF:-1 type="stream" tvg-id="Band Brasília HD" tvg-logo="http://7upsp8.com.br/tvlogos/band.png" group-title="Canais | Band, SBT, Record",Band Brasília HD
+http://7up2.com:80/LuanSantosDELE/21974352885/5
+#EXTINF:-1 type="stream" tvg-id="Band Campinas HD" tvg-logo="http://7upsp8.com.br/tvlogos/band.png" group-title="Canais | Band, SBT, Record",Band Campinas HD
+http://7up2.com:80/LuanSantosDELE/21974352885/6
+#EXTINF:-1 type="stream" tvg-id="Band CE" tvg-logo="http://7upsp8.com.br/tvlogos/band.png" group-title="Canais | Band, SBT, Record",Band CE
+http://7up2.com:80/LuanSantosDELE/21974352885/7
+#EXTINF:-1 type="stream" tvg-id="Band MG HD²" tvg-logo="http://7upsp8.com.br/tvlogos/band.png" group-title="Canais | Band, SBT, Record",Band MG HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/10
+#EXTINF:-1 type="stream" tvg-id="Band News FHD" tvg-logo="http://7upsp8.com.br/tvlogos/bandnews.png" group-title="Canais | Jornalismo",Band News FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/315
+#EXTINF:-1 type="stream" tvg-id="Band News FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/bandnews.png" group-title="Canais | Jornalismo",Band News FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/318
+#EXTINF:-1 type="stream" tvg-id="Band News HD" tvg-logo="http://7upsp8.com.br/tvlogos/bandnews.png" group-title="Canais | Jornalismo",Band News HD
+http://7up2.com:80/LuanSantosDELE/21974352885/316
+#EXTINF:-1 type="stream" tvg-id="Band News HD²" tvg-logo="http://7upsp8.com.br/tvlogos/bandnews.png" group-title="Canais | Jornalismo",Band News HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/317
+#EXTINF:-1 type="stream" tvg-id="Band Pará" tvg-logo="http://7upsp8.com.br/tvlogos/band.png" group-title="Canais | Band, SBT, Record",Band Pará
+http://7up2.com:80/LuanSantosDELE/21974352885/11
+#EXTINF:-1 type="stream" tvg-id="Band RJ FHD" tvg-logo="http://7upsp8.com.br/tvlogos/band.png" group-title="Canais | Band, SBT, Record",Band RJ FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/9
+#EXTINF:-1 type="stream" tvg-id="Band RJ HD" tvg-logo="http://7upsp8.com.br/tvlogos/band.png" group-title="Canais | Band, SBT, Record",Band RJ HD
+http://7up2.com:80/LuanSantosDELE/21974352885/13
+#EXTINF:-1 type="stream" tvg-id="Band RS HD" tvg-logo="http://7upsp8.com.br/tvlogos/band.png" group-title="Canais | Band, SBT, Record",Band RS HD
+http://7up2.com:80/LuanSantosDELE/21974352885/14
+#EXTINF:-1 type="stream" tvg-id="Band SP FHD" tvg-logo="http://7upsp8.com.br/tvlogos/band.png" group-title="Canais | Band, SBT, Record",Band SP FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/8
+#EXTINF:-1 type="stream" tvg-id="Band SP FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/band.png" group-title="Canais | Band, SBT, Record",Band SP FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/17
+#EXTINF:-1 type="stream" tvg-id="Band SP HD" tvg-logo="http://7upsp8.com.br/tvlogos/band.png" group-title="Canais | Band, SBT, Record",Band SP HD
+http://7up2.com:80/LuanSantosDELE/21974352885/18
+#EXTINF:-1 type="stream" tvg-id="Band SP HD²" tvg-logo="http://7upsp8.com.br/tvlogos/band.png" group-title="Canais | Band, SBT, Record",Band SP HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/15
+#EXTINF:-1 type="stream" tvg-id="Band Sports FHD" tvg-logo="http://7upsp8.com.br/tvlogos/bandsports.png" group-title="Canais | Esportes",Band Sports FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/567
+#EXTINF:-1 type="stream" tvg-id="Band Sports FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/bandsports.png" group-title="Canais | Esportes",Band Sports FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/80627
+#EXTINF:-1 type="stream" tvg-id="Band Sports HD" tvg-logo="http://7upsp8.com.br/tvlogos/bandsports.png" group-title="Canais | Esportes",Band Sports HD
+http://7up2.com:80/LuanSantosDELE/21974352885/568
+#EXTINF:-1 type="stream" tvg-id="Band Sports HD²" tvg-logo="http://7upsp8.com.br/tvlogos/bandsports.png" group-title="Canais | Esportes",Band Sports HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/80628
+#EXTINF:-1 type="stream" tvg-id="BBB26  Mosaico" tvg-logo="http://7upsp8.com.br/tvlogos/BBB.png" group-title="Canais | Reality Show",BBB26  Mosaico
+http://7up2.com:80/LuanSantosDELE/21974352885/1673585
+#EXTINF:-1 type="stream" tvg-id="BBB26 Academia" tvg-logo="http://7upsp8.com.br/tvlogos/BBB.png" group-title="Canais | Reality Show",BBB26 Academia
+http://7up2.com:80/LuanSantosDELE/21974352885/1673584
+#EXTINF:-1 type="stream" tvg-id="BBB26 Acompanhe 01" tvg-logo="http://7upsp8.com.br/tvlogos/BBB.png" group-title="Canais | Reality Show",BBB26 Acompanhe 01
+http://7up2.com:80/LuanSantosDELE/21974352885/1673574
+#EXTINF:-1 type="stream" tvg-id="BBB26 Acompanhe 02" tvg-logo="http://7upsp8.com.br/tvlogos/BBB.png" group-title="Canais | Reality Show",BBB26 Acompanhe 02
+http://7up2.com:80/LuanSantosDELE/21974352885/1673575
+#EXTINF:-1 type="stream" tvg-id="BBB26 Banheiro" tvg-logo="http://7upsp8.com.br/tvlogos/BBB.png" group-title="Canais | Reality Show",BBB26 Banheiro
+http://7up2.com:80/LuanSantosDELE/21974352885/1673581
+#EXTINF:-1 type="stream" tvg-id="BBB26 Cozinha 01" tvg-logo="http://7upsp8.com.br/tvlogos/BBB.png" group-title="Canais | Reality Show",BBB26 Cozinha 01
+http://7up2.com:80/LuanSantosDELE/21974352885/1673577
+#EXTINF:-1 type="stream" tvg-id="BBB26 Cozinha 02" tvg-logo="http://7upsp8.com.br/tvlogos/BBB.png" group-title="Canais | Reality Show",BBB26 Cozinha 02
+http://7up2.com:80/LuanSantosDELE/21974352885/1673580
+#EXTINF:-1 type="stream" tvg-id="BBB26 Piscina" tvg-logo="http://7upsp8.com.br/tvlogos/BBB.png" group-title="Canais | Reality Show",BBB26 Piscina
+http://7up2.com:80/LuanSantosDELE/21974352885/1673583
+#EXTINF:-1 type="stream" tvg-id="BBB26 Quarto Sonho Eternidade" tvg-logo="http://7upsp8.com.br/tvlogos/BBB.png" group-title="Canais | Reality Show",BBB26 Quarto Sonho Eternidade
+http://7up2.com:80/LuanSantosDELE/21974352885/1673576
+#EXTINF:-1 type="stream" tvg-id="BBB26 Quarto Sonho Grande Amor" tvg-logo="http://7upsp8.com.br/tvlogos/BBB.png" group-title="Canais | Reality Show",BBB26 Quarto Sonho Grande Amor
+http://7up2.com:80/LuanSantosDELE/21974352885/1673579
+#EXTINF:-1 type="stream" tvg-id="BBB26 Quarto Sonho Voar" tvg-logo="http://7upsp8.com.br/tvlogos/BBB.png" group-title="Canais | Reality Show",BBB26 Quarto Sonho Voar
+http://7up2.com:80/LuanSantosDELE/21974352885/1673578
+#EXTINF:-1 type="stream" tvg-id="BBB26 Sala Sonho Milionário" tvg-logo="http://7upsp8.com.br/tvlogos/BBB.png" group-title="Canais | Reality Show",BBB26 Sala Sonho Milionário
+http://7up2.com:80/LuanSantosDELE/21974352885/1673582
+#EXTINF:-1 type="stream" tvg-id="BIS FHD" tvg-logo="http://7upsp8.com.br/tvlogos/bis.png" group-title="Canais | Variedades",BIS FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/230
+#EXTINF:-1 type="stream" tvg-id="BIS HD" tvg-logo="http://7upsp8.com.br/tvlogos/bis.png" group-title="Canais | Variedades",BIS HD
+http://7up2.com:80/LuanSantosDELE/21974352885/231
+#EXTINF:-1 type="stream" tvg-id="BIS SD" tvg-logo="http://7upsp8.com.br/tvlogos/bis.png" group-title="Canais | Variedades",BIS SD
+http://7up2.com:80/LuanSantosDELE/21974352885/232
+#EXTINF:-1 type="stream" tvg-id="Bloomberg FHD" tvg-logo="http://7upsp8.com.br/tvlogos/bloomberg.png" group-title="Canais | Jornalismo",Bloomberg FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/329
+#EXTINF:-1 type="stream" tvg-id="Boa Vontade TV FHD" tvg-logo="http://7upsp8.com.br/tvlogos/boavontade.png" group-title="Canais | Religiosos",Boa Vontade TV FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/682
+#EXTINF:-1 type="stream" tvg-id="Boas Novas" tvg-logo="http://7upsp8.com.br/tvlogos/boasnovas.png" group-title="Canais | Religiosos",Boas Novas
+http://7up2.com:80/LuanSantosDELE/21974352885/684
+#EXTINF:-1 type="stream" tvg-id="Cabo Frio TV" tvg-logo="https://i.imgur.com/u0g3u10.png" group-title="Canais | Abertos",Cabo Frio TV
+http://7up2.com:80/LuanSantosDELE/21974352885/655
+#EXTINF:-1 type="stream" tvg-id="Canal Brasil FHD" tvg-logo="http://7upsp8.com.br/tvlogos/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/436
+#EXTINF:-1 type="stream" tvg-id="Canal Brasil HD" tvg-logo="http://7upsp8.com.br/tvlogos/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil HD
+http://7up2.com:80/LuanSantosDELE/21974352885/437
+#EXTINF:-1 type="stream" tvg-id="Canal Brasil HD²" tvg-logo="http://7upsp8.com.br/tvlogos/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/438
+#EXTINF:-1 type="stream" tvg-id="Canal do Boi FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/canaldoboi.png" group-title="Canais | Abertos",Canal do Boi FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/19
+#EXTINF:-1 type="stream" tvg-id="Canal GOAT 01" tvg-logo="http://7upsp8.com.br/tvlogos/goat.png" group-title="Canais | Esportes PPV",Canal GOAT 01
+http://7up2.com:80/LuanSantosDELE/21974352885/24033
+#EXTINF:-1 type="stream" tvg-id="Canal GOAT 02" tvg-logo="http://7upsp8.com.br/tvlogos/goat.png" group-title="Canais | Esportes PPV",Canal GOAT 02
+http://7up2.com:80/LuanSantosDELE/21974352885/323
+#EXTINF:-1 type="stream" tvg-id="Canal GOV" tvg-logo="https://i.imgur.com/ZSpOHuu.png" group-title="Canais | Abertos",Canal GOV
+http://7up2.com:80/LuanSantosDELE/21974352885/468300
+#EXTINF:-1 type="stream" tvg-id="Canal Rural" tvg-logo="http://7upsp8.com.br/tvlogos/canalrural.png" group-title="Canais | Abertos",Canal Rural
+http://7up2.com:80/LuanSantosDELE/21974352885/20
+#EXTINF:-1 type="stream" tvg-id="Canal Saúde" tvg-logo="https://i.imgur.com/n4czauJ.png" group-title="Canais | Abertos",Canal Saúde
+http://7up2.com:80/LuanSantosDELE/21974352885/656
+#EXTINF:-1 type="stream" tvg-id="Canal Zapping 01" tvg-logo="https://telaviva.com.br/wp-content/uploads/2023/08/Zapping.png" group-title="Canais | Esportes PPV",Canal Zapping 01
+http://7up2.com:80/LuanSantosDELE/21974352885/663
+#EXTINF:-1 type="stream" tvg-id="Canal Zapping 02" tvg-logo="https://telaviva.com.br/wp-content/uploads/2023/08/Zapping.png" group-title="Canais | Esportes PPV",Canal Zapping 02
+http://7up2.com:80/LuanSantosDELE/21974352885/666
+#EXTINF:-1 type="stream" tvg-id="Canção Nova FHD" tvg-logo="http://7upsp8.com.br/tvlogos/cancaonova.png" group-title="Canais | Religiosos",Canção Nova FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/686
+#EXTINF:-1 type="stream" tvg-id="Canção Nova HD" tvg-logo="http://7upsp8.com.br/tvlogos/cancaonova.png" group-title="Canais | Religiosos",Canção Nova HD
+http://7up2.com:80/LuanSantosDELE/21974352885/685
+#EXTINF:-1 type="stream" tvg-id="Canção Nova HD²" tvg-logo="http://7upsp8.com.br/tvlogos/cancaonova.png" group-title="Canais | Religiosos",Canção Nova HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/74591
+#EXTINF:-1 type="stream" tvg-id="Cartoon Network FHD" tvg-logo="http://7upsp8.com.br/tvlogos/cartoonnetwork.png" group-title="Canais | Infantis",Cartoon Network FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/381
+#EXTINF:-1 type="stream" tvg-id="Cartoon Network FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/cartoonnetwork.png" group-title="Canais | Infantis",Cartoon Network FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/406
+#EXTINF:-1 type="stream" tvg-id="Cartoon Network HD" tvg-logo="http://7upsp8.com.br/tvlogos/cartoonnetwork.png" group-title="Canais | Infantis",Cartoon Network HD
+http://7up2.com:80/LuanSantosDELE/21974352885/382
+#EXTINF:-1 type="stream" tvg-id="Cartoon Network HD²" tvg-logo="http://7upsp8.com.br/tvlogos/cartoonnetwork.png" group-title="Canais | Infantis",Cartoon Network HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/383
+#EXTINF:-1 type="stream" tvg-id="Cartoonito FHD" tvg-logo="http://7upsp8.com.br/tvlogos/cartoonito.png" group-title="Canais | Infantis",Cartoonito FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/385
+#EXTINF:-1 type="stream" tvg-id="Cartoonito FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/cartoonito.png" group-title="Canais | Infantis",Cartoonito FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/384
+#EXTINF:-1 type="stream" tvg-id="Cartoonito HD" tvg-logo="http://7upsp8.com.br/tvlogos/cartoonito.png" group-title="Canais | Infantis",Cartoonito HD
+http://7up2.com:80/LuanSantosDELE/21974352885/386
+#EXTINF:-1 type="stream" tvg-id="Cartoonito HD²" tvg-logo="http://7upsp8.com.br/tvlogos/cartoonito.png" group-title="Canais | Infantis",Cartoonito HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/387
+#EXTINF:-1 type="stream" tvg-id="CATVE" tvg-logo="http://7upsp8.com.br/tvlogos/Catve.png" group-title="Canais | Variedades",CATVE
+http://7up2.com:80/LuanSantosDELE/21974352885/233
+#EXTINF:-1 type="stream" tvg-id="Cazé TV 01" tvg-logo="http://7upsp8.com.br/tvlogos/cazetv.png" group-title="Canais | Esportes PPV",Cazé TV 01
+http://7up2.com:80/LuanSantosDELE/21974352885/502
+#EXTINF:-1 type="stream" tvg-id="Cazé TV 02" tvg-logo="http://7upsp8.com.br/tvlogos/cazetv.png" group-title="Canais | Esportes PPV",Cazé TV 02
+http://7up2.com:80/LuanSantosDELE/21974352885/275930
+#EXTINF:-1 type="stream" tvg-id="Cazé TV 03" tvg-logo="http://7upsp8.com.br/tvlogos/cazetv.png" group-title="Canais | Esportes PPV",Cazé TV 03
+http://7up2.com:80/LuanSantosDELE/21974352885/87153
+#EXTINF:-1 type="stream" tvg-id="Cazé TV 04" tvg-logo="http://7upsp8.com.br/tvlogos/cazetv.png" group-title="Canais | Esportes PPV",Cazé TV 04
+http://7up2.com:80/LuanSantosDELE/21974352885/87152
+#EXTINF:-1 type="stream" tvg-id="Cine Ação" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Cine Ação
+http://7up2.com:80/LuanSantosDELE/21974352885/419
+#EXTINF:-1 type="stream" tvg-id="Cine Comédia" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Cine Comédia
+http://7up2.com:80/LuanSantosDELE/21974352885/422
+#EXTINF:-1 type="stream" tvg-id="Cine Crime" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Cine Crime
+http://7up2.com:80/LuanSantosDELE/21974352885/420
+#EXTINF:-1 type="stream" tvg-id="Cine Espanto" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Cine Espanto
+http://7up2.com:80/LuanSantosDELE/21974352885/297
+#EXTINF:-1 type="stream" tvg-id="Cine Família" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Cine Família
+http://7up2.com:80/LuanSantosDELE/21974352885/417
+#EXTINF:-1 type="stream" tvg-id="Cine Faroeste" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Cine Faroeste
+http://7up2.com:80/LuanSantosDELE/21974352885/418
+#EXTINF:-1 type="stream" tvg-id="Cine Filmes Variados" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Cine Filmes Variados
+http://7up2.com:80/LuanSantosDELE/21974352885/425
+#EXTINF:-1 type="stream" tvg-id="Cine Movie Sphere" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Cine Movie Sphere
+http://7up2.com:80/LuanSantosDELE/21974352885/94
+#EXTINF:-1 type="stream" tvg-id="Cine Romance" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Cine Romance
+http://7up2.com:80/LuanSantosDELE/21974352885/423
+#EXTINF:-1 type="stream" tvg-id="Cine Sky 01" tvg-logo="http://7upsp8.com.br/tvlogos/cinesky.png" group-title="Canais | Cinema 24 HRS",Cine Sky 01
+http://7up2.com:80/LuanSantosDELE/21974352885/35673
+#EXTINF:-1 type="stream" tvg-id="Cine Sky 02" tvg-logo="http://7upsp8.com.br/tvlogos/cinesky.png" group-title="Canais | Cinema 24 HRS",Cine Sky 02
+http://7up2.com:80/LuanSantosDELE/21974352885/458
+#EXTINF:-1 type="stream" tvg-id="Cine ToonGoggles" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Cine ToonGoggles
+http://7up2.com:80/LuanSantosDELE/21974352885/234
+#EXTINF:-1 type="stream" tvg-id="Cinemax FHD" tvg-logo="http://7upsp8.com.br/tvlogos/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/434
+#EXTINF:-1 type="stream" tvg-id="Cinemax FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/442
+#EXTINF:-1 type="stream" tvg-id="Cinemax HD" tvg-logo="http://7upsp8.com.br/tvlogos/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax HD
+http://7up2.com:80/LuanSantosDELE/21974352885/443
+#EXTINF:-1 type="stream" tvg-id="Cinemax HD²" tvg-logo="http://7upsp8.com.br/tvlogos/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/444
+#EXTINF:-1 type="stream" tvg-id="Classic TV 01" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Classic TV 01
+http://7up2.com:80/LuanSantosDELE/21974352885/30
+#EXTINF:-1 type="stream" tvg-id="Classic TV 02" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Classic TV 02
+http://7up2.com:80/LuanSantosDELE/21974352885/153
+#EXTINF:-1 type="stream" tvg-id="Classic TV Séries" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Classic TV Séries
+http://7up2.com:80/LuanSantosDELE/21974352885/150
+#EXTINF:-1 type="stream" tvg-id="CNN Brasil FHD" tvg-logo="http://7upsp8.com.br/tvlogos/cnn.png" group-title="Canais | Jornalismo",CNN Brasil FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/320
+#EXTINF:-1 type="stream" tvg-id="CNN Brasil FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/cnn.png" group-title="Canais | Jornalismo",CNN Brasil FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/332
+#EXTINF:-1 type="stream" tvg-id="CNN Brasil HD" tvg-logo="http://7upsp8.com.br/tvlogos/cnn.png" group-title="Canais | Jornalismo",CNN Brasil HD
+http://7up2.com:80/LuanSantosDELE/21974352885/321
+#EXTINF:-1 type="stream" tvg-id="CNN Brasil HD²" tvg-logo="http://7upsp8.com.br/tvlogos/cnn.png" group-title="Canais | Jornalismo",CNN Brasil HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/322
+#EXTINF:-1 type="stream" tvg-id="CNN Espanhol HD" tvg-logo="http://7upsp8.com.br/tvlogos/cnn.png" group-title="Canais | Jornalismo",CNN Espanhol HD
+http://7up2.com:80/LuanSantosDELE/21974352885/325
+#EXTINF:-1 type="stream" tvg-id="CNN Internacional FHD" tvg-logo="http://7upsp8.com.br/tvlogos/cnn.png" group-title="Canais | Jornalismo",CNN Internacional FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/326
+#EXTINF:-1 type="stream" tvg-id="CNN Internacional HD" tvg-logo="http://7upsp8.com.br/tvlogos/cnn.png" group-title="Canais | Jornalismo",CNN Internacional HD
+http://7up2.com:80/LuanSantosDELE/21974352885/327
+#EXTINF:-1 type="stream" tvg-id="CNT HD" tvg-logo="https://i.imgur.com/GJ9fNPj.png" group-title="Canais | Religiosos",CNT HD
+http://7up2.com:80/LuanSantosDELE/21974352885/687
+#EXTINF:-1 type="stream" tvg-id="COM Brasil TV" tvg-logo="http://7upsp8.com.br/tvlogos/combrasil.png" group-title="Canais | Abertos",COM Brasil TV
+http://7up2.com:80/LuanSantosDELE/21974352885/24
+#EXTINF:-1 type="stream" tvg-id="Combate FHD" tvg-logo="http://7upsp8.com.br/tvlogos/combate.png" group-title="Canais | Esportes",Combate FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/570
+#EXTINF:-1 type="stream" tvg-id="Combate FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/combate.png" group-title="Canais | Esportes",Combate FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/605
+#EXTINF:-1 type="stream" tvg-id="Combate HD" tvg-logo="http://7upsp8.com.br/tvlogos/combate.png" group-title="Canais | Esportes",Combate HD
+http://7up2.com:80/LuanSantosDELE/21974352885/571
+#EXTINF:-1 type="stream" tvg-id="Combate HD²" tvg-logo="http://7upsp8.com.br/tvlogos/combate.png" group-title="Canais | Esportes",Combate HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/56995
+#EXTINF:-1 type="stream" tvg-id="Combate SD" tvg-logo="http://7upsp8.com.br/tvlogos/combate.png" group-title="Canais | Esportes",Combate SD
+http://7up2.com:80/LuanSantosDELE/21974352885/572
+#EXTINF:-1 type="stream" tvg-id="Curta! FHD" tvg-logo="http://7upsp8.com.br/tvlogos/curta_.png" group-title="Canais | Variedades",Curta! FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/238
+#EXTINF:-1 type="stream" tvg-id="Curta! HD" tvg-logo="http://7upsp8.com.br/tvlogos/curta_.png" group-title="Canais | Variedades",Curta! HD
+http://7up2.com:80/LuanSantosDELE/21974352885/239
+#EXTINF:-1 type="stream" tvg-id="Curta! SD" tvg-logo="http://7upsp8.com.br/tvlogos/curta_.png" group-title="Canais | Variedades",Curta! SD
+http://7up2.com:80/LuanSantosDELE/21974352885/240
+#EXTINF:-1 type="stream" tvg-id="DAZN 02" tvg-logo="http://7upsp8.com.br/tvlogos/dazn.png" group-title="Canais | Esportes PPV",DAZN 02
+http://7up2.com:80/LuanSantosDELE/21974352885/139
+#EXTINF:-1 type="stream" tvg-id="DAZN 04" tvg-logo="http://7upsp8.com.br/tvlogos/dazn.png" group-title="Canais | Esportes PPV",DAZN 04
+http://7up2.com:80/LuanSantosDELE/21974352885/600
+#EXTINF:-1 type="stream" tvg-id="DAZN 05" tvg-logo="http://7upsp8.com.br/tvlogos/dazn.png" group-title="Canais | Esportes PPV",DAZN 05
+http://7up2.com:80/LuanSantosDELE/21974352885/147
+#EXTINF:-1 type="stream" tvg-id="Discovery Channel FHD" tvg-logo="http://7upsp8.com.br/tvlogos/discoverychannel.png" group-title="Canais | Cultura e Documentário",Discovery Channel FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/348
+#EXTINF:-1 type="stream" tvg-id="Discovery Channel FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/discoverychannel.png" group-title="Canais | Cultura e Documentário",Discovery Channel FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/38620
+#EXTINF:-1 type="stream" tvg-id="Discovery Channel HD" tvg-logo="http://7upsp8.com.br/tvlogos/discoverychannel.png" group-title="Canais | Cultura e Documentário",Discovery Channel HD
+http://7up2.com:80/LuanSantosDELE/21974352885/349
+#EXTINF:-1 type="stream" tvg-id="Discovery Channel HD²" tvg-logo="http://7upsp8.com.br/tvlogos/discoverychannel.png" group-title="Canais | Cultura e Documentário",Discovery Channel HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/350
+#EXTINF:-1 type="stream" tvg-id="Discovery H&H FHD" tvg-logo="http://7upsp8.com.br/tvlogos/discoveryheh.png" group-title="Canais | Cultura e Documentário",Discovery H&H FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/351
+#EXTINF:-1 type="stream" tvg-id="Discovery H&H FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/discoveryheh.png" group-title="Canais | Cultura e Documentário",Discovery H&H FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/37288
+#EXTINF:-1 type="stream" tvg-id="Discovery H&H HD" tvg-logo="http://7upsp8.com.br/tvlogos/discoveryheh.png" group-title="Canais | Cultura e Documentário",Discovery H&H HD
+http://7up2.com:80/LuanSantosDELE/21974352885/352
+#EXTINF:-1 type="stream" tvg-id="Discovery H&H HD²" tvg-logo="http://7upsp8.com.br/tvlogos/discoveryheh.png" group-title="Canais | Cultura e Documentário",Discovery H&H HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/263
+#EXTINF:-1 type="stream" tvg-id="Discovery ID FHD" tvg-logo="http://7upsp8.com.br/tvlogos/idinvestigationdiscovery.png" group-title="Canais | Cultura e Documentário",Discovery ID FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/357
+#EXTINF:-1 type="stream" tvg-id="Discovery ID FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/idinvestigationdiscovery.png" group-title="Canais | Cultura e Documentário",Discovery ID FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/38621
+#EXTINF:-1 type="stream" tvg-id="Discovery ID HD" tvg-logo="http://7upsp8.com.br/tvlogos/idinvestigationdiscovery.png" group-title="Canais | Cultura e Documentário",Discovery ID HD
+http://7up2.com:80/LuanSantosDELE/21974352885/358
+#EXTINF:-1 type="stream" tvg-id="Discovery ID HD²" tvg-logo="http://7upsp8.com.br/tvlogos/idinvestigationdiscovery.png" group-title="Canais | Cultura e Documentário",Discovery ID HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/359
+#EXTINF:-1 type="stream" tvg-id="Discovery Kids FHD" tvg-logo="http://7upsp8.com.br/tvlogos/discoverykids.png" group-title="Canais | Infantis",Discovery Kids FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/388
+#EXTINF:-1 type="stream" tvg-id="Discovery Kids HD" tvg-logo="http://7upsp8.com.br/tvlogos/discoverykids.png" group-title="Canais | Infantis",Discovery Kids HD
+http://7up2.com:80/LuanSantosDELE/21974352885/389
+#EXTINF:-1 type="stream" tvg-id="Discovery Kids HD²" tvg-logo="http://7upsp8.com.br/tvlogos/discoverykids.png" group-title="Canais | Infantis",Discovery Kids HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/390
+#EXTINF:-1 type="stream" tvg-id="Discovery Science FHD" tvg-logo="http://7upsp8.com.br/tvlogos/discoverysciencesci.png" group-title="Canais | Cultura e Documentário",Discovery Science FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/360
+#EXTINF:-1 type="stream" tvg-id="Discovery Science FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/discoverysciencesci.png" group-title="Canais | Cultura e Documentário",Discovery Science FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/81632
+#EXTINF:-1 type="stream" tvg-id="Discovery Science HD" tvg-logo="http://7upsp8.com.br/tvlogos/discoverysciencesci.png" group-title="Canais | Cultura e Documentário",Discovery Science HD
+http://7up2.com:80/LuanSantosDELE/21974352885/361
+#EXTINF:-1 type="stream" tvg-id="Discovery Science HD²" tvg-logo="http://7upsp8.com.br/tvlogos/discoverysciencesci.png" group-title="Canais | Cultura e Documentário",Discovery Science HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/362
+#EXTINF:-1 type="stream" tvg-id="Discovery Theater FHD" tvg-logo="http://7upsp8.com.br/tvlogos/discoverytheater.png" group-title="Canais | Cultura e Documentário",Discovery Theater FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/363
+#EXTINF:-1 type="stream" tvg-id="Discovery Theater FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/discoverytheater.png" group-title="Canais | Cultura e Documentário",Discovery Theater FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/81633
+#EXTINF:-1 type="stream" tvg-id="Discovery Theater HD" tvg-logo="http://7upsp8.com.br/tvlogos/discoverytheater.png" group-title="Canais | Cultura e Documentário",Discovery Theater HD
+http://7up2.com:80/LuanSantosDELE/21974352885/364
+#EXTINF:-1 type="stream" tvg-id="Discovery Theater HD²" tvg-logo="http://7upsp8.com.br/tvlogos/discoverytheater.png" group-title="Canais | Cultura e Documentário",Discovery Theater HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/365
+#EXTINF:-1 type="stream" tvg-id="Discovery TLC FHD" tvg-logo="http://7upsp8.com.br/tvlogos/tlc.png" group-title="Canais | Cultura e Documentário",Discovery TLC FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/481
+#EXTINF:-1 type="stream" tvg-id="Discovery TLC FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/tlc.png" group-title="Canais | Cultura e Documentário",Discovery TLC FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/81638
+#EXTINF:-1 type="stream" tvg-id="Discovery TLC HD" tvg-logo="http://7upsp8.com.br/tvlogos/tlc.png" group-title="Canais | Cultura e Documentário",Discovery TLC HD
+http://7up2.com:80/LuanSantosDELE/21974352885/482
+#EXTINF:-1 type="stream" tvg-id="Discovery TLC HD²" tvg-logo="http://7upsp8.com.br/tvlogos/tlc.png" group-title="Canais | Cultura e Documentário",Discovery TLC HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/483
+#EXTINF:-1 type="stream" tvg-id="Discovery Turbo FHD" tvg-logo="http://7upsp8.com.br/tvlogos/discoveryturbo.png" group-title="Canais | Cultura e Documentário",Discovery Turbo FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/354
+#EXTINF:-1 type="stream" tvg-id="Discovery Turbo FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/discoveryturbo.png" group-title="Canais | Cultura e Documentário",Discovery Turbo FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/81631
+#EXTINF:-1 type="stream" tvg-id="Discovery Turbo HD" tvg-logo="http://7upsp8.com.br/tvlogos/discoveryturbo.png" group-title="Canais | Cultura e Documentário",Discovery Turbo HD
+http://7up2.com:80/LuanSantosDELE/21974352885/355
+#EXTINF:-1 type="stream" tvg-id="Discovery Turbo HD²" tvg-logo="http://7upsp8.com.br/tvlogos/discoveryturbo.png" group-title="Canais | Cultura e Documentário",Discovery Turbo HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/356
+#EXTINF:-1 type="stream" tvg-id="Discovery World FHD" tvg-logo="http://7upsp8.com.br/tvlogos/discoveryworld.png" group-title="Canais | Cultura e Documentário",Discovery World FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/366
+#EXTINF:-1 type="stream" tvg-id="Discovery World FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/discoveryworld.png" group-title="Canais | Cultura e Documentário",Discovery World FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/81637
+#EXTINF:-1 type="stream" tvg-id="Discovery World HD" tvg-logo="http://7upsp8.com.br/tvlogos/discoveryworld.png" group-title="Canais | Cultura e Documentário",Discovery World HD
+http://7up2.com:80/LuanSantosDELE/21974352885/367
+#EXTINF:-1 type="stream" tvg-id="Discovery World HD²" tvg-logo="http://7upsp8.com.br/tvlogos/discoveryworld.png" group-title="Canais | Cultura e Documentário",Discovery World HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/368
+#EXTINF:-1 type="stream" tvg-id="Disney+ 1 " tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 1 
+http://7up2.com:80/LuanSantosDELE/21974352885/637
+#EXTINF:-1 type="stream" tvg-id="Disney+ 1 ²" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 1 ²
+http://7up2.com:80/LuanSantosDELE/21974352885/668
+#EXTINF:-1 type="stream" tvg-id="Disney+ 2" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 2
+http://7up2.com:80/LuanSantosDELE/21974352885/638
+#EXTINF:-1 type="stream" tvg-id="Disney+ 2 ²" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 2 ²
+http://7up2.com:80/LuanSantosDELE/21974352885/669
+#EXTINF:-1 type="stream" tvg-id="Disney+ 3 " tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 3 
+http://7up2.com:80/LuanSantosDELE/21974352885/639
+#EXTINF:-1 type="stream" tvg-id="Disney+ 3 ²" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 3 ²
+http://7up2.com:80/LuanSantosDELE/21974352885/670
+#EXTINF:-1 type="stream" tvg-id="Disney+ 4" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 4
+http://7up2.com:80/LuanSantosDELE/21974352885/640
+#EXTINF:-1 type="stream" tvg-id="Disney+ 4 ²" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 4 ²
+http://7up2.com:80/LuanSantosDELE/21974352885/671
+#EXTINF:-1 type="stream" tvg-id="Disney+ 5" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 5
+http://7up2.com:80/LuanSantosDELE/21974352885/672
+#EXTINF:-1 type="stream" tvg-id="Disney+ 6" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 6
+http://7up2.com:80/LuanSantosDELE/21974352885/673
+#EXTINF:-1 type="stream" tvg-id="Dog TV FHD" tvg-logo="http://7upsp8.com.br/tvlogos/dogtv.png" group-title="Canais | Variedades",Dog TV FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/242
+#EXTINF:-1 type="stream" tvg-id="E! FHD" tvg-logo="https://i.imgur.com/2O3afLq.png" group-title="Canais | Variedades",E! FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/243
+#EXTINF:-1 type="stream" tvg-id="E! HD" tvg-logo="https://i.imgur.com/2O3afLq.png" group-title="Canais | Variedades",E! HD
+http://7up2.com:80/LuanSantosDELE/21974352885/244
+#EXTINF:-1 type="stream" tvg-id="E! SD" tvg-logo="https://i.imgur.com/2O3afLq.png" group-title="Canais | Variedades",E! SD
+http://7up2.com:80/LuanSantosDELE/21974352885/245
+#EXTINF:-1 type="stream" tvg-id="ESPN 1 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/espn1.png" group-title="Canais | Esportes",ESPN 1 FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/585
+#EXTINF:-1 type="stream" tvg-id="ESPN 1 FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/espn1.png" group-title="Canais | Esportes",ESPN 1 FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/32550
+#EXTINF:-1 type="stream" tvg-id="ESPN 1 HD" tvg-logo="http://7upsp8.com.br/tvlogos/espn1.png" group-title="Canais | Esportes",ESPN 1 HD
+http://7up2.com:80/LuanSantosDELE/21974352885/586
+#EXTINF:-1 type="stream" tvg-id="ESPN 1 HD²" tvg-logo="http://7upsp8.com.br/tvlogos/espn1.png" group-title="Canais | Esportes",ESPN 1 HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/47496
+#EXTINF:-1 type="stream" tvg-id="ESPN 1 SD" tvg-logo="http://7upsp8.com.br/tvlogos/espn1.png" group-title="Canais | Esportes",ESPN 1 SD
+http://7up2.com:80/LuanSantosDELE/21974352885/587
+#EXTINF:-1 type="stream" tvg-id="ESPN 2 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/espn2.png" group-title="Canais | Esportes",ESPN 2 FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/573
+#EXTINF:-1 type="stream" tvg-id="ESPN 2 FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/espn2.png" group-title="Canais | Esportes",ESPN 2 FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/601194
+#EXTINF:-1 type="stream" tvg-id="ESPN 2 HD" tvg-logo="http://7upsp8.com.br/tvlogos/espn2.png" group-title="Canais | Esportes",ESPN 2 HD
+http://7up2.com:80/LuanSantosDELE/21974352885/574
+#EXTINF:-1 type="stream" tvg-id="ESPN 2 SD" tvg-logo="http://7upsp8.com.br/tvlogos/espn2.png" group-title="Canais | Esportes",ESPN 2 SD
+http://7up2.com:80/LuanSantosDELE/21974352885/575
+#EXTINF:-1 type="stream" tvg-id="ESPN 3 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/espn3.png" group-title="Canais | Esportes",ESPN 3 FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/576
+#EXTINF:-1 type="stream" tvg-id="ESPN 3 FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/espn3.png" group-title="Canais | Esportes",ESPN 3 FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/27
+#EXTINF:-1 type="stream" tvg-id="ESPN 3 HD" tvg-logo="http://7upsp8.com.br/tvlogos/espn3.png" group-title="Canais | Esportes",ESPN 3 HD
+http://7up2.com:80/LuanSantosDELE/21974352885/577
+#EXTINF:-1 type="stream" tvg-id="ESPN 3 SD" tvg-logo="http://7upsp8.com.br/tvlogos/espn3.png" group-title="Canais | Esportes",ESPN 3 SD
+http://7up2.com:80/LuanSantosDELE/21974352885/578
+#EXTINF:-1 type="stream" tvg-id="ESPN 4 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/espn4.png" group-title="Canais | Esportes",ESPN 4 FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/579
+#EXTINF:-1 type="stream" tvg-id="ESPN 4 FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/espn4.png" group-title="Canais | Esportes",ESPN 4 FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/462
+#EXTINF:-1 type="stream" tvg-id="ESPN 4 HD" tvg-logo="http://7upsp8.com.br/tvlogos/espn4.png" group-title="Canais | Esportes",ESPN 4 HD
+http://7up2.com:80/LuanSantosDELE/21974352885/580
+#EXTINF:-1 type="stream" tvg-id="ESPN 5 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/espn5.png" group-title="Canais | Esportes",ESPN 5 FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/592
+#EXTINF:-1 type="stream" tvg-id="ESPN 5 HD" tvg-logo="http://7upsp8.com.br/tvlogos/espn5.png" group-title="Canais | Esportes",ESPN 5 HD
+http://7up2.com:80/LuanSantosDELE/21974352885/593
+#EXTINF:-1 type="stream" tvg-id="ESPN 5 SD" tvg-logo="http://7upsp8.com.br/tvlogos/espn5.png" group-title="Canais | Esportes",ESPN 5 SD
+http://7up2.com:80/LuanSantosDELE/21974352885/594
+#EXTINF:-1 type="stream" tvg-id="ESPN 6 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/espn6.png" group-title="Canais | Esportes",ESPN 6 FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/582
+#EXTINF:-1 type="stream" tvg-id="ESPN 6 HD" tvg-logo="http://7upsp8.com.br/tvlogos/espn6.png" group-title="Canais | Esportes",ESPN 6 HD
+http://7up2.com:80/LuanSantosDELE/21974352885/583
+#EXTINF:-1 type="stream" tvg-id="ESPN 6 SD" tvg-logo="http://7upsp8.com.br/tvlogos/espn6.png" group-title="Canais | Esportes",ESPN 6 SD
+http://7up2.com:80/LuanSantosDELE/21974352885/584
+#EXTINF:-1 type="stream" tvg-id="Eventos Extras PPV" tvg-logo="http://7upsp8.com.br/tvlogos/eventoextra.png" group-title="Canais | Esportes PPV",Eventos Extras PPV
+http://7up2.com:80/LuanSantosDELE/21974352885/87156
+#EXTINF:-1 type="stream" tvg-id="Eventos Extras PPV²" tvg-logo="http://7upsp8.com.br/tvlogos/eventoextra.png" group-title="Canais | Esportes PPV",Eventos Extras PPV²
+http://7up2.com:80/LuanSantosDELE/21974352885/512
+#EXTINF:-1 type="stream" tvg-id="Fashion TV FHD" tvg-logo="http://7upsp8.com.br/tvlogos/fashiontv.png" group-title="Canais | Variedades",Fashion TV FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/246
+#EXTINF:-1 type="stream" tvg-id="Film & Arts FHD" tvg-logo="http://7upsp8.com.br/tvlogos/filmarts.png" group-title="Canais | Filmes e Séries",Film & Arts FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/446
+#EXTINF:-1 type="stream" tvg-id="Film & Arts HD" tvg-logo="http://7upsp8.com.br/tvlogos/filmarts.png" group-title="Canais | Filmes e Séries",Film & Arts HD
+http://7up2.com:80/LuanSantosDELE/21974352885/447
+#EXTINF:-1 type="stream" tvg-id="Filmes e Séries" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Filmes e Séries
+http://7up2.com:80/LuanSantosDELE/21974352885/241
+#EXTINF:-1 type="stream" tvg-id="Filmes Variados 2" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Filmes Variados 2
+http://7up2.com:80/LuanSantosDELE/21974352885/306
+#EXTINF:-1 type="stream" tvg-id="Fish TV FHD" tvg-logo="http://7upsp8.com.br/tvlogos/fishtv.png" group-title="Canais | Esportes",Fish TV FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/588
+#EXTINF:-1 type="stream" tvg-id="Fish TV HD" tvg-logo="http://7upsp8.com.br/tvlogos/fishtv.png" group-title="Canais | Esportes",Fish TV HD
+http://7up2.com:80/LuanSantosDELE/21974352885/589
+#EXTINF:-1 type="stream" tvg-id="Fish TV SD" tvg-logo="http://7upsp8.com.br/tvlogos/fishtv.png" group-title="Canais | Esportes",Fish TV SD
+http://7up2.com:80/LuanSantosDELE/21974352885/590
+#EXTINF:-1 type="stream" tvg-id="Flograppling Eventos 01" tvg-logo="http://7upsp8.com.br/tvlogos/Flograppling.png" group-title="Canais | Esportes PPV",Flograppling Eventos 01
+http://7up2.com:80/LuanSantosDELE/21974352885/288
+#EXTINF:-1 type="stream" tvg-id="Flograppling Eventos 02" tvg-logo="http://7upsp8.com.br/tvlogos/Flograppling.png" group-title="Canais | Esportes PPV",Flograppling Eventos 02
+http://7up2.com:80/LuanSantosDELE/21974352885/391
+#EXTINF:-1 type="stream" tvg-id="Food Network FHD" tvg-logo="http://7upsp8.com.br/tvlogos/foodnetwork.png" group-title="Canais | Variedades",Food Network FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/247
+#EXTINF:-1 type="stream" tvg-id="Food Network FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/foodnetwork.png" group-title="Canais | Variedades",Food Network FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/249
+#EXTINF:-1 type="stream" tvg-id="Food Network HD" tvg-logo="http://7upsp8.com.br/tvlogos/foodnetwork.png" group-title="Canais | Variedades",Food Network HD
+http://7up2.com:80/LuanSantosDELE/21974352885/248
+#EXTINF:-1 type="stream" tvg-id="Fox News FHD" tvg-logo="http://7upsp8.com.br/tvlogos/foxnews.png" group-title="Canais | Jornalismo",Fox News FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/334
+#EXTINF:-1 type="stream" tvg-id="Fox News HD" tvg-logo="http://7upsp8.com.br/tvlogos/foxnews.png" group-title="Canais | Jornalismo",Fox News HD
+http://7up2.com:80/LuanSantosDELE/21974352885/336
+#EXTINF:-1 type="stream" tvg-id="Futura FHD" tvg-logo="http://7upsp8.com.br/tvlogos/futura.png" group-title="Canais | Abertos",Futura FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/25
+#EXTINF:-1 type="stream" tvg-id="Futura FHD" tvg-logo="http://7upsp8.com.br/tvlogos/futura.png" group-title="Canais | Abertos",Futura FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/26
+#EXTINF:-1 type="stream" tvg-id="Globo Boa Vista Roraima HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo Boa Vista Roraima HD
+http://7up2.com:80/LuanSantosDELE/21974352885/100
+#EXTINF:-1 type="stream" tvg-id="Globo Centro América FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo Centro América FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/101
+#EXTINF:-1 type="stream" tvg-id="Globo Centro América HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo Centro América HD
+http://7up2.com:80/LuanSantosDELE/21974352885/102
+#EXTINF:-1 type="stream" tvg-id="Globo Centro América HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo Centro América HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/103
+#EXTINF:-1 type="stream" tvg-id="Globo EPTV Campinas FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo EPTV Campinas FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/104
+#EXTINF:-1 type="stream" tvg-id="Globo EPTV Campinas HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo EPTV Campinas HD
+http://7up2.com:80/LuanSantosDELE/21974352885/105
+#EXTINF:-1 type="stream" tvg-id="Globo EPTV Campinas HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo EPTV Campinas HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/106
+#EXTINF:-1 type="stream" tvg-id="Globo EPTV Ribeirão Preto HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo EPTV Ribeirão Preto HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/107
+#EXTINF:-1 type="stream" tvg-id="Globo EPTV Sul de Minas FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo EPTV Sul de Minas FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/108
+#EXTINF:-1 type="stream" tvg-id="Globo EPTV Sul de Minas FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo EPTV Sul de Minas FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/76114
+#EXTINF:-1 type="stream" tvg-id="Globo EPTV Sul de Minas HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo EPTV Sul de Minas HD
+http://7up2.com:80/LuanSantosDELE/21974352885/109
+#EXTINF:-1 type="stream" tvg-id="Globo EPTV Sul de Minas HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo EPTV Sul de Minas HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/76115
+#EXTINF:-1 type="stream" tvg-id="Globo EPTV São Carlos FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo EPTV São Carlos FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/47488
+#EXTINF:-1 type="stream" tvg-id="Globo EPTV São Carlos HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo EPTV São Carlos HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/47486
+#EXTINF:-1 type="stream" tvg-id="Globo Globo TV Diário Mogi HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo Globo TV Diário Mogi HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/47494
+#EXTINF:-1 type="stream" tvg-id="Globo Integração Juiz de Fora FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo Integração Juiz de Fora FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/111
+#EXTINF:-1 type="stream" tvg-id="Globo Integração Juiz de Fora FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo Integração Juiz de Fora FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/38623
+#EXTINF:-1 type="stream" tvg-id="Globo Integração Juiz de Fora HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo Integração Juiz de Fora HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/72721
+#EXTINF:-1 type="stream" tvg-id="Globo Integração Uberaba HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo Integração Uberaba HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/215
+#EXTINF:-1 type="stream" tvg-id="Globo Inter TV Alto Litoral FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo Inter TV Alto Litoral FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/85955
+#EXTINF:-1 type="stream" tvg-id="Globo Inter TV Alto Litoral HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo Inter TV Alto Litoral HD
+http://7up2.com:80/LuanSantosDELE/21974352885/116
+#EXTINF:-1 type="stream" tvg-id="Globo Inter TV Alto Litoral HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo Inter TV Alto Litoral HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/85956
+#EXTINF:-1 type="stream" tvg-id="Globo Inter TV Cabugi FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo Inter TV Cabugi FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/113
+#EXTINF:-1 type="stream" tvg-id="Globo Inter TV Cabugi HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo Inter TV Cabugi HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/112
+#EXTINF:-1 type="stream" tvg-id="Globo Inter TV dos Vales FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo Inter TV dos Vales FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/117
+#EXTINF:-1 type="stream" tvg-id="Globo Inter TV dos Vales HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo Inter TV dos Vales HD
+http://7up2.com:80/LuanSantosDELE/21974352885/114
+#EXTINF:-1 type="stream" tvg-id="Globo Inter TV Grande Minas FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo Inter TV Grande Minas FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/118
+#EXTINF:-1 type="stream" tvg-id="Globo Inter TV Grande Minas HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo Inter TV Grande Minas HD
+http://7up2.com:80/LuanSantosDELE/21974352885/119
+#EXTINF:-1 type="stream" tvg-id="Globo Inter TV Grande Minas HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo Inter TV Grande Minas HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/115
+#EXTINF:-1 type="stream" tvg-id="Globo Inter TV Planície HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo Inter TV Planície HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/47480
+#EXTINF:-1 type="stream" tvg-id="Globo Minas FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo Minas FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/120
+#EXTINF:-1 type="stream" tvg-id="Globo Minas FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo Minas FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/87358
+#EXTINF:-1 type="stream" tvg-id="Globo Minas HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo Minas HD
+http://7up2.com:80/LuanSantosDELE/21974352885/121
+#EXTINF:-1 type="stream" tvg-id="Globo Minas HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo Minas HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/61911
+#EXTINF:-1 type="stream" tvg-id="Globo News FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globonews.png" group-title="Canais | Jornalismo",Globo News FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/337
+#EXTINF:-1 type="stream" tvg-id="Globo News FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globonews.png" group-title="Canais | Jornalismo",Globo News FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/38617
+#EXTINF:-1 type="stream" tvg-id="Globo News HD" tvg-logo="http://7upsp8.com.br/tvlogos/globonews.png" group-title="Canais | Jornalismo",Globo News HD
+http://7up2.com:80/LuanSantosDELE/21974352885/338
+#EXTINF:-1 type="stream" tvg-id="Globo News HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globonews.png" group-title="Canais | Jornalismo",Globo News HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/339
+#EXTINF:-1 type="stream" tvg-id="Globo Nordeste FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo Nordeste FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/124
+#EXTINF:-1 type="stream" tvg-id="Globo Nordeste FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo Nordeste FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/517
+#EXTINF:-1 type="stream" tvg-id="Globo Nordeste HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo Nordeste HD
+http://7up2.com:80/LuanSantosDELE/21974352885/125
+#EXTINF:-1 type="stream" tvg-id="Globo Nordeste HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo Nordeste HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/126
+#EXTINF:-1 type="stream" tvg-id="Globo NSC Florianopolis HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo NSC Florianopolis HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/131
+#EXTINF:-1 type="stream" tvg-id="Globo NSC Florianópolis FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo NSC Florianópolis FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/129
+#EXTINF:-1 type="stream" tvg-id="Globo NSC Florianópolis HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo NSC Florianópolis HD
+http://7up2.com:80/LuanSantosDELE/21974352885/130
+#EXTINF:-1 type="stream" tvg-id="Globo NSC Joinville FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo NSC Joinville FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/128
+#EXTINF:-1 type="stream" tvg-id="Globo NSC TV Blumenau FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo NSC TV Blumenau FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/132
+#EXTINF:-1 type="stream" tvg-id="Globo NSC TV Blumenau HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo NSC TV Blumenau HD
+http://7up2.com:80/LuanSantosDELE/21974352885/133
+#EXTINF:-1 type="stream" tvg-id="Globo NSC TV Chapeco FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo NSC TV Chapeco FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/134
+#EXTINF:-1 type="stream" tvg-id="Globo NSC TV Criciúma HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo NSC TV Criciúma HD
+http://7up2.com:80/LuanSantosDELE/21974352885/135
+#EXTINF:-1 type="stream" tvg-id="Globo Play Novelas FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globoplaynovelas.png" group-title="Canais | Variedades",Globo Play Novelas FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/310
+#EXTINF:-1 type="stream" tvg-id="Globo Play Novelas FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globoplaynovelas.png" group-title="Canais | Variedades",Globo Play Novelas FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/1950
+#EXTINF:-1 type="stream" tvg-id="Globo Play Novelas HD" tvg-logo="http://7upsp8.com.br/tvlogos/globoplaynovelas.png" group-title="Canais | Variedades",Globo Play Novelas HD
+http://7up2.com:80/LuanSantosDELE/21974352885/311
+#EXTINF:-1 type="stream" tvg-id="Globo Play Novelas HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globoplaynovelas.png" group-title="Canais | Variedades",Globo Play Novelas HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/312
+#EXTINF:-1 type="stream" tvg-id="Globo RBS Passo Fundo HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo RBS Passo Fundo HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/137
+#EXTINF:-1 type="stream" tvg-id="Globo RBS TV Caxias do Sul HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo RBS TV Caxias do Sul HD
+http://7up2.com:80/LuanSantosDELE/21974352885/138
+#EXTINF:-1 type="stream" tvg-id="Globo RBS TV Pelotas FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo RBS TV Pelotas FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/140
+#EXTINF:-1 type="stream" tvg-id="Globo RBS TV POA FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo RBS TV POA FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/141
+#EXTINF:-1 type="stream" tvg-id="Globo RBS TV POA HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo RBS TV POA HD
+http://7up2.com:80/LuanSantosDELE/21974352885/142
+#EXTINF:-1 type="stream" tvg-id="Globo RBS TV POA HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo RBS TV POA HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/143
+#EXTINF:-1 type="stream" tvg-id="Globo RBS TV Santa Maria FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo RBS TV Santa Maria FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/145
+#EXTINF:-1 type="stream" tvg-id="Globo RBS TV Santa Maria HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo RBS TV Santa Maria HD
+http://7up2.com:80/LuanSantosDELE/21974352885/144
+#EXTINF:-1 type="stream" tvg-id="Globo Rede Amazônica Macapá HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo Rede Amazônica Macapá HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/87357
+#EXTINF:-1 type="stream" tvg-id="Globo Rede Amazônica Manaus FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo Rede Amazônica Manaus FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/97
+#EXTINF:-1 type="stream" tvg-id="Globo Rede Amazônica Manaus HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo Rede Amazônica Manaus HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/98
+#EXTINF:-1 type="stream" tvg-id="Globo Rede Amazônica Rio Branco HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo Rede Amazônica Rio Branco HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/99
+#EXTINF:-1 type="stream" tvg-id="Globo RJ FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo RJ FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/35894
+#EXTINF:-1 type="stream" tvg-id="Globo RJ FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo RJ FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/146
+#EXTINF:-1 type="stream" tvg-id="Globo RJ FHD³" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo RJ FHD³
+http://7up2.com:80/LuanSantosDELE/21974352885/85953
+#EXTINF:-1 type="stream" tvg-id="Globo RJ HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo RJ HD
+http://7up2.com:80/LuanSantosDELE/21974352885/148
+#EXTINF:-1 type="stream" tvg-id="Globo RJ HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo RJ HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/149
+#EXTINF:-1 type="stream" tvg-id="Globo RJ HD³" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo RJ HD³
+http://7up2.com:80/LuanSantosDELE/21974352885/85954
+#EXTINF:-1 type="stream" tvg-id="Globo RJ Interior FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo RJ Interior FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/151
+#EXTINF:-1 type="stream" tvg-id="Globo RJ SD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo RJ SD
+http://7up2.com:80/LuanSantosDELE/21974352885/152
+#EXTINF:-1 type="stream" tvg-id="Globo RPC Curitiba FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo RPC Curitiba FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/154
+#EXTINF:-1 type="stream" tvg-id="Globo RPC Curitiba HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo RPC Curitiba HD
+http://7up2.com:80/LuanSantosDELE/21974352885/155
+#EXTINF:-1 type="stream" tvg-id="Globo RPC Curitiba HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo RPC Curitiba HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/156
+#EXTINF:-1 type="stream" tvg-id="Globo RPC Foz do Iguaçu FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo RPC Foz do Iguaçu FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/157
+#EXTINF:-1 type="stream" tvg-id="Globo RPC Maringá FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo RPC Maringá FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/158
+#EXTINF:-1 type="stream" tvg-id="Globo RPC Maringá HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo RPC Maringá HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/159
+#EXTINF:-1 type="stream" tvg-id="Globo RPC Ponta Grossa HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo RPC Ponta Grossa HD
+http://7up2.com:80/LuanSantosDELE/21974352885/160
+#EXTINF:-1 type="stream" tvg-id="Globo SJ do Rio Preto FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo SJ do Rio Preto FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/162
+#EXTINF:-1 type="stream" tvg-id="Globo SJ do Rio Preto HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo SJ do Rio Preto HD
+http://7up2.com:80/LuanSantosDELE/21974352885/161
+#EXTINF:-1 type="stream" tvg-id="Globo SJ do Rio Preto HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo SJ do Rio Preto HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/163
+#EXTINF:-1 type="stream" tvg-id="Globo SP FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo SP FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/164
+#EXTINF:-1 type="stream" tvg-id="Globo SP FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo SP FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/35893
+#EXTINF:-1 type="stream" tvg-id="Globo SP HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo SP HD
+http://7up2.com:80/LuanSantosDELE/21974352885/166
+#EXTINF:-1 type="stream" tvg-id="Globo TV Anhanguera FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Anhanguera FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/172
+#EXTINF:-1 type="stream" tvg-id="Globo TV Anhanguera FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Anhanguera FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/171
+#EXTINF:-1 type="stream" tvg-id="Globo TV Anhanguera Goiania HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Anhanguera Goiania HD
+http://7up2.com:80/LuanSantosDELE/21974352885/173
+#EXTINF:-1 type="stream" tvg-id="Globo TV Asa Branca FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV Asa Branca FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/174
+#EXTINF:-1 type="stream" tvg-id="Globo TV Bahia FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Bahia FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/175
+#EXTINF:-1 type="stream" tvg-id="Globo TV Bahia FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Bahia FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/177
+#EXTINF:-1 type="stream" tvg-id="Globo TV Bahia HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Bahia HD
+http://7up2.com:80/LuanSantosDELE/21974352885/176
+#EXTINF:-1 type="stream" tvg-id="Globo TV Belém FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Belém FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/178
+#EXTINF:-1 type="stream" tvg-id="Globo TV Belém HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Belém HD
+http://7up2.com:80/LuanSantosDELE/21974352885/179
+#EXTINF:-1 type="stream" tvg-id="Globo TV Belém HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Belém HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/170
+#EXTINF:-1 type="stream" tvg-id="Globo TV Brasília FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Brasília FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/38624
+#EXTINF:-1 type="stream" tvg-id="Globo TV Brasília FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Brasília FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/180
+#EXTINF:-1 type="stream" tvg-id="Globo TV Brasília HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Brasília HD
+http://7up2.com:80/LuanSantosDELE/21974352885/181
+#EXTINF:-1 type="stream" tvg-id="Globo TV Brasília HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Brasília HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/182
+#EXTINF:-1 type="stream" tvg-id="Globo TV Cabo Branco FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Cabo Branco FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/183
+#EXTINF:-1 type="stream" tvg-id="Globo TV Cabo Branco HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Cabo Branco HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/184
+#EXTINF:-1 type="stream" tvg-id="Globo TV Clube Piauí FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Clube Piauí FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/185
+#EXTINF:-1 type="stream" tvg-id="Globo TV Clube Piauí HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Clube Piauí HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/186
+#EXTINF:-1 type="stream" tvg-id="Globo TV Diário Fortaleza HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Diário Fortaleza HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/47482
+#EXTINF:-1 type="stream" tvg-id="Globo TV Fronteira Paulista HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV Fronteira Paulista HD
+http://7up2.com:80/LuanSantosDELE/21974352885/187
+#EXTINF:-1 type="stream" tvg-id="Globo TV Gazeta Alagoas FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Gazeta Alagoas FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/188
+#EXTINF:-1 type="stream" tvg-id="Globo TV Gazeta Alagoas HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Gazeta Alagoas HD
+http://7up2.com:80/LuanSantosDELE/21974352885/189
+#EXTINF:-1 type="stream" tvg-id="Globo TV Gazeta Sul ES HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV Gazeta Sul ES HD
+http://7up2.com:80/LuanSantosDELE/21974352885/216
+#EXTINF:-1 type="stream" tvg-id="Globo TV Gazeta Vitória ES FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Gazeta Vitória ES FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/209
+#EXTINF:-1 type="stream" tvg-id="Globo TV Gazeta Vitória ES FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Gazeta Vitória ES FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/217
+#EXTINF:-1 type="stream" tvg-id="Globo TV Gazeta Vitória ES HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Gazeta Vitória ES HD
+http://7up2.com:80/LuanSantosDELE/21974352885/218
+#EXTINF:-1 type="stream" tvg-id="Globo TV Mirante São Luís FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Mirante São Luís FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/192
+#EXTINF:-1 type="stream" tvg-id="Globo TV Mirante São Luís HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Mirante São Luís HD
+http://7up2.com:80/LuanSantosDELE/21974352885/194
+#EXTINF:-1 type="stream" tvg-id="Globo TV Mirante São Luís HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Mirante São Luís HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/193
+#EXTINF:-1 type="stream" tvg-id="Globo TV Morena FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Morena FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/195
+#EXTINF:-1 type="stream" tvg-id="Globo TV Morena HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Morena HD
+http://7up2.com:80/LuanSantosDELE/21974352885/196
+#EXTINF:-1 type="stream" tvg-id="Globo TV Morena HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Morena HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/197
+#EXTINF:-1 type="stream" tvg-id="Globo TV Porto Velho HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Porto Velho HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/198
+#EXTINF:-1 type="stream" tvg-id="Globo TV Recife FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Recife FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/199
+#EXTINF:-1 type="stream" tvg-id="Globo TV Recife FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Recife FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/472
+#EXTINF:-1 type="stream" tvg-id="Globo TV Rio Sul FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV Rio Sul FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/200
+#EXTINF:-1 type="stream" tvg-id="Globo TV Rio Sul HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV Rio Sul HD
+http://7up2.com:80/LuanSantosDELE/21974352885/219
+#EXTINF:-1 type="stream" tvg-id="Globo TV Rio Sul HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV Rio Sul HD
+http://7up2.com:80/LuanSantosDELE/21974352885/201
+#EXTINF:-1 type="stream" tvg-id="Globo TV Santa Cruz FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV Santa Cruz FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/202
+#EXTINF:-1 type="stream" tvg-id="Globo TV Santa Cruz HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV Santa Cruz HD
+http://7up2.com:80/LuanSantosDELE/21974352885/203
+#EXTINF:-1 type="stream" tvg-id="Globo TV Sergipe FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Sergipe FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/220
+#EXTINF:-1 type="stream" tvg-id="Globo TV Sergipe HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Sergipe HD
+http://7up2.com:80/LuanSantosDELE/21974352885/221
+#EXTINF:-1 type="stream" tvg-id="Globo TV Serra Mar HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV Serra Mar HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/204
+#EXTINF:-1 type="stream" tvg-id="Globo TV TEM Bauru FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV TEM Bauru FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/222
+#EXTINF:-1 type="stream" tvg-id="Globo TV TEM Bauru HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV TEM Bauru HD
+http://7up2.com:80/LuanSantosDELE/21974352885/223
+#EXTINF:-1 type="stream" tvg-id="Globo TV TEM Bauru HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV TEM Bauru HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/224
+#EXTINF:-1 type="stream" tvg-id="Globo TV TEM Itapetininga HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV TEM Itapetininga HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/205
+#EXTINF:-1 type="stream" tvg-id="Globo TV TEM Sorocaba FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV TEM Sorocaba FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/206
+#EXTINF:-1 type="stream" tvg-id="Globo TV TEM Sorocaba HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV TEM Sorocaba HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/207
+#EXTINF:-1 type="stream" tvg-id="Globo TV TEM Taubaté HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV TEM Taubaté HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/208
+#EXTINF:-1 type="stream" tvg-id="Globo TV Tribuna Santos HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV Tribuna Santos HD
+http://7up2.com:80/LuanSantosDELE/21974352885/210
+#EXTINF:-1 type="stream" tvg-id="Globo TV Vanguarda SJ Campos FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV Vanguarda SJ Campos FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/39816
+#EXTINF:-1 type="stream" tvg-id="Globo TV Vanguarda SJ Campos HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV Vanguarda SJ Campos HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/211
+#EXTINF:-1 type="stream" tvg-id="Globo TV Verdes Mares CE FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Verdes Mares CE FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/212
+#EXTINF:-1 type="stream" tvg-id="Globo TV Verdes Mares CE HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Verdes Mares CE HD
+http://7up2.com:80/LuanSantosDELE/21974352885/213
+#EXTINF:-1 type="stream" tvg-id="Globo TV Verdes Mares CE HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Verdes Mares CE HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/214
+#EXTINF:-1 type="stream" tvg-id="GloboPlay+ GE Futebol 01" tvg-logo="http://7upsp8.com.br/tvlogos/globoplayge.png" group-title="Canais | Esportes PPV",GloboPlay+ GE Futebol 01
+http://7up2.com:80/LuanSantosDELE/21974352885/83900
+#EXTINF:-1 type="stream" tvg-id="GloboPlay+ GE Futebol 02" tvg-logo="http://7upsp8.com.br/tvlogos/globoplayge.png" group-title="Canais | Esportes PPV",GloboPlay+ GE Futebol 02
+http://7up2.com:80/LuanSantosDELE/21974352885/83901
+#EXTINF:-1 type="stream" tvg-id="Gloob FHD" tvg-logo="http://7upsp8.com.br/tvlogos/gloob.png" group-title="Canais | Infantis",Gloob FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/394
+#EXTINF:-1 type="stream" tvg-id="Gloob HD" tvg-logo="http://7upsp8.com.br/tvlogos/gloob.png" group-title="Canais | Infantis",Gloob HD
+http://7up2.com:80/LuanSantosDELE/21974352885/395
+#EXTINF:-1 type="stream" tvg-id="Gloob HD²" tvg-logo="http://7upsp8.com.br/tvlogos/gloob.png" group-title="Canais | Infantis",Gloob HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/396
+#EXTINF:-1 type="stream" tvg-id="Gloobinho FHD" tvg-logo="http://7upsp8.com.br/tvlogos/gloobinho.png" group-title="Canais | Infantis",Gloobinho FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/397
+#EXTINF:-1 type="stream" tvg-id="Gloobinho HD" tvg-logo="http://7upsp8.com.br/tvlogos/gloobinho.png" group-title="Canais | Infantis",Gloobinho HD
+http://7up2.com:80/LuanSantosDELE/21974352885/398
+#EXTINF:-1 type="stream" tvg-id="Gloobinho HD²" tvg-logo="http://7upsp8.com.br/tvlogos/gloobinho.png" group-title="Canais | Infantis",Gloobinho HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/399
+#EXTINF:-1 type="stream" tvg-id="GNT FHD" tvg-logo="http://7upsp8.com.br/tvlogos/gnt.png" group-title="Canais | Variedades",GNT FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/250
+#EXTINF:-1 type="stream" tvg-id="GNT FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/gnt.png" group-title="Canais | Variedades",GNT FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/252
+#EXTINF:-1 type="stream" tvg-id="GNT HD" tvg-logo="http://7upsp8.com.br/tvlogos/gnt.png" group-title="Canais | Variedades",GNT HD
+http://7up2.com:80/LuanSantosDELE/21974352885/251
+#EXTINF:-1 type="stream" tvg-id="H2 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/history2.png" group-title="Canais | Cultura e Documentário",H2 FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/369
+#EXTINF:-1 type="stream" tvg-id="H2 FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/history2.png" group-title="Canais | Cultura e Documentário",H2 FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/81636
+#EXTINF:-1 type="stream" tvg-id="H2 HD" tvg-logo="http://7upsp8.com.br/tvlogos/history2.png" group-title="Canais | Cultura e Documentário",H2 HD
+http://7up2.com:80/LuanSantosDELE/21974352885/370
+#EXTINF:-1 type="stream" tvg-id="H2 HD²" tvg-logo="http://7upsp8.com.br/tvlogos/history2.png" group-title="Canais | Cultura e Documentário",H2 HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/371
+#EXTINF:-1 type="stream" tvg-id="HBO 1 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/hbo.png" group-title="Canais | Rede HBO",HBO 1 FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/544
+#EXTINF:-1 type="stream" tvg-id="HBO 1 FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/hbo.png" group-title="Canais | Rede HBO",HBO 1 FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/542
+#EXTINF:-1 type="stream" tvg-id="HBO 1 HD" tvg-logo="http://7upsp8.com.br/tvlogos/hbo.png" group-title="Canais | Rede HBO",HBO 1 HD
+http://7up2.com:80/LuanSantosDELE/21974352885/543
+#EXTINF:-1 type="stream" tvg-id="HBO 1 HD²" tvg-logo="http://7upsp8.com.br/tvlogos/hbo.png" group-title="Canais | Rede HBO",HBO 1 HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/557
+#EXTINF:-1 type="stream" tvg-id="HBO 2 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/hbo2.png" group-title="Canais | Rede HBO",HBO 2 FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/536
+#EXTINF:-1 type="stream" tvg-id="HBO 2 FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/hbo2.png" group-title="Canais | Rede HBO",HBO 2 FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/534
+#EXTINF:-1 type="stream" tvg-id="HBO 2 HD" tvg-logo="http://7upsp8.com.br/tvlogos/hbo2.png" group-title="Canais | Rede HBO",HBO 2 HD
+http://7up2.com:80/LuanSantosDELE/21974352885/535
+#EXTINF:-1 type="stream" tvg-id="HBO 2 HD²" tvg-logo="http://7upsp8.com.br/tvlogos/hbo2.png" group-title="Canais | Rede HBO",HBO 2 HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/537
+#EXTINF:-1 type="stream" tvg-id="HBO Family FHD" tvg-logo="http://7upsp8.com.br/tvlogos/hbofamily.png" group-title="Canais | Rede HBO",HBO Family FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/538
+#EXTINF:-1 type="stream" tvg-id="HBO Family FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/hbofamily.png" group-title="Canais | Rede HBO",HBO Family FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/540
+#EXTINF:-1 type="stream" tvg-id="HBO Family HD" tvg-logo="http://7upsp8.com.br/tvlogos/hbofamily.png" group-title="Canais | Rede HBO",HBO Family HD
+http://7up2.com:80/LuanSantosDELE/21974352885/539
+#EXTINF:-1 type="stream" tvg-id="HBO Family HD²" tvg-logo="http://7upsp8.com.br/tvlogos/hbofamily.png" group-title="Canais | Rede HBO",HBO Family HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/541
+#EXTINF:-1 type="stream" tvg-id="HBO Max 01" tvg-logo="http://7upsp8.com.br/tvlogos/hbomax.png" group-title="Canais | Esportes PPV",HBO Max 01
+http://7up2.com:80/LuanSantosDELE/21974352885/81651
+#EXTINF:-1 type="stream" tvg-id="HBO Max 02" tvg-logo="http://7upsp8.com.br/tvlogos/hbomax.png" group-title="Canais | Esportes PPV",HBO Max 02
+http://7up2.com:80/LuanSantosDELE/21974352885/657
+#EXTINF:-1 type="stream" tvg-id="HBO Max 03" tvg-logo="http://7upsp8.com.br/tvlogos/hbomax.png" group-title="Canais | Esportes PPV",HBO Max 03
+http://7up2.com:80/LuanSantosDELE/21974352885/81652
+#EXTINF:-1 type="stream" tvg-id="HBO Max 04" tvg-logo="http://7upsp8.com.br/tvlogos/hbomax.png" group-title="Canais | Esportes PPV",HBO Max 04
+http://7up2.com:80/LuanSantosDELE/21974352885/658
+#EXTINF:-1 type="stream" tvg-id="HBO Max 06" tvg-logo="http://7upsp8.com.br/tvlogos/hbomax.png" group-title="Canais | Esportes PPV",HBO Max 06
+http://7up2.com:80/LuanSantosDELE/21974352885/659
+#EXTINF:-1 type="stream" tvg-id="HBO Max 08" tvg-logo="http://7upsp8.com.br/tvlogos/hbomax.png" group-title="Canais | Esportes PPV",HBO Max 08
+http://7up2.com:80/LuanSantosDELE/21974352885/660
+#EXTINF:-1 type="stream" tvg-id="HBO Max 09" tvg-logo="http://7upsp8.com.br/tvlogos/hbomax.png" group-title="Canais | Esportes PPV",HBO Max 09
+http://7up2.com:80/LuanSantosDELE/21974352885/661
+#EXTINF:-1 type="stream" tvg-id="HBO Max 10" tvg-logo="http://7upsp8.com.br/tvlogos/hbomax.png" group-title="Canais | Esportes PPV",HBO Max 10
+http://7up2.com:80/LuanSantosDELE/21974352885/662
+#EXTINF:-1 type="stream" tvg-id="HBO Max 11" tvg-logo="http://7upsp8.com.br/tvlogos/hbomax.png" group-title="Canais | Esportes PPV",HBO Max 11
+http://7up2.com:80/LuanSantosDELE/21974352885/1118722
+#EXTINF:-1 type="stream" tvg-id="HBO Max 12" tvg-logo="http://7upsp8.com.br/tvlogos/hbomax.png" group-title="Canais | Esportes PPV",HBO Max 12
+http://7up2.com:80/LuanSantosDELE/21974352885/1118723
+#EXTINF:-1 type="stream" tvg-id="HBO Mundi FHD" tvg-logo="http://7upsp8.com.br/tvlogos/hbomundi.png" group-title="Canais | Rede HBO",HBO Mundi FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/545
+#EXTINF:-1 type="stream" tvg-id="HBO Mundi FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/hbomundi.png" group-title="Canais | Rede HBO",HBO Mundi FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/547
+#EXTINF:-1 type="stream" tvg-id="HBO Mundi HD" tvg-logo="http://7upsp8.com.br/tvlogos/hbomundi.png" group-title="Canais | Rede HBO",HBO Mundi HD
+http://7up2.com:80/LuanSantosDELE/21974352885/546
+#EXTINF:-1 type="stream" tvg-id="HBO Mundi HD²" tvg-logo="http://7upsp8.com.br/tvlogos/hbomundi.png" group-title="Canais | Rede HBO",HBO Mundi HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/548
+#EXTINF:-1 type="stream" tvg-id="HBO Plus+ FHD" tvg-logo="http://7upsp8.com.br/tvlogos/hboplus.png" group-title="Canais | Rede HBO",HBO Plus+ FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/549
+#EXTINF:-1 type="stream" tvg-id="HBO Plus+ FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/hboplus.png" group-title="Canais | Rede HBO",HBO Plus+ FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/551
+#EXTINF:-1 type="stream" tvg-id="HBO Plus+ HD" tvg-logo="http://7upsp8.com.br/tvlogos/hboplus.png" group-title="Canais | Rede HBO",HBO Plus+ HD
+http://7up2.com:80/LuanSantosDELE/21974352885/550
+#EXTINF:-1 type="stream" tvg-id="HBO Plus+ HD²" tvg-logo="http://7upsp8.com.br/tvlogos/hboplus.png" group-title="Canais | Rede HBO",HBO Plus+ HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/552
+#EXTINF:-1 type="stream" tvg-id="HBO Pop FHD" tvg-logo="http://7upsp8.com.br/tvlogos/hbopop.png" group-title="Canais | Rede HBO",HBO Pop FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/553
+#EXTINF:-1 type="stream" tvg-id="HBO Pop FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/hbopop.png" group-title="Canais | Rede HBO",HBO Pop FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/555
+#EXTINF:-1 type="stream" tvg-id="HBO Pop HD" tvg-logo="http://7upsp8.com.br/tvlogos/hbopop.png" group-title="Canais | Rede HBO",HBO Pop HD
+http://7up2.com:80/LuanSantosDELE/21974352885/554
+#EXTINF:-1 type="stream" tvg-id="HBO Pop HD²" tvg-logo="http://7upsp8.com.br/tvlogos/hbopop.png" group-title="Canais | Rede HBO",HBO Pop HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/556
+#EXTINF:-1 type="stream" tvg-id="HBO Signature FHD" tvg-logo="http://7upsp8.com.br/tvlogos/hbosignature.png" group-title="Canais | Rede HBO",HBO Signature FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/558
+#EXTINF:-1 type="stream" tvg-id="HBO Signature FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/hbosignature.png" group-title="Canais | Rede HBO",HBO Signature FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/560
+#EXTINF:-1 type="stream" tvg-id="HBO Signature HD" tvg-logo="http://7upsp8.com.br/tvlogos/hbosignature.png" group-title="Canais | Rede HBO",HBO Signature HD
+http://7up2.com:80/LuanSantosDELE/21974352885/559
+#EXTINF:-1 type="stream" tvg-id="HBO Signature HD²" tvg-logo="http://7upsp8.com.br/tvlogos/hbosignature.png" group-title="Canais | Rede HBO",HBO Signature HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/561
+#EXTINF:-1 type="stream" tvg-id="HBO Xtreme FHD" tvg-logo="http://7upsp8.com.br/tvlogos/hboxtreme.png" group-title="Canais | Rede HBO",HBO Xtreme FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/562
+#EXTINF:-1 type="stream" tvg-id="HBO Xtreme FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/hboxtreme.png" group-title="Canais | Rede HBO",HBO Xtreme FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/564
+#EXTINF:-1 type="stream" tvg-id="HBO Xtreme HD" tvg-logo="http://7upsp8.com.br/tvlogos/hboxtreme.png" group-title="Canais | Rede HBO",HBO Xtreme HD
+http://7up2.com:80/LuanSantosDELE/21974352885/563
+#EXTINF:-1 type="stream" tvg-id="HBO Xtreme HD²" tvg-logo="http://7upsp8.com.br/tvlogos/hboxtreme.png" group-title="Canais | Rede HBO",HBO Xtreme HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/565
+#EXTINF:-1 type="stream" tvg-id="HGTV FHD" tvg-logo="http://7upsp8.com.br/tvlogos/hgtv.png" group-title="Canais | Cultura e Documentário",HGTV FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/254
+#EXTINF:-1 type="stream" tvg-id="HGTV FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/hgtv.png" group-title="Canais | Cultura e Documentário",HGTV FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/81635
+#EXTINF:-1 type="stream" tvg-id="HGTV HD" tvg-logo="http://7upsp8.com.br/tvlogos/hgtv.png" group-title="Canais | Cultura e Documentário",HGTV HD
+http://7up2.com:80/LuanSantosDELE/21974352885/255
+#EXTINF:-1 type="stream" tvg-id="HGTV HD²" tvg-logo="http://7upsp8.com.br/tvlogos/hgtv.png" group-title="Canais | Cultura e Documentário",HGTV HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/256
+#EXTINF:-1 type="stream" tvg-id="Igreja Mundial IMPD" tvg-logo="http://7upsp8.com.br/tvlogos/IMPD.png" group-title="Canais | Religiosos",Igreja Mundial IMPD
+http://7up2.com:80/LuanSantosDELE/21974352885/688
+#EXTINF:-1 type="stream" tvg-id="Igreja Universal" tvg-logo="https://i.imgur.com/I1bKINa.png" group-title="Canais | Religiosos",Igreja Universal
+http://7up2.com:80/LuanSantosDELE/21974352885/690
+#EXTINF:-1 type="stream" tvg-id="Igreja Universal²" tvg-logo="https://i.imgur.com/I1bKINa.png" group-title="Canais | Religiosos",Igreja Universal²
+http://7up2.com:80/LuanSantosDELE/21974352885/689
+#EXTINF:-1 type="stream" tvg-id="Jovem Pan News FHD" tvg-logo="http://7upsp8.com.br/tvlogos/jpnews.png" group-title="Canais | Jornalismo",Jovem Pan News FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/340
+#EXTINF:-1 type="stream" tvg-id="Jovem Pan News FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/jpnews.png" group-title="Canais | Jornalismo",Jovem Pan News FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/38618
+#EXTINF:-1 type="stream" tvg-id="Jovem Pan News HD" tvg-logo="http://7upsp8.com.br/tvlogos/jpnews.png" group-title="Canais | Jornalismo",Jovem Pan News HD
+http://7up2.com:80/LuanSantosDELE/21974352885/341
+#EXTINF:-1 type="stream" tvg-id="Jovem Pan News HD²" tvg-logo="http://7upsp8.com.br/tvlogos/jpnews.png" group-title="Canais | Jornalismo",Jovem Pan News HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/652
+#EXTINF:-1 type="stream" tvg-id="Lifetime FHD" tvg-logo="http://7upsp8.com.br/tvlogos/lifetime.png" group-title="Canais | Variedades",Lifetime FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/258
+#EXTINF:-1 type="stream" tvg-id="Lifetime FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/lifetime.png" group-title="Canais | Variedades",Lifetime FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/260
+#EXTINF:-1 type="stream" tvg-id="Lifetime HD" tvg-logo="http://7upsp8.com.br/tvlogos/lifetime.png" group-title="Canais | Variedades",Lifetime HD
+http://7up2.com:80/LuanSantosDELE/21974352885/259
+#EXTINF:-1 type="stream" tvg-id="Loading TV HD" tvg-logo="https://i.imgur.com/MtkzA35.png" group-title="Canais | Variedades",Loading TV HD
+http://7up2.com:80/LuanSantosDELE/21974352885/50
+#EXTINF:-1 type="stream" tvg-id="Megapix FHD" tvg-logo="http://7upsp8.com.br/tvlogos/megapix.png" group-title="Canais | Filmes e Séries",Megapix FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/451
+#EXTINF:-1 type="stream" tvg-id="Megapix HD" tvg-logo="http://7upsp8.com.br/tvlogos/megapix.png" group-title="Canais | Filmes e Séries",Megapix HD
+http://7up2.com:80/LuanSantosDELE/21974352885/452
+#EXTINF:-1 type="stream" tvg-id="Megapix HD²" tvg-logo="http://7upsp8.com.br/tvlogos/megapix.png" group-title="Canais | Filmes e Séries",Megapix HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/453
+#EXTINF:-1 type="stream" tvg-id="Modo Viagem FHD" tvg-logo="http://7upsp8.com.br/tvlogos/modoviagem.png" group-title="Canais | Variedades",Modo Viagem FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/264
+#EXTINF:-1 type="stream" tvg-id="Modo Viagem FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/modoviagem.png" group-title="Canais | Variedades",Modo Viagem FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/75076
+#EXTINF:-1 type="stream" tvg-id="Modo Viagem HD²" tvg-logo="http://7upsp8.com.br/tvlogos/modoviagem.png" group-title="Canais | Variedades",Modo Viagem HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/75077
+#EXTINF:-1 type="stream" tvg-id="Movie Sphere" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Movie Sphere
+http://7up2.com:80/LuanSantosDELE/21974352885/421
+#EXTINF:-1 type="stream" tvg-id="Mr Olympia 01" tvg-logo="http://7upsp8.com.br/tvlogos/olympia.png" group-title="Canais | Esportes PPV",Mr Olympia 01
+http://7up2.com:80/LuanSantosDELE/21974352885/469
+#EXTINF:-1 type="stream" tvg-id="Mr Olympia 02" tvg-logo="http://7upsp8.com.br/tvlogos/olympia.png" group-title="Canais | Esportes PPV",Mr Olympia 02
+http://7up2.com:80/LuanSantosDELE/21974352885/470
+#EXTINF:-1 type="stream" tvg-id="Multishow FHD" tvg-logo="http://7upsp8.com.br/tvlogos/multishow.png" group-title="Canais | Variedades",Multishow FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/273
+#EXTINF:-1 type="stream" tvg-id="Multishow FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/multishow.png" group-title="Canais | Variedades",Multishow FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/60580
+#EXTINF:-1 type="stream" tvg-id="Multishow HD" tvg-logo="http://7upsp8.com.br/tvlogos/multishow.png" group-title="Canais | Variedades",Multishow HD
+http://7up2.com:80/LuanSantosDELE/21974352885/274
+#EXTINF:-1 type="stream" tvg-id="Multishow SD" tvg-logo="http://7upsp8.com.br/tvlogos/multishow.png" group-title="Canais | Variedades",Multishow SD
+http://7up2.com:80/LuanSantosDELE/21974352885/275
+#EXTINF:-1 type="stream" tvg-id="Music Box Brasil FHD" tvg-logo="http://7upsp8.com.br/tvlogos/musicboxbrazil.png" group-title="Canais | Variedades",Music Box Brasil FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/276
+#EXTINF:-1 type="stream" tvg-id="Music Box Brasil SD" tvg-logo="http://7upsp8.com.br/tvlogos/musicboxbrazil.png" group-title="Canais | Variedades",Music Box Brasil SD
+http://7up2.com:80/LuanSantosDELE/21974352885/278
+#EXTINF:-1 type="stream" tvg-id="My Time Movie" tvg-logo="http://7upsp8.com.br/tvlogos/mytimetomovie.png" group-title="Canais | Filmes e Séries",My Time Movie
+http://7up2.com:80/LuanSantosDELE/21974352885/454
+#EXTINF:-1 type="stream" tvg-id="NetFlix Eventos 01" tvg-logo="https://static.vecteezy.com/system/resources/previews/017/396/804/non_2x/netflix-mobile-application-logo-free-png.png" group-title="Canais | Esportes PPV",NetFlix Eventos 01
+http://7up2.com:80/LuanSantosDELE/21974352885/44
+#EXTINF:-1 type="stream" tvg-id="NetFlix Eventos 02" tvg-logo="https://static.vecteezy.com/system/resources/previews/017/396/804/non_2x/netflix-mobile-application-logo-free-png.png" group-title="Canais | Esportes PPV",NetFlix Eventos 02
+http://7up2.com:80/LuanSantosDELE/21974352885/9413
+#EXTINF:-1 type="stream" tvg-id="OFF FHD" tvg-logo="http://7upsp8.com.br/tvlogos/off.png" group-title="Canais | Esportes",OFF FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/280
+#EXTINF:-1 type="stream" tvg-id="OFF HD" tvg-logo="http://7upsp8.com.br/tvlogos/off.png" group-title="Canais | Esportes",OFF HD
+http://7up2.com:80/LuanSantosDELE/21974352885/281
+#EXTINF:-1 type="stream" tvg-id="OFF SD" tvg-logo="http://7upsp8.com.br/tvlogos/off.png" group-title="Canais | Esportes",OFF SD
+http://7up2.com:80/LuanSantosDELE/21974352885/282
+#EXTINF:-1 type="stream" tvg-id="Paramount+ 01 " tvg-logo="http://7upsp8.com.br/tvlogos/paramountplus.png" group-title="Canais | Esportes PPV",Paramount+ 01 
+http://7up2.com:80/LuanSantosDELE/21974352885/24034
+#EXTINF:-1 type="stream" tvg-id="Paramount+ 01 ²" tvg-logo="http://7upsp8.com.br/tvlogos/paramountplus.png" group-title="Canais | Esportes PPV",Paramount+ 01 ²
+http://7up2.com:80/LuanSantosDELE/21974352885/83848
+#EXTINF:-1 type="stream" tvg-id="Paramount+ 02 " tvg-logo="http://7upsp8.com.br/tvlogos/paramountplus.png" group-title="Canais | Esportes PPV",Paramount+ 02 
+http://7up2.com:80/LuanSantosDELE/21974352885/24035
+#EXTINF:-1 type="stream" tvg-id="Paramount+ 02 ²" tvg-logo="http://7upsp8.com.br/tvlogos/paramountplus.png" group-title="Canais | Esportes PPV",Paramount+ 02 ²
+http://7up2.com:80/LuanSantosDELE/21974352885/85350
+#EXTINF:-1 type="stream" tvg-id="Paramount+ 03 " tvg-logo="http://7upsp8.com.br/tvlogos/paramountplus.png" group-title="Canais | Esportes PPV",Paramount+ 03 
+http://7up2.com:80/LuanSantosDELE/21974352885/229
+#EXTINF:-1 type="stream" tvg-id="Paramount+ 03 ²" tvg-logo="http://7upsp8.com.br/tvlogos/paramountplus.png" group-title="Canais | Esportes PPV",Paramount+ 03 ²
+http://7up2.com:80/LuanSantosDELE/21974352885/85351
+#EXTINF:-1 type="stream" tvg-id="Paramount+ 04 " tvg-logo="http://7upsp8.com.br/tvlogos/paramountplus.png" group-title="Canais | Esportes PPV",Paramount+ 04 
+http://7up2.com:80/LuanSantosDELE/21974352885/495
+#EXTINF:-1 type="stream" tvg-id="Paramount+ 04 ²" tvg-logo="http://7upsp8.com.br/tvlogos/paramountplus.png" group-title="Canais | Esportes PPV",Paramount+ 04 ²
+http://7up2.com:80/LuanSantosDELE/21974352885/85352
+#EXTINF:-1 type="stream" tvg-id="Paramount+ PLTF 01" tvg-logo="http://7upsp8.com.br/tvlogos/paramountplus.png" group-title="Canais | Esportes PPV",Paramount+ PLTF 01
+http://7up2.com:80/LuanSantosDELE/21974352885/277
+#EXTINF:-1 type="stream" tvg-id="Paramount+ PLTF 02" tvg-logo="http://7upsp8.com.br/tvlogos/paramountplus.png" group-title="Canais | Esportes PPV",Paramount+ PLTF 02
+http://7up2.com:80/LuanSantosDELE/21974352885/266
+#EXTINF:-1 type="stream" tvg-id="Paramount+ PLTF 03" tvg-logo="http://7upsp8.com.br/tvlogos/paramountplus.png" group-title="Canais | Esportes PPV",Paramount+ PLTF 03
+http://7up2.com:80/LuanSantosDELE/21974352885/269
+#EXTINF:-1 type="stream" tvg-id="Premiere 1 Clubes FHD" tvg-logo="http://7upsp8.com.br/tvlogos/premierefutebolclubes.png" group-title="Canais | Premiere F.C.",Premiere 1 Clubes FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/634
+#EXTINF:-1 type="stream" tvg-id="Premiere 1 Clubes FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/premierefutebolclubes.png" group-title="Canais | Premiere F.C.",Premiere 1 Clubes FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/633
+#EXTINF:-1 type="stream" tvg-id="Premiere 1 Clubes HD" tvg-logo="http://7upsp8.com.br/tvlogos/premierefutebolclubes.png" group-title="Canais | Premiere F.C.",Premiere 1 Clubes HD
+http://7up2.com:80/LuanSantosDELE/21974352885/635
+#EXTINF:-1 type="stream" tvg-id="Premiere 1 Clubes SD" tvg-logo="http://7upsp8.com.br/tvlogos/premierefutebolclubes.png" group-title="Canais | Premiere F.C.",Premiere 1 Clubes SD
+http://7up2.com:80/LuanSantosDELE/21974352885/636
+#EXTINF:-1 type="stream" tvg-id="Premiere 2 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/premiere2.png" group-title="Canais | Premiere F.C.",Premiere 2 FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/615
+#EXTINF:-1 type="stream" tvg-id="Premiere 2 FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/premiere2.png" group-title="Canais | Premiere F.C.",Premiere 2 FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/608
+#EXTINF:-1 type="stream" tvg-id="Premiere 2 HD" tvg-logo="http://7upsp8.com.br/tvlogos/premiere2.png" group-title="Canais | Premiere F.C.",Premiere 2 HD
+http://7up2.com:80/LuanSantosDELE/21974352885/616
+#EXTINF:-1 type="stream" tvg-id="Premiere 2 HD²" tvg-logo="http://7upsp8.com.br/tvlogos/premiere2.png" group-title="Canais | Premiere F.C.",Premiere 2 HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/47481
+#EXTINF:-1 type="stream" tvg-id="Premiere 2 SD" tvg-logo="http://7upsp8.com.br/tvlogos/premiere2.png" group-title="Canais | Premiere F.C.",Premiere 2 SD
+http://7up2.com:80/LuanSantosDELE/21974352885/617
+#EXTINF:-1 type="stream" tvg-id="Premiere 3 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/premiere3.png" group-title="Canais | Premiere F.C.",Premiere 3 FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/618
+#EXTINF:-1 type="stream" tvg-id="Premiere 3 FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/premiere3.png" group-title="Canais | Premiere F.C.",Premiere 3 FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/598
+#EXTINF:-1 type="stream" tvg-id="Premiere 3 HD" tvg-logo="http://7upsp8.com.br/tvlogos/premiere3.png" group-title="Canais | Premiere F.C.",Premiere 3 HD
+http://7up2.com:80/LuanSantosDELE/21974352885/619
+#EXTINF:-1 type="stream" tvg-id="Premiere 3 HD²" tvg-logo="http://7upsp8.com.br/tvlogos/premiere3.png" group-title="Canais | Premiere F.C.",Premiere 3 HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/47485
+#EXTINF:-1 type="stream" tvg-id="Premiere 3 SD" tvg-logo="http://7upsp8.com.br/tvlogos/premiere3.png" group-title="Canais | Premiere F.C.",Premiere 3 SD
+http://7up2.com:80/LuanSantosDELE/21974352885/620
+#EXTINF:-1 type="stream" tvg-id="Premiere 4 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/premiere4.png" group-title="Canais | Premiere F.C.",Premiere 4 FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/621
+#EXTINF:-1 type="stream" tvg-id="Premiere 4 FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/premiere4.png" group-title="Canais | Premiere F.C.",Premiere 4 FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/603
+#EXTINF:-1 type="stream" tvg-id="Premiere 4 HD" tvg-logo="http://7upsp8.com.br/tvlogos/premiere4.png" group-title="Canais | Premiere F.C.",Premiere 4 HD
+http://7up2.com:80/LuanSantosDELE/21974352885/622
+#EXTINF:-1 type="stream" tvg-id="Premiere 4 HD²" tvg-logo="http://7upsp8.com.br/tvlogos/premiere4.png" group-title="Canais | Premiere F.C.",Premiere 4 HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/47487
+#EXTINF:-1 type="stream" tvg-id="Premiere 4 SD" tvg-logo="http://7upsp8.com.br/tvlogos/premiere4.png" group-title="Canais | Premiere F.C.",Premiere 4 SD
+http://7up2.com:80/LuanSantosDELE/21974352885/623
+#EXTINF:-1 type="stream" tvg-id="Premiere 5 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/premiere5.png" group-title="Canais | Premiere F.C.",Premiere 5 FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/624
+#EXTINF:-1 type="stream" tvg-id="Premiere 5 FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/premiere5.png" group-title="Canais | Premiere F.C.",Premiere 5 FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/47489
+#EXTINF:-1 type="stream" tvg-id="Premiere 5 HD" tvg-logo="http://7upsp8.com.br/tvlogos/premiere5.png" group-title="Canais | Premiere F.C.",Premiere 5 HD
+http://7up2.com:80/LuanSantosDELE/21974352885/625
+#EXTINF:-1 type="stream" tvg-id="Premiere 5 HD²" tvg-logo="http://7upsp8.com.br/tvlogos/premiere5.png" group-title="Canais | Premiere F.C.",Premiere 5 HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/47491
+#EXTINF:-1 type="stream" tvg-id="Premiere 5 SD" tvg-logo="http://7upsp8.com.br/tvlogos/premiere5.png" group-title="Canais | Premiere F.C.",Premiere 5 SD
+http://7up2.com:80/LuanSantosDELE/21974352885/626
+#EXTINF:-1 type="stream" tvg-id="Premiere 6 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/premiere6.png" group-title="Canais | Premiere F.C.",Premiere 6 FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/627
+#EXTINF:-1 type="stream" tvg-id="Premiere 6 HD" tvg-logo="http://7upsp8.com.br/tvlogos/premiere6.png" group-title="Canais | Premiere F.C.",Premiere 6 HD
+http://7up2.com:80/LuanSantosDELE/21974352885/628
+#EXTINF:-1 type="stream" tvg-id="Premiere 6 SD" tvg-logo="http://7upsp8.com.br/tvlogos/premiere6.png" group-title="Canais | Premiere F.C.",Premiere 6 SD
+http://7up2.com:80/LuanSantosDELE/21974352885/629
+#EXTINF:-1 type="stream" tvg-id="Premiere 7 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/premiere7.png" group-title="Canais | Premiere F.C.",Premiere 7 FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/630
+#EXTINF:-1 type="stream" tvg-id="Premiere 7 HD" tvg-logo="http://7upsp8.com.br/tvlogos/premiere7.png" group-title="Canais | Premiere F.C.",Premiere 7 HD
+http://7up2.com:80/LuanSantosDELE/21974352885/631
+#EXTINF:-1 type="stream" tvg-id="Premiere 7 SD" tvg-logo="http://7upsp8.com.br/tvlogos/premiere7.png" group-title="Canais | Premiere F.C.",Premiere 7 SD
+http://7up2.com:80/LuanSantosDELE/21974352885/632
+#EXTINF:-1 type="stream" tvg-id="Premiere 8 HD" tvg-logo="http://se7eup.com:80/images/e608b138e252ada0095f0ede178d3414.png" group-title="Canais | Premiere F.C.",Premiere 8 HD
+http://7up2.com:80/LuanSantosDELE/21974352885/272415
+#EXTINF:-1 type="stream" tvg-id="Prime Box Brasil FHD" tvg-logo="http://7upsp8.com.br/tvlogos/primeboxbrazil.png" group-title="Canais | Variedades",Prime Box Brasil FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/283
+#EXTINF:-1 type="stream" tvg-id="Prime Box Brasil FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/primeboxbrazil.png" group-title="Canais | Variedades",Prime Box Brasil FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/285
+#EXTINF:-1 type="stream" tvg-id="Prime Box Brasil HD" tvg-logo="http://7upsp8.com.br/tvlogos/primeboxbrazil.png" group-title="Canais | Variedades",Prime Box Brasil HD
+http://7up2.com:80/LuanSantosDELE/21974352885/284
+#EXTINF:-1 type="stream" tvg-id="Prime Vídeo 1 " tvg-logo="http://7upsp8.com.br/tvlogos/primevideo.png" group-title="Canais | Esportes PPV",Prime Vídeo 1 
+http://7up2.com:80/LuanSantosDELE/21974352885/645
+#EXTINF:-1 type="stream" tvg-id="Prime Vídeo 1 ²" tvg-logo="http://7upsp8.com.br/tvlogos/primevideo.png" group-title="Canais | Esportes PPV",Prime Vídeo 1 ²
+http://7up2.com:80/LuanSantosDELE/21974352885/54132
+#EXTINF:-1 type="stream" tvg-id="Prime Vídeo 2 " tvg-logo="http://7upsp8.com.br/tvlogos/primevideo.png" group-title="Canais | Esportes PPV",Prime Vídeo 2 
+http://7up2.com:80/LuanSantosDELE/21974352885/646
+#EXTINF:-1 type="stream" tvg-id="Prime Vídeo 2 ²" tvg-logo="http://7upsp8.com.br/tvlogos/primevideo.png" group-title="Canais | Esportes PPV",Prime Vídeo 2 ²
+http://7up2.com:80/LuanSantosDELE/21974352885/664
+#EXTINF:-1 type="stream" tvg-id="Prime Vídeo 3 " tvg-logo="http://7upsp8.com.br/tvlogos/primevideo.png" group-title="Canais | Esportes PPV",Prime Vídeo 3 
+http://7up2.com:80/LuanSantosDELE/21974352885/82245
+#EXTINF:-1 type="stream" tvg-id="Prime Vídeo 4 " tvg-logo="http://7upsp8.com.br/tvlogos/primevideo.png" group-title="Canais | Esportes PPV",Prime Vídeo 4 
+http://7up2.com:80/LuanSantosDELE/21974352885/674
+#EXTINF:-1 type="stream" tvg-id="Prime Vídeo 5 " tvg-logo="http://7upsp8.com.br/tvlogos/primevideo.png" group-title="Canais | Esportes PPV",Prime Vídeo 5 
+http://7up2.com:80/LuanSantosDELE/21974352885/675
+#EXTINF:-1 type="stream" tvg-id="Receitas Fast HD" tvg-logo="http://7upsp8.com.br/tvlogos/receitasfast.png" group-title="Canais | Variedades",Receitas Fast HD
+http://7up2.com:80/LuanSantosDELE/21974352885/47483
+#EXTINF:-1 type="stream" tvg-id="Record Belém HD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record Belém HD
+http://7up2.com:80/LuanSantosDELE/21974352885/31
+#EXTINF:-1 type="stream" tvg-id="Record Belém HD²" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record Belém HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/38
+#EXTINF:-1 type="stream" tvg-id="Record Brasília HD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record Brasília HD
+http://7up2.com:80/LuanSantosDELE/21974352885/32
+#EXTINF:-1 type="stream" tvg-id="Record Brasília HD²" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record Brasília HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/47484
+#EXTINF:-1 type="stream" tvg-id="Record Campinas HD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record Campinas HD
+http://7up2.com:80/LuanSantosDELE/21974352885/68
+#EXTINF:-1 type="stream" tvg-id="Record ES HD²" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record ES HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/33
+#EXTINF:-1 type="stream" tvg-id="Record Goiás HD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record Goiás HD
+http://7up2.com:80/LuanSantosDELE/21974352885/34
+#EXTINF:-1 type="stream" tvg-id="Record Itapoan BA HD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record Itapoan BA HD
+http://7up2.com:80/LuanSantosDELE/21974352885/35
+#EXTINF:-1 type="stream" tvg-id="Record Manaus HD²" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record Manaus HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/36
+#EXTINF:-1 type="stream" tvg-id="Record Minas HD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record Minas HD
+http://7up2.com:80/LuanSantosDELE/21974352885/37
+#EXTINF:-1 type="stream" tvg-id="Record Minas HD²" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record Minas HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/290
+#EXTINF:-1 type="stream" tvg-id="Record NDTV Blumenal HD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record NDTV Blumenal HD
+http://7up2.com:80/LuanSantosDELE/21974352885/372
+#EXTINF:-1 type="stream" tvg-id="Record NDTV Blumenal HD²" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record NDTV Blumenal HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/373
+#EXTINF:-1 type="stream" tvg-id="Record News FHD" tvg-logo="http://7upsp8.com.br/tvlogos/recordnews1.png" group-title="Canais | Jornalismo",Record News FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/342
+#EXTINF:-1 type="stream" tvg-id="Record News FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/recordnews1.png" group-title="Canais | Jornalismo",Record News FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/38619
+#EXTINF:-1 type="stream" tvg-id="Record News HD" tvg-logo="http://7upsp8.com.br/tvlogos/recordnews1.png" group-title="Canais | Jornalismo",Record News HD
+http://7up2.com:80/LuanSantosDELE/21974352885/343
+#EXTINF:-1 type="stream" tvg-id="Record News HD²" tvg-logo="http://7upsp8.com.br/tvlogos/recordnews1.png" group-title="Canais | Jornalismo",Record News HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/344
+#EXTINF:-1 type="stream" tvg-id="Record RJ FHD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record RJ FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/898383
+#EXTINF:-1 type="stream" tvg-id="Record RJ FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record RJ FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/898384
+#EXTINF:-1 type="stream" tvg-id="Record RJ HD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record RJ HD
+http://7up2.com:80/LuanSantosDELE/21974352885/35676
+#EXTINF:-1 type="stream" tvg-id="Record RJ HD²" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record RJ HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/39
+#EXTINF:-1 type="stream" tvg-id="Record RN TV Tropical" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record RN TV Tropical
+http://7up2.com:80/LuanSantosDELE/21974352885/40
+#EXTINF:-1 type="stream" tvg-id="Record RS HD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record RS HD
+http://7up2.com:80/LuanSantosDELE/21974352885/41
+#EXTINF:-1 type="stream" tvg-id="Record SC HD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record SC HD
+http://7up2.com:80/LuanSantosDELE/21974352885/42
+#EXTINF:-1 type="stream" tvg-id="Record Sergipe HD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record Sergipe HD
+http://7up2.com:80/LuanSantosDELE/21974352885/85349
+#EXTINF:-1 type="stream" tvg-id="Record SP FHD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record SP FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/47
+#EXTINF:-1 type="stream" tvg-id="Record SP FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record SP FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/45
+#EXTINF:-1 type="stream" tvg-id="Record SP HD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record SP HD
+http://7up2.com:80/LuanSantosDELE/21974352885/48
+#EXTINF:-1 type="stream" tvg-id="Record SP HD²" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record SP HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/43
+#EXTINF:-1 type="stream" tvg-id="Record TV Cidade CE FHD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record TV Cidade CE FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/648
+#EXTINF:-1 type="stream" tvg-id="Record TV Cidade CE HD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record TV Cidade CE HD
+http://7up2.com:80/LuanSantosDELE/21974352885/1119616
+#EXTINF:-1 type="stream" tvg-id="Record Vila Real MT HD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record Vila Real MT HD
+http://7up2.com:80/LuanSantosDELE/21974352885/653
+#EXTINF:-1 type="stream" tvg-id="Rede Brasil TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Rede_Brasil_de_Televis%C3%A3o_Logo2023.png" group-title="Canais | Abertos",Rede Brasil TV HD
+http://7up2.com:80/LuanSantosDELE/21974352885/49
+#EXTINF:-1 type="stream" tvg-id="Rede Furacão" tvg-logo="http://7upsp8.com.br/tvlogos/furacaolive.png" group-title="Canais | Esportes PPV",Rede Furacão
+http://7up2.com:80/LuanSantosDELE/21974352885/595
+#EXTINF:-1 type="stream" tvg-id="Rede Furacão ²" tvg-logo="http://7upsp8.com.br/tvlogos/furacaolive.png" group-title="Canais | Esportes PPV",Rede Furacão ²
+http://7up2.com:80/LuanSantosDELE/21974352885/328
+#EXTINF:-1 type="stream" tvg-id="Rede Genesis FHD" tvg-logo="http://7upsp8.com.br/tvlogos/redegenesis.png" group-title="Canais | Religiosos",Rede Genesis FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/683
+#EXTINF:-1 type="stream" tvg-id="Rede Genesis HD" tvg-logo="http://7upsp8.com.br/tvlogos/redegenesis.png" group-title="Canais | Religiosos",Rede Genesis HD
+http://7up2.com:80/LuanSantosDELE/21974352885/692
+#EXTINF:-1 type="stream" tvg-id="Rede Gospel" tvg-logo="http://7upsp8.com.br/tvlogos/redegospel.png" group-title="Canais | Religiosos",Rede Gospel
+http://7up2.com:80/LuanSantosDELE/21974352885/693
+#EXTINF:-1 type="stream" tvg-id="Rede Gospel Brasil" tvg-logo="http://7upsp8.com.br/tvlogos/redegospel.png" group-title="Canais | Religiosos",Rede Gospel Brasil
+http://7up2.com:80/LuanSantosDELE/21974352885/695
+#EXTINF:-1 type="stream" tvg-id="Rede Luz Para Vida" tvg-logo="http://7upsp8.com.br/tvlogos/redeluzparavida.png" group-title="Canais | Religiosos",Rede Luz Para Vida
+http://7up2.com:80/LuanSantosDELE/21974352885/61024
+#EXTINF:-1 type="stream" tvg-id="Rede Plenitude" tvg-logo="https://i.imgur.com/UXaaI7S.png" group-title="Canais | Religiosos",Rede Plenitude
+http://7up2.com:80/LuanSantosDELE/21974352885/87139
+#EXTINF:-1 type="stream" tvg-id="Rede Super HD" tvg-logo="http://7upsp8.com.br/tvlogos/redesuper.png" group-title="Canais | Religiosos",Rede Super HD
+http://7up2.com:80/LuanSantosDELE/21974352885/694
+#EXTINF:-1 type="stream" tvg-id="Rede Século 21" tvg-logo="http://7upsp8.com.br/tvlogos/redeseculo21rs21.png" group-title="Canais | Religiosos",Rede Século 21
+http://7up2.com:80/LuanSantosDELE/21974352885/698
+#EXTINF:-1 type="stream" tvg-id="Rede TV! FHD" tvg-logo="http://7upsp8.com.br/tvlogos/redetv.png" group-title="Canais | Abertos",Rede TV! FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/52
+#EXTINF:-1 type="stream" tvg-id="Rede TV! HD" tvg-logo="http://7upsp8.com.br/tvlogos/redetv.png" group-title="Canais | Abertos",Rede TV! HD
+http://7up2.com:80/LuanSantosDELE/21974352885/53
+#EXTINF:-1 type="stream" tvg-id="Rede Vida HD" tvg-logo="http://7upsp8.com.br/tvlogos/redevida.png" group-title="Canais | Religiosos",Rede Vida HD
+http://7up2.com:80/LuanSantosDELE/21974352885/696
+#EXTINF:-1 type="stream" tvg-id="RIT TV HD" tvg-logo="http://7upsp8.com.br/tvlogos/rit.png" group-title="Canais | Religiosos",RIT TV HD
+http://7up2.com:80/LuanSantosDELE/21974352885/697
+#EXTINF:-1 type="stream" tvg-id="RT Documentary" tvg-logo="http://7upsp8.com.br/tvlogos/rtdocumentary.png" group-title="Canais | Jornalismo",RT Documentary
+http://7up2.com:80/LuanSantosDELE/21974352885/319
+#EXTINF:-1 type="stream" tvg-id="Sabor e Arte 2 HD" tvg-logo="https://cseprs3.s3.amazonaws.com/email-editor-files/e76a405b-665c-4277-6e2a-08d82a5048c3/8d6c04dd-0c53-4ea3-99b3-e0e73065dd98.png" group-title="Canais | Variedades",Sabor e Arte 2 HD
+http://7up2.com:80/LuanSantosDELE/21974352885/459
+#EXTINF:-1 type="stream" tvg-id="Sabor e Arte FHD" tvg-logo="http://7upsp8.com.br/tvlogos/saborearte.png" group-title="Canais | Variedades",Sabor e Arte FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/299
+#EXTINF:-1 type="stream" tvg-id="SBT Alterosa MG FHD" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT Alterosa MG FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/308
+#EXTINF:-1 type="stream" tvg-id="SBT Alterosa MG HD" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT Alterosa MG HD
+http://7up2.com:80/LuanSantosDELE/21974352885/62
+#EXTINF:-1 type="stream" tvg-id="SBT Cidade Verde PI HD" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT Cidade Verde PI HD
+http://7up2.com:80/LuanSantosDELE/21974352885/66
+#EXTINF:-1 type="stream" tvg-id="SBT Interior SP HD" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT Interior SP HD
+http://7up2.com:80/LuanSantosDELE/21974352885/59
+#EXTINF:-1 type="stream" tvg-id="SBT Jangadeiro CE FHD" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT Jangadeiro CE FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/56
+#EXTINF:-1 type="stream" tvg-id="SBT Jornal PE HD" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT Jornal PE HD
+http://7up2.com:80/LuanSantosDELE/21974352885/60
+#EXTINF:-1 type="stream" tvg-id="SBT MA HD" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT MA HD
+http://7up2.com:80/LuanSantosDELE/21974352885/61
+#EXTINF:-1 type="stream" tvg-id="SBT Piauí FHD" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT Piauí FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/262
+#EXTINF:-1 type="stream" tvg-id="SBT PR HD²" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT PR HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/67
+#EXTINF:-1 type="stream" tvg-id="SBT RJ FHD" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT RJ FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/40405
+#EXTINF:-1 type="stream" tvg-id="SBT RJ FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT RJ FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/48784
+#EXTINF:-1 type="stream" tvg-id="SBT RJ HD²" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT RJ HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/69
+#EXTINF:-1 type="stream" tvg-id="SBT RS HD²" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT RS HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/70
+#EXTINF:-1 type="stream" tvg-id="SBT SC HD²" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT SC HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/71
+#EXTINF:-1 type="stream" tvg-id="SBT Serra Dourada GO FHD" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT Serra Dourada GO FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/57
+#EXTINF:-1 type="stream" tvg-id="SBT SP FHD" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT SP FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/64
+#EXTINF:-1 type="stream" tvg-id="SBT SP FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT SP FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/73
+#EXTINF:-1 type="stream" tvg-id="SBT SP HD" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT SP HD
+http://7up2.com:80/LuanSantosDELE/21974352885/58
+#EXTINF:-1 type="stream" tvg-id="SBT SP HD²" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT SP HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/72
+#EXTINF:-1 type="stream" tvg-id="SBT Tambaú PB HD" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT Tambaú PB HD
+http://7up2.com:80/LuanSantosDELE/21974352885/468299
+#EXTINF:-1 type="stream" tvg-id="SBT TV Aratu BA" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT TV Aratu BA
+http://7up2.com:80/LuanSantosDELE/21974352885/55
+#EXTINF:-1 type="stream" tvg-id="SescTV" tvg-logo="http://7upsp8.com.br/tvlogos/sesctv.png" group-title="Canais | Abertos",SescTV
+http://7up2.com:80/LuanSantosDELE/21974352885/76
+#EXTINF:-1 type="stream" tvg-id="Sony FHD" tvg-logo="http://7upsp8.com.br/tvlogos/sony.png" group-title="Canais | Filmes e Séries",Sony FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/460
+#EXTINF:-1 type="stream" tvg-id="Sony HD" tvg-logo="http://7upsp8.com.br/tvlogos/sony.png" group-title="Canais | Filmes e Séries",Sony HD
+http://7up2.com:80/LuanSantosDELE/21974352885/461
+#EXTINF:-1 type="stream" tvg-id="Sony HD²" tvg-logo="http://7upsp8.com.br/tvlogos/sony.png" group-title="Canais | Filmes e Séries",Sony HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/463
+#EXTINF:-1 type="stream" tvg-id="Space FHD" tvg-logo="http://7upsp8.com.br/tvlogos/space.png" group-title="Canais | Filmes e Séries",Space FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/464
+#EXTINF:-1 type="stream" tvg-id="Space FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/space.png" group-title="Canais | Filmes e Séries",Space FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/61022
+#EXTINF:-1 type="stream" tvg-id="Space HD" tvg-logo="http://7upsp8.com.br/tvlogos/space.png" group-title="Canais | Filmes e Séries",Space HD
+http://7up2.com:80/LuanSantosDELE/21974352885/465
+#EXTINF:-1 type="stream" tvg-id="Space HD²" tvg-logo="http://7upsp8.com.br/tvlogos/space.png" group-title="Canais | Filmes e Séries",Space HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/61023
+#EXTINF:-1 type="stream" tvg-id="SporTV 1 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/sportv1.png" group-title="Canais | Esportes",SporTV 1 FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/607
+#EXTINF:-1 type="stream" tvg-id="SporTV 1 FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/sportv1.png" group-title="Canais | Esportes",SporTV 1 FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/41801
+#EXTINF:-1 type="stream" tvg-id="SporTV 1 HD" tvg-logo="http://7upsp8.com.br/tvlogos/sportv1.png" group-title="Canais | Esportes",SporTV 1 HD
+http://7up2.com:80/LuanSantosDELE/21974352885/609
+#EXTINF:-1 type="stream" tvg-id="SporTV 1 HD²" tvg-logo="http://7upsp8.com.br/tvlogos/sportv1.png" group-title="Canais | Esportes",SporTV 1 HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/41800
+#EXTINF:-1 type="stream" tvg-id="SporTV 1 SD" tvg-logo="http://7upsp8.com.br/tvlogos/sportv1.png" group-title="Canais | Esportes",SporTV 1 SD
+http://7up2.com:80/LuanSantosDELE/21974352885/611
+#EXTINF:-1 type="stream" tvg-id="SporTV 2 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/sportv2.png" group-title="Canais | Esportes",SporTV 2 FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/597
+#EXTINF:-1 type="stream" tvg-id="SporTV 2 FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/sportv2.png" group-title="Canais | Esportes",SporTV 2 FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/47498
+#EXTINF:-1 type="stream" tvg-id="SporTV 2 HD" tvg-logo="http://7upsp8.com.br/tvlogos/sportv2.png" group-title="Canais | Esportes",SporTV 2 HD
+http://7up2.com:80/LuanSantosDELE/21974352885/599
+#EXTINF:-1 type="stream" tvg-id="SporTV 2 HD²" tvg-logo="http://7upsp8.com.br/tvlogos/sportv2.png" group-title="Canais | Esportes",SporTV 2 HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/47500
+#EXTINF:-1 type="stream" tvg-id="Sportv 2 SD" tvg-logo="http://7upsp8.com.br/tvlogos/sportv2.png" group-title="Canais | Esportes",Sportv 2 SD
+http://7up2.com:80/LuanSantosDELE/21974352885/601
+#EXTINF:-1 type="stream" tvg-id="SporTV 3 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/sportv3.png" group-title="Canais | Esportes",SporTV 3 FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/602
+#EXTINF:-1 type="stream" tvg-id="SporTV 3 FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/sportv3.png" group-title="Canais | Esportes",SporTV 3 FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/449
+#EXTINF:-1 type="stream" tvg-id="SporTV 3 HD" tvg-logo="http://7upsp8.com.br/tvlogos/sportv3.png" group-title="Canais | Esportes",SporTV 3 HD
+http://7up2.com:80/LuanSantosDELE/21974352885/604
+#EXTINF:-1 type="stream" tvg-id="SporTV 3 SD" tvg-logo="http://7upsp8.com.br/tvlogos/sportv3.png" group-title="Canais | Esportes",SporTV 3 SD
+http://7up2.com:80/LuanSantosDELE/21974352885/606
+#EXTINF:-1 type="stream" tvg-id="Sportv Extra 01" tvg-logo="http://7upsp8.com.br/tvlogos/sportvextra.png" group-title="Canais | Esportes PPV",Sportv Extra 01
+http://7up2.com:80/LuanSantosDELE/21974352885/169
+#EXTINF:-1 type="stream" tvg-id="Sportv Extra 02" tvg-logo="http://7upsp8.com.br/tvlogos/sportvextra.png" group-title="Canais | Esportes PPV",Sportv Extra 02
+http://7up2.com:80/LuanSantosDELE/21974352885/467
+#EXTINF:-1 type="stream" tvg-id="Sportv Extra 03" tvg-logo="http://7upsp8.com.br/tvlogos/sportvextra.png" group-title="Canais | Esportes PPV",Sportv Extra 03
+http://7up2.com:80/LuanSantosDELE/21974352885/450
+#EXTINF:-1 type="stream" tvg-id="Sportynet 01" tvg-logo="http://7upsp8.com.br/tvlogos/sportynet.png" group-title="Canais | Esportes PPV",Sportynet 01
+http://7up2.com:80/LuanSantosDELE/21974352885/440
+#EXTINF:-1 type="stream" tvg-id="Sportynet 02" tvg-logo="http://7upsp8.com.br/tvlogos/sportynet.png" group-title="Canais | Esportes PPV",Sportynet 02
+http://7up2.com:80/LuanSantosDELE/21974352885/439
+#EXTINF:-1 type="stream" tvg-id="Sportynet 03" tvg-logo="http://7upsp8.com.br/tvlogos/sportynet.png" group-title="Canais | Esportes PPV",Sportynet 03
+http://7up2.com:80/LuanSantosDELE/21974352885/441
+#EXTINF:-1 type="stream" tvg-id="Sportynet 04" tvg-logo="http://7upsp8.com.br/tvlogos/sportynet.png" group-title="Canais | Esportes PPV",Sportynet 04
+http://7up2.com:80/LuanSantosDELE/21974352885/448
+#EXTINF:-1 type="stream" tvg-id="Studio Universal FHD" tvg-logo="http://7upsp8.com.br/tvlogos/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/471
+#EXTINF:-1 type="stream" tvg-id="Studio Universal HD" tvg-logo="http://7upsp8.com.br/tvlogos/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal HD
+http://7up2.com:80/LuanSantosDELE/21974352885/473
+#EXTINF:-1 type="stream" tvg-id="Studio Universal HD²" tvg-logo="http://7upsp8.com.br/tvlogos/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/474
+#EXTINF:-1 type="stream" tvg-id="TCM FHD" tvg-logo="http://7upsp8.com.br/tvlogos/tcm.png" group-title="Canais | Filmes e Séries",TCM FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/478
+#EXTINF:-1 type="stream" tvg-id="TCM HD" tvg-logo="http://7upsp8.com.br/tvlogos/tcm.png" group-title="Canais | Filmes e Séries",TCM HD
+http://7up2.com:80/LuanSantosDELE/21974352885/479
+#EXTINF:-1 type="stream" tvg-id="TCM HD²" tvg-logo="http://7upsp8.com.br/tvlogos/tcm.png" group-title="Canais | Filmes e Séries",TCM HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/480
+#EXTINF:-1 type="stream" tvg-id="Telecine Action FHD" tvg-logo="http://7upsp8.com.br/tvlogos/tcaction.png" group-title="Canais | Rede Telecine",Telecine Action FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/504
+#EXTINF:-1 type="stream" tvg-id="Telecine Action FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/tcaction.png" group-title="Canais | Rede Telecine",Telecine Action FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/505
+#EXTINF:-1 type="stream" tvg-id="Telecine Action HD" tvg-logo="http://7upsp8.com.br/tvlogos/tcaction.png" group-title="Canais | Rede Telecine",Telecine Action HD
+http://7up2.com:80/LuanSantosDELE/21974352885/506
+#EXTINF:-1 type="stream" tvg-id="Telecine Action HD²" tvg-logo="http://7upsp8.com.br/tvlogos/tcaction.png" group-title="Canais | Rede Telecine",Telecine Action HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/507
+#EXTINF:-1 type="stream" tvg-id="Telecine Action SD" tvg-logo="http://7upsp8.com.br/tvlogos/tcaction.png" group-title="Canais | Rede Telecine",Telecine Action SD
+http://7up2.com:80/LuanSantosDELE/21974352885/508
+#EXTINF:-1 type="stream" tvg-id="Telecine Cult FHD" tvg-logo="http://7upsp8.com.br/tvlogos/telecinecult.png" group-title="Canais | Rede Telecine",Telecine Cult FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/510
+#EXTINF:-1 type="stream" tvg-id="Telecine Cult FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/telecinecult.png" group-title="Canais | Rede Telecine",Telecine Cult FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/509
+#EXTINF:-1 type="stream" tvg-id="Telecine Cult HD" tvg-logo="http://7upsp8.com.br/tvlogos/telecinecult.png" group-title="Canais | Rede Telecine",Telecine Cult HD
+http://7up2.com:80/LuanSantosDELE/21974352885/511
+#EXTINF:-1 type="stream" tvg-id="Telecine Cult HD²" tvg-logo="http://7upsp8.com.br/tvlogos/telecinecult.png" group-title="Canais | Rede Telecine",Telecine Cult HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/48772
+#EXTINF:-1 type="stream" tvg-id="Telecine Cult SD" tvg-logo="http://7upsp8.com.br/tvlogos/telecinecult.png" group-title="Canais | Rede Telecine",Telecine Cult SD
+http://7up2.com:80/LuanSantosDELE/21974352885/513
+#EXTINF:-1 type="stream" tvg-id="Telecine Fun FHD" tvg-logo="http://7upsp8.com.br/tvlogos/tcfun.png" group-title="Canais | Rede Telecine",Telecine Fun FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/514
+#EXTINF:-1 type="stream" tvg-id="Telecine Fun FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/tcfun.png" group-title="Canais | Rede Telecine",Telecine Fun FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/515
+#EXTINF:-1 type="stream" tvg-id="Telecine Fun HD" tvg-logo="http://7upsp8.com.br/tvlogos/tcfun.png" group-title="Canais | Rede Telecine",Telecine Fun HD
+http://7up2.com:80/LuanSantosDELE/21974352885/516
+#EXTINF:-1 type="stream" tvg-id="Telecine Fun HD²" tvg-logo="http://7upsp8.com.br/tvlogos/tcfun.png" group-title="Canais | Rede Telecine",Telecine Fun HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/48773
+#EXTINF:-1 type="stream" tvg-id="Telecine Fun SD" tvg-logo="http://7upsp8.com.br/tvlogos/tcfun.png" group-title="Canais | Rede Telecine",Telecine Fun SD
+http://7up2.com:80/LuanSantosDELE/21974352885/518
+#EXTINF:-1 type="stream" tvg-id="Telecine Pipoca FHD" tvg-logo="http://7upsp8.com.br/tvlogos/tcpipoca.png" group-title="Canais | Rede Telecine",Telecine Pipoca FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/519
+#EXTINF:-1 type="stream" tvg-id="Telecine Pipoca FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/tcpipoca.png" group-title="Canais | Rede Telecine",Telecine Pipoca FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/520
+#EXTINF:-1 type="stream" tvg-id="Telecine Pipoca HD" tvg-logo="http://7upsp8.com.br/tvlogos/tcpipoca.png" group-title="Canais | Rede Telecine",Telecine Pipoca HD
+http://7up2.com:80/LuanSantosDELE/21974352885/521
+#EXTINF:-1 type="stream" tvg-id="Telecine Pipoca HD²" tvg-logo="http://7upsp8.com.br/tvlogos/tcpipoca.png" group-title="Canais | Rede Telecine",Telecine Pipoca HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/522
+#EXTINF:-1 type="stream" tvg-id="Telecine Pipoca SD" tvg-logo="http://7upsp8.com.br/tvlogos/tcpipoca.png" group-title="Canais | Rede Telecine",Telecine Pipoca SD
+http://7up2.com:80/LuanSantosDELE/21974352885/523
+#EXTINF:-1 type="stream" tvg-id="Telecine Premium FHD" tvg-logo="http://7upsp8.com.br/tvlogos/tcpremium.png" group-title="Canais | Rede Telecine",Telecine Premium FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/524
+#EXTINF:-1 type="stream" tvg-id="Telecine Premium FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/tcpremium.png" group-title="Canais | Rede Telecine",Telecine Premium FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/525
+#EXTINF:-1 type="stream" tvg-id="Telecine Premium HD" tvg-logo="http://7upsp8.com.br/tvlogos/tcpremium.png" group-title="Canais | Rede Telecine",Telecine Premium HD
+http://7up2.com:80/LuanSantosDELE/21974352885/526
+#EXTINF:-1 type="stream" tvg-id="Telecine Premium HD²" tvg-logo="http://7upsp8.com.br/tvlogos/tcpremium.png" group-title="Canais | Rede Telecine",Telecine Premium HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/527
+#EXTINF:-1 type="stream" tvg-id="Telecine Premium SD" tvg-logo="http://7upsp8.com.br/tvlogos/tcpremium.png" group-title="Canais | Rede Telecine",Telecine Premium SD
+http://7up2.com:80/LuanSantosDELE/21974352885/528
+#EXTINF:-1 type="stream" tvg-id="Telecine Touch FHD" tvg-logo="http://7upsp8.com.br/tvlogos/tctouch.png" group-title="Canais | Rede Telecine",Telecine Touch FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/529
+#EXTINF:-1 type="stream" tvg-id="Telecine Touch FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/tctouch.png" group-title="Canais | Rede Telecine",Telecine Touch FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/530
+#EXTINF:-1 type="stream" tvg-id="Telecine Touch HD" tvg-logo="http://7upsp8.com.br/tvlogos/tctouch.png" group-title="Canais | Rede Telecine",Telecine Touch HD
+http://7up2.com:80/LuanSantosDELE/21974352885/531
+#EXTINF:-1 type="stream" tvg-id="Telecine Touch SD" tvg-logo="http://7upsp8.com.br/tvlogos/tctouch.png" group-title="Canais | Rede Telecine",Telecine Touch SD
+http://7up2.com:80/LuanSantosDELE/21974352885/533
+#EXTINF:-1 type="stream" tvg-id="Terra Viva FHD" tvg-logo="http://7upsp8.com.br/tvlogos/terraviva.png" group-title="Canais | Abertos",Terra Viva FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/78
+#EXTINF:-1 type="stream" tvg-id="Terra Viva HD²" tvg-logo="http://7upsp8.com.br/tvlogos/terraviva.png" group-title="Canais | Abertos",Terra Viva HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/77
+#EXTINF:-1 type="stream" tvg-id="The History FHD" tvg-logo="http://7upsp8.com.br/tvlogos/history.png" group-title="Canais | Cultura e Documentário",The History FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/375
+#EXTINF:-1 type="stream" tvg-id="The History FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/history.png" group-title="Canais | Cultura e Documentário",The History FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/253
+#EXTINF:-1 type="stream" tvg-id="The History HD" tvg-logo="http://7upsp8.com.br/tvlogos/history.png" group-title="Canais | Cultura e Documentário",The History HD
+http://7up2.com:80/LuanSantosDELE/21974352885/376
+#EXTINF:-1 type="stream" tvg-id="The History HD²" tvg-logo="http://7upsp8.com.br/tvlogos/history.png" group-title="Canais | Cultura e Documentário",The History HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/257
+#EXTINF:-1 type="stream" tvg-id="TNT FHD" tvg-logo="http://7upsp8.com.br/tvlogos/tnt.png" group-title="Canais | Filmes e Séries",TNT FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/485
+#EXTINF:-1 type="stream" tvg-id="TNT FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/tnt.png" group-title="Canais | Filmes e Séries",TNT FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/484
+#EXTINF:-1 type="stream" tvg-id="TNT HD" tvg-logo="http://7upsp8.com.br/tvlogos/tnt.png" group-title="Canais | Filmes e Séries",TNT HD
+http://7up2.com:80/LuanSantosDELE/21974352885/486
+#EXTINF:-1 type="stream" tvg-id="TNT HD²" tvg-logo="http://7upsp8.com.br/tvlogos/tnt.png" group-title="Canais | Filmes e Séries",TNT HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/487
+#EXTINF:-1 type="stream" tvg-id="TNT Novelas FHD" tvg-logo="http://7upsp8.com.br/tvlogos/tntnovelas.png" group-title="Canais | Variedades",TNT Novelas FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/475
+#EXTINF:-1 type="stream" tvg-id="TNT Novelas HD" tvg-logo="http://7upsp8.com.br/tvlogos/tntnovelas.png" group-title="Canais | Variedades",TNT Novelas HD
+http://7up2.com:80/LuanSantosDELE/21974352885/476
+#EXTINF:-1 type="stream" tvg-id="TNT Novelas HD²" tvg-logo="http://7upsp8.com.br/tvlogos/tntnovelas.png" group-title="Canais | Variedades",TNT Novelas HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/477
+#EXTINF:-1 type="stream" tvg-id="TNT Series FHD" tvg-logo="http://7upsp8.com.br/tvlogos/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/489
+#EXTINF:-1 type="stream" tvg-id="TNT Series FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/87170
+#EXTINF:-1 type="stream" tvg-id="TNT Series HD" tvg-logo="http://7upsp8.com.br/tvlogos/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series HD
+http://7up2.com:80/LuanSantosDELE/21974352885/490
+#EXTINF:-1 type="stream" tvg-id="TNT Series HD²" tvg-logo="http://7upsp8.com.br/tvlogos/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/87171
+#EXTINF:-1 type="stream" tvg-id="Tooncast FHD" tvg-logo="http://7upsp8.com.br/tvlogos/tooncast.png" group-title="Canais | Infantis",Tooncast FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/407
+#EXTINF:-1 type="stream" tvg-id="Tooncast HD" tvg-logo="http://7upsp8.com.br/tvlogos/tooncast.png" group-title="Canais | Infantis",Tooncast HD
+http://7up2.com:80/LuanSantosDELE/21974352885/408
+#EXTINF:-1 type="stream" tvg-id="Tooncast HD²" tvg-logo="http://7upsp8.com.br/tvlogos/tooncast.png" group-title="Canais | Infantis",Tooncast HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/409
+#EXTINF:-1 type="stream" tvg-id="Top Mix TV" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Top Mix TV
+http://7up2.com:80/LuanSantosDELE/21974352885/416
+#EXTINF:-1 type="stream" tvg-id="Travel Box Brasil FHD" tvg-logo="http://7upsp8.com.br/tvlogos/travelboxbrazil.png" group-title="Canais | Variedades",Travel Box Brasil FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/298
+#EXTINF:-1 type="stream" tvg-id="TV Aparecida HD" tvg-logo="http://7upsp8.com.br/tvlogos/aparecida.png" group-title="Canais | Religiosos",TV Aparecida HD
+http://7up2.com:80/LuanSantosDELE/21974352885/54601
+#EXTINF:-1 type="stream" tvg-id="TV Brasil 2 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/tvbrasil.png" group-title="Canais | Abertos",TV Brasil 2 FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/79
+#EXTINF:-1 type="stream" tvg-id="TV Brasil FHD" tvg-logo="http://7upsp8.com.br/tvlogos/tvbrasil.png" group-title="Canais | Abertos",TV Brasil FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/80
+#EXTINF:-1 type="stream" tvg-id="TV Clássicos - Filmes" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",TV Clássicos - Filmes
+http://7up2.com:80/LuanSantosDELE/21974352885/424
+#EXTINF:-1 type="stream" tvg-id="TV Cultura FHD" tvg-logo="http://7up2.com/images/58ddf8cb4af471b600ed55f645974f35.png" group-title="Canais | Variedades",TV Cultura FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/304
+#EXTINF:-1 type="stream" tvg-id="TV Cultura FHD²" tvg-logo="http://7up2.com/images/58ddf8cb4af471b600ed55f645974f35.png" group-title="Canais | Variedades",TV Cultura FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/303
+#EXTINF:-1 type="stream" tvg-id="TV Câmara" tvg-logo="http://7upsp8.com.br/tvlogos/tvcamara.png" group-title="Canais | Abertos",TV Câmara
+http://7up2.com:80/LuanSantosDELE/21974352885/81
+#EXTINF:-1 type="stream" tvg-id="Tv Diario FHD" tvg-logo="http://7upsp8.com.br/tvlogos/diario.png" group-title="Canais | Abertos",Tv Diario FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/84
+#EXTINF:-1 type="stream" tvg-id="Tv Diario HD" tvg-logo="http://7upsp8.com.br/tvlogos/diario.png" group-title="Canais | Abertos",Tv Diario HD
+http://7up2.com:80/LuanSantosDELE/21974352885/85
+#EXTINF:-1 type="stream" tvg-id="TV Diário SD" tvg-logo="http://7upsp8.com.br/tvlogos/diario.png" group-title="Canais | Abertos",TV Diário SD
+http://7up2.com:80/LuanSantosDELE/21974352885/86
+#EXTINF:-1 type="stream" tvg-id="TV Escola FHD" tvg-logo="http://7up2.com/images/a16a04545de55d989e6c76d8c846acd0.png" group-title="Canais | Variedades",TV Escola FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/305
+#EXTINF:-1 type="stream" tvg-id="TV Evangelizar" tvg-logo="http://7upsp8.com.br/tvlogos/tvegangelizar.png" group-title="Canais | Religiosos",TV Evangelizar
+http://7up2.com:80/LuanSantosDELE/21974352885/701
+#EXTINF:-1 type="stream" tvg-id="TV Gazeta FHD" tvg-logo="http://7upsp8.com.br/tvlogos/gazeta.png" group-title="Canais | Abertos",TV Gazeta FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/88
+#EXTINF:-1 type="stream" tvg-id="TV Gazeta PA (TV Grão Pará) HD²" tvg-logo="http://7upsp8.com.br/tvlogos/gazeta.png" group-title="Canais | Abertos",TV Gazeta PA (TV Grão Pará) HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/89
+#EXTINF:-1 type="stream" tvg-id="TV Gazeta SP (TV Araçatuba)" tvg-logo="http://7upsp8.com.br/tvlogos/gazeta.png" group-title="Canais | Abertos",TV Gazeta SP (TV Araçatuba)
+http://7up2.com:80/LuanSantosDELE/21974352885/699
+#EXTINF:-1 type="stream" tvg-id="TV Gideões" tvg-logo="http://7upsp8.com.br/tvlogos/tvgideoes.png" group-title="Canais | Religiosos",TV Gideões
+http://7up2.com:80/LuanSantosDELE/21974352885/702
+#EXTINF:-1 type="stream" tvg-id="TV Imaculada Conceição" tvg-logo="https://i.imgur.com/d4PBaD5.png" group-title="Canais | Religiosos",TV Imaculada Conceição
+http://7up2.com:80/LuanSantosDELE/21974352885/703
+#EXTINF:-1 type="stream" tvg-id="TV Justiça FHD" tvg-logo="http://7upsp8.com.br/tvlogos/tvjustica.png" group-title="Canais | Abertos",TV Justiça FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/91
+#EXTINF:-1 type="stream" tvg-id="TV Maná BR" tvg-logo="https://i.imgur.com/VNKhxgm.png" group-title="Canais | Religiosos",TV Maná BR
+http://7up2.com:80/LuanSantosDELE/21974352885/704
+#EXTINF:-1 type="stream" tvg-id="TV Novo Tempo" tvg-logo="http://7upsp8.com.br/tvlogos/novotempo.png" group-title="Canais | Religiosos",TV Novo Tempo
+http://7up2.com:80/LuanSantosDELE/21974352885/707
+#EXTINF:-1 type="stream" tvg-id="TV Novo Tempo FHD" tvg-logo="http://7upsp8.com.br/tvlogos/novotempo.png" group-title="Canais | Religiosos",TV Novo Tempo FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/706
+#EXTINF:-1 type="stream" tvg-id="TV Novo Tempo HD" tvg-logo="http://7upsp8.com.br/tvlogos/novotempo.png" group-title="Canais | Religiosos",TV Novo Tempo HD
+http://7up2.com:80/LuanSantosDELE/21974352885/291
+#EXTINF:-1 type="stream" tvg-id="TV Pai Eterno HD" tvg-logo="https://i.imgur.com/kr2uvhC.png" group-title="Canais | Religiosos",TV Pai Eterno HD
+http://7up2.com:80/LuanSantosDELE/21974352885/708
+#EXTINF:-1 type="stream" tvg-id="TV Ra Tim Bum FHD" tvg-logo="http://7upsp8.com.br/tvlogos/tvratimbum.png" group-title="Canais | Infantis",TV Ra Tim Bum FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/410
+#EXTINF:-1 type="stream" tvg-id="TV Ra Tim Bum HD" tvg-logo="http://7upsp8.com.br/tvlogos/tvratimbum.png" group-title="Canais | Infantis",TV Ra Tim Bum HD
+http://7up2.com:80/LuanSantosDELE/21974352885/411
+#EXTINF:-1 type="stream" tvg-id="TV Ra Tim Bum HD²" tvg-logo="http://7upsp8.com.br/tvlogos/tvratimbum.png" group-title="Canais | Infantis",TV Ra Tim Bum HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/412
+#EXTINF:-1 type="stream" tvg-id="TV Senado SD" tvg-logo="http://7upsp8.com.br/tvlogos/tvsenado.png" group-title="Canais | Abertos",TV Senado SD
+http://7up2.com:80/LuanSantosDELE/21974352885/93
+#EXTINF:-1 type="stream" tvg-id="TV Thathi - Ribeirão Preto" tvg-logo="https://i.imgur.com/5FuFMr6.png" group-title="Canais | Abertos",TV Thathi - Ribeirão Preto
+http://7up2.com:80/LuanSantosDELE/21974352885/654
+#EXTINF:-1 type="stream" tvg-id="UFC Fight Pass 01 HD" tvg-logo="http://7upsp8.com.br/tvlogos/ufcfight.png" group-title="Canais | Esportes",UFC Fight Pass 01 HD
+http://7up2.com:80/LuanSantosDELE/21974352885/81649
+#EXTINF:-1 type="stream" tvg-id="UFC Fight Pass 01 HD²" tvg-logo="http://7upsp8.com.br/tvlogos/ufcfight.png" group-title="Canais | Esportes",UFC Fight Pass 01 HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/80107
+#EXTINF:-1 type="stream" tvg-id="UFC Fight Pass 01 HD³" tvg-logo="http://7upsp8.com.br/tvlogos/ufcfight.png" group-title="Canais | Esportes",UFC Fight Pass 01 HD³
+http://7up2.com:80/LuanSantosDELE/21974352885/269249
+#EXTINF:-1 type="stream" tvg-id="UFC Fight Pass 02 HD" tvg-logo="http://7upsp8.com.br/tvlogos/ufcfight.png" group-title="Canais | Esportes",UFC Fight Pass 02 HD
+http://7up2.com:80/LuanSantosDELE/21974352885/610
+#EXTINF:-1 type="stream" tvg-id="UFC Fight Pass 02 HD²" tvg-logo="http://7upsp8.com.br/tvlogos/ufcfight.png" group-title="Canais | Esportes",UFC Fight Pass 02 HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/82832
+#EXTINF:-1 type="stream" tvg-id="UFC Fight Pass 03 HD" tvg-logo="http://7upsp8.com.br/tvlogos/ufcfight.png" group-title="Canais | Esportes",UFC Fight Pass 03 HD
+http://7up2.com:80/LuanSantosDELE/21974352885/591
+#EXTINF:-1 type="stream" tvg-id="UFC Fight Pass 03 HD²" tvg-logo="http://7upsp8.com.br/tvlogos/ufcfight.png" group-title="Canais | Esportes",UFC Fight Pass 03 HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/269248
+#EXTINF:-1 type="stream" tvg-id="Universal Premiere FHD" tvg-logo="http://7upsp8.com.br/tvlogos/Universal_Premiere.png" group-title="Canais | Filmes e Séries",Universal Premiere FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/374
+#EXTINF:-1 type="stream" tvg-id="Universal Premiere HD" tvg-logo="http://7upsp8.com.br/tvlogos/Universal_Premiere.png" group-title="Canais | Filmes e Séries",Universal Premiere HD
+http://7up2.com:80/LuanSantosDELE/21974352885/378
+#EXTINF:-1 type="stream" tvg-id="Universal Reality FHD" tvg-logo="http://7upsp8.com.br/tvlogos/Universal_Reality.png" group-title="Canais | Filmes e Séries",Universal Reality FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/379
+#EXTINF:-1 type="stream" tvg-id="Universal Reality HD" tvg-logo="http://7upsp8.com.br/tvlogos/Universal_Reality.png" group-title="Canais | Filmes e Séries",Universal Reality HD
+http://7up2.com:80/LuanSantosDELE/21974352885/380
+#EXTINF:-1 type="stream" tvg-id="Universal TV FHD" tvg-logo="http://7upsp8.com.br/tvlogos/universalchannel.png" group-title="Canais | Filmes e Séries",Universal TV FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/493
+#EXTINF:-1 type="stream" tvg-id="Universal TV HD" tvg-logo="http://7upsp8.com.br/tvlogos/universalchannel.png" group-title="Canais | Filmes e Séries",Universal TV HD
+http://7up2.com:80/LuanSantosDELE/21974352885/494
+#EXTINF:-1 type="stream" tvg-id="Universal TV HD²" tvg-logo="http://7upsp8.com.br/tvlogos/universalchannel.png" group-title="Canais | Filmes e Séries",Universal TV HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/496
+#EXTINF:-1 type="stream" tvg-id="Urban TV" tvg-logo="http://7up2.com/images/a3a5432469a050bac1e40472fbb739d7.png" group-title="Canais | Variedades",Urban TV
+http://7up2.com:80/LuanSantosDELE/21974352885/309
+#EXTINF:-1 type="stream" tvg-id="USA FHD" tvg-logo="http://7upsp8.com.br/tvlogos/usa.png" group-title="Canais | Filmes e Séries",USA FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/292
+#EXTINF:-1 type="stream" tvg-id="USA HD" tvg-logo="http://7upsp8.com.br/tvlogos/usa.png" group-title="Canais | Filmes e Séries",USA HD
+http://7up2.com:80/LuanSantosDELE/21974352885/293
+#EXTINF:-1 type="stream" tvg-id="USA HD²" tvg-logo="http://7upsp8.com.br/tvlogos/usa.png" group-title="Canais | Filmes e Séries",USA HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/294
+#EXTINF:-1 type="stream" tvg-id="Warner Channel FHD" tvg-logo="http://7upsp8.com.br/tvlogos/warner.png" group-title="Canais | Filmes e Séries",Warner Channel FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/499
+#EXTINF:-1 type="stream" tvg-id="Warner Channel FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/warner.png" group-title="Canais | Filmes e Séries",Warner Channel FHD²
+http://7up2.com:80/LuanSantosDELE/21974352885/497
+#EXTINF:-1 type="stream" tvg-id="Warner Channel HD" tvg-logo="http://7upsp8.com.br/tvlogos/warner.png" group-title="Canais | Filmes e Séries",Warner Channel HD
+http://7up2.com:80/LuanSantosDELE/21974352885/501
+#EXTINF:-1 type="stream" tvg-id="Warner Channel HD²" tvg-logo="http://7upsp8.com.br/tvlogos/warner.png" group-title="Canais | Filmes e Séries",Warner Channel HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/503
+#EXTINF:-1 type="stream" tvg-id="Woohoo FHD" tvg-logo="http://7upsp8.com.br/tvlogos/woohoo.png" group-title="Canais | Esportes",Woohoo FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/612
+#EXTINF:-1 type="stream" tvg-id="Woohoo HD" tvg-logo="http://7upsp8.com.br/tvlogos/woohoo.png" group-title="Canais | Esportes",Woohoo HD
+http://7up2.com:80/LuanSantosDELE/21974352885/613
+#EXTINF:-1 type="stream" tvg-id="Woohoo SD" tvg-logo="http://7upsp8.com.br/tvlogos/woohoo.png" group-title="Canais | Esportes",Woohoo SD
+http://7up2.com:80/LuanSantosDELE/21974352885/614
+#EXTINF:-1 type="stream" tvg-id="X Sports FHD" tvg-logo="http://7upsp8.com.br/tvlogos/xsports.png" group-title="Canais | Esportes",X Sports FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/492
+#EXTINF:-1 type="stream" tvg-id="X Sports HD" tvg-logo="http://7upsp8.com.br/tvlogos/xsports.png" group-title="Canais | Esportes",X Sports HD
+http://7up2.com:80/LuanSantosDELE/21974352885/488
+#EXTINF:-1 type="stream" tvg-id="X Sports HD²" tvg-logo="http://7upsp8.com.br/tvlogos/xsports.png" group-title="Canais | Esportes",X Sports HD²
+http://7up2.com:80/LuanSantosDELE/21974352885/466
+#EXTINF:-1 type="stream" tvg-id="Zoom TV" tvg-logo="https://www.pngkey.com/png/full/352-3523284_zoom-tv-ua-logo-zoom.png" group-title="Canais | Abertos",Zoom TV
+http://7up2.com:80/LuanSantosDELE/21974352885/96
+#EXTINF:-1 type="stream" tvg-id="ZooMoo FHD" tvg-logo="http://7upsp8.com.br/tvlogos/zoomoo.png" group-title="Canais | Infantis",ZooMoo FHD
+http://7up2.com:80/LuanSantosDELE/21974352885/414
+#EXTINF:-1 type="stream" tvg-id="ZooMoo HD" tvg-logo="https://i.imgur.com/siaWfbB.png" group-title="Canais | Infantis",ZooMoo HD
+http://7up2.com:80/LuanSantosDELE/21974352885/75992
+#EXTINF:-1 type="stream" tvg-id="[24H] Dora Aventureira" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Dora Aventureira
+http://7up2.com:80/LuanSantosDELE/21974352885/413
+#EXTINF:-1 type="stream" tvg-id="[24H] Os Três Patetas" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Programação 24 HRS",[24H] Os Três Patetas
+http://7up2.com:80/LuanSantosDELE/21974352885/532
+#EXTINF:-1 type="stream" tvg-id="Canal GOAT 03" tvg-logo="http://7upsp8.com.br/tvlogos/goat.png" group-title="Canais | Esportes PPV",Canal GOAT 03
+http://7up2.com:80/LuanSantosDELE/21974352885/392
+#EXTINF:-1 type="stream" tvg-id="Canal GOAT 04" tvg-logo="http://7upsp8.com.br/tvlogos/goat.png" group-title="Canais | Esportes PPV",Canal GOAT 04
+http://7up2.com:80/LuanSantosDELE/21974352885/393
