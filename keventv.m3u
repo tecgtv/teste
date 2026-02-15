@@ -1,4 +1,4 @@
-EXTM3U size="Medium"
+#EXTM3U size="Medium"
 #EXTINF:-1 type="stream" tvg-id=" Globo Nacional FHD (SP)" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais", Globo Nacional FHD (SP)
 http://7up2.com:80/KevenSsiptv/21976959642/123
 #EXTINF:-1 type="stream" tvg-id=" Globo Nacional HD (SP)" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais", Globo Nacional HD (SP)
