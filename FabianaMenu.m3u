@@ -4,7 +4,7 @@
 https://raw.githubusercontent.com/tecgtv/teste/refs/heads/main/FabianaCanais.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes
 #EXTBG:http://7upsp8.com.br/filmes.jpeg
-https://office7up.store/ssiptv/get/FabianaCarvalho/21990999090/movie_categories/
+https://raw.githubusercontent.com/tecgtv/teste/refs/heads/main/FabianaCarvalhoFilmes.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Séries
 #EXTBG:http://7upsp8.com.br/series.jpeg
 https://office7up.store/ssiptv/get/FabianaCarvalho/21990999090/serie_categories/
