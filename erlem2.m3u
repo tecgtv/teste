@@ -1,7 +1,0 @@
-<p class="trigger 2"><b>Erro na Linha: #86 ::</b> Undefined array key "category_name"<br><small>/home/office7up.store/public_html/ssiptv/index.php</small><span class="ajax_close"></span></p><p class="trigger 2"><b>Erro na Linha: #88 ::</b> Undefined array key "category_id"<br><small>/home/office7up.store/public_html/ssiptv/index.php</small><span class="ajax_close"></span></p>#EXTM3U size="Medium"
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",VER TUDO
-#EXTBG: #11609e
-https://office7up.store/ssiptv/get/ErlemEdimilson/22998668839/list_movies/-1/
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
-#EXTBG: #11609e
-https://office7up.store/ssiptv/get/ErlemEdimilson/22998668839/list_movies//
