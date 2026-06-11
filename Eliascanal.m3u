@@ -3,7 +3,7 @@
 http://7up2.com:80/live/Elias21/21993168216/123.m3u8
 #EXTINF:-1 type="stream" tvg-id=" Globo Nacional HD (SP)" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais", Globo Nacional HD (SP)
 http://7up2.com:80/live/Elias21/21993168216/48774.m3u8
-#EXTINF:-1 type="stream" tvg-id=" Principais Jogos do Dia" tvg-logo="http://7upsp8.com.br/tvlogos/jogosdodia.png" group-title="Canais | Esportes", Principais Jogos do Dia
+#EXTINF:-1 type="stream" tvg-id=" Principais Jogos do Dia" tvg-logo="http://7upsp8.com.br/tvlogos/jogosdodia.png" group-title="Área do Cliente", Principais Jogos do Dia
 http://7up2.com:80/live/Elias21/21993168216/1119304.m3u8
 #EXTINF:-1 type="stream" tvg-id="A&E FHD" tvg-logo="http://7upsp8.com.br/tvlogos/aee.png" group-title="Canais | Filmes e Séries",A&E FHD
 http://7up2.com:80/live/Elias21/21993168216/426.m3u8
@@ -19,18 +19,26 @@ http://7up2.com:80/live/Elias21/21993168216/300.m3u8
 http://7up2.com:80/live/Elias21/21993168216/301.m3u8
 #EXTINF:-1 type="stream" tvg-id="Agro+ FHD" tvg-logo="http://7upsp8.com.br/tvlogos/agromais.png" group-title="Canais | Abertos",Agro+ FHD
 http://7up2.com:80/live/Elias21/21993168216/3.m3u8
+#EXTINF:-1 type="stream" tvg-id="Amazon SAT" tvg-logo="http://7upsp8.com.br/tvlogos/amazonsat.png" group-title="Canais | Abertos",Amazon SAT
+http://7up2.com:80/live/Elias21/21993168216/78.m3u8
 #EXTINF:-1 type="stream" tvg-id="AMC FHD" tvg-logo="http://7upsp8.com.br/tvlogos/amc.png" group-title="Canais | Filmes e Séries",AMC FHD
 http://7up2.com:80/live/Elias21/21993168216/429.m3u8
 #EXTINF:-1 type="stream" tvg-id="AMC FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/amc.png" group-title="Canais | Filmes e Séries",AMC FHD²
 http://7up2.com:80/live/Elias21/21993168216/431.m3u8
 #EXTINF:-1 type="stream" tvg-id="AMC HD" tvg-logo="http://7upsp8.com.br/tvlogos/amc.png" group-title="Canais | Filmes e Séries",AMC HD
 http://7up2.com:80/live/Elias21/21993168216/430.m3u8
+#EXTINF:-1 type="stream" tvg-id="AMC Séries FHD" tvg-logo="http://7upsp8.com.br/tvlogos/amcseries1.png" group-title="Canais | Filmes e Séries",AMC Séries FHD
+http://7up2.com:80/live/Elias21/21993168216/79998.m3u8
+#EXTINF:-1 type="stream" tvg-id="AMC Séries HD" tvg-logo="http://7upsp8.com.br/tvlogos/amcseries1.png" group-title="Canais | Filmes e Séries",AMC Séries HD
+http://7up2.com:80/live/Elias21/21993168216/444.m3u8
 #EXTINF:-1 type="stream" tvg-id="Animal Planet FHD" tvg-logo="http://7upsp8.com.br/tvlogos/animalplanet.png" group-title="Canais | Cultura e Documentário",Animal Planet FHD
 http://7up2.com:80/live/Elias21/21993168216/345.m3u8
 #EXTINF:-1 type="stream" tvg-id="Animal Planet FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/animalplanet.png" group-title="Canais | Cultura e Documentário",Animal Planet FHD²
 http://7up2.com:80/live/Elias21/21993168216/37188.m3u8
 #EXTINF:-1 type="stream" tvg-id="Animal Planet HD" tvg-logo="http://7upsp8.com.br/tvlogos/animalplanet.png" group-title="Canais | Cultura e Documentário",Animal Planet HD
 http://7up2.com:80/live/Elias21/21993168216/346.m3u8
+#EXTINF:-1 type="stream" tvg-id="Animal Planet HD²" tvg-logo="http://7upsp8.com.br/tvlogos/animalplanet.png" group-title="Canais | Cultura e Documentário",Animal Planet HD²
+http://7up2.com:80/live/Elias21/21993168216/27.m3u8
 #EXTINF:-1 type="stream" tvg-id="Arte 1 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/arte1.png" group-title="Canais | Variedades",Arte 1 FHD
 http://7up2.com:80/live/Elias21/21993168216/226.m3u8
 #EXTINF:-1 type="stream" tvg-id="Arte 1 FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/arte1.png" group-title="Canais | Variedades",Arte 1 FHD²
@@ -43,13 +51,15 @@ http://7up2.com:80/live/Elias21/21993168216/432.m3u8
 http://7up2.com:80/live/Elias21/21993168216/82183.m3u8
 #EXTINF:-1 type="stream" tvg-id="AXN HD" tvg-logo="http://7upsp8.com.br/tvlogos/axn.png" group-title="Canais | Filmes e Séries",AXN HD
 http://7up2.com:80/live/Elias21/21993168216/433.m3u8
+#EXTINF:-1 type="stream" tvg-id="Baby TV HD" tvg-logo="http://7upsp8.com.br/tvlogos/babytv.png" group-title="Canais | Infantis",Baby TV HD
+http://7up2.com:80/live/Elias21/21993168216/75992.m3u8
 #EXTINF:-1 type="stream" tvg-id="Band Bahia FHD" tvg-logo="http://7upsp8.com.br/tvlogos/band.png" group-title="Canais | Band, SBT, Record",Band Bahia FHD
 http://7up2.com:80/live/Elias21/21993168216/4.m3u8
 #EXTINF:-1 type="stream" tvg-id="Band Brasília HD" tvg-logo="http://7upsp8.com.br/tvlogos/band.png" group-title="Canais | Band, SBT, Record",Band Brasília HD
 http://7up2.com:80/live/Elias21/21993168216/5.m3u8
 #EXTINF:-1 type="stream" tvg-id="Band Campinas HD" tvg-logo="http://7upsp8.com.br/tvlogos/band.png" group-title="Canais | Band, SBT, Record",Band Campinas HD
 http://7up2.com:80/live/Elias21/21993168216/6.m3u8
-#EXTINF:-1 type="stream" tvg-id="Band CE" tvg-logo="http://7upsp8.com.br/tvlogos/band.png" group-title="Canais | Band, SBT, Record",Band CE
+#EXTINF:-1 type="stream" tvg-id="Band CE HD" tvg-logo="http://7upsp8.com.br/tvlogos/band.png" group-title="Canais | Band, SBT, Record",Band CE HD
 http://7up2.com:80/live/Elias21/21993168216/7.m3u8
 #EXTINF:-1 type="stream" tvg-id="Band MG HD" tvg-logo="http://7upsp8.com.br/tvlogos/band.png" group-title="Canais | Band, SBT, Record",Band MG HD
 http://7up2.com:80/live/Elias21/21993168216/10.m3u8
@@ -83,38 +93,18 @@ http://7up2.com:80/live/Elias21/21993168216/80627.m3u8
 http://7up2.com:80/live/Elias21/21993168216/568.m3u8
 #EXTINF:-1 type="stream" tvg-id="Band Sports HD²" tvg-logo="http://7upsp8.com.br/tvlogos/bandsports.png" group-title="Canais | Esportes",Band Sports HD²
 http://7up2.com:80/live/Elias21/21993168216/80628.m3u8
-#EXTINF:-1 type="stream" tvg-id="BBB26  Mosaico" tvg-logo="http://7upsp8.com.br/tvlogos/BBB.png" group-title="Canais | Reality Show",BBB26  Mosaico
-http://7up2.com:80/live/Elias21/21993168216/1673585.m3u8
-#EXTINF:-1 type="stream" tvg-id="BBB26 Academia" tvg-logo="http://7upsp8.com.br/tvlogos/BBB.png" group-title="Canais | Reality Show",BBB26 Academia
-http://7up2.com:80/live/Elias21/21993168216/1673584.m3u8
-#EXTINF:-1 type="stream" tvg-id="BBB26 Acompanhe 01" tvg-logo="http://7upsp8.com.br/tvlogos/BBB.png" group-title="Canais | Reality Show",BBB26 Acompanhe 01
-http://7up2.com:80/live/Elias21/21993168216/1673574.m3u8
-#EXTINF:-1 type="stream" tvg-id="BBB26 Acompanhe 02" tvg-logo="http://7upsp8.com.br/tvlogos/BBB.png" group-title="Canais | Reality Show",BBB26 Acompanhe 02
-http://7up2.com:80/live/Elias21/21993168216/1673575.m3u8
-#EXTINF:-1 type="stream" tvg-id="BBB26 Banheiro" tvg-logo="http://7upsp8.com.br/tvlogos/BBB.png" group-title="Canais | Reality Show",BBB26 Banheiro
-http://7up2.com:80/live/Elias21/21993168216/1673581.m3u8
-#EXTINF:-1 type="stream" tvg-id="BBB26 Cozinha 01" tvg-logo="http://7upsp8.com.br/tvlogos/BBB.png" group-title="Canais | Reality Show",BBB26 Cozinha 01
-http://7up2.com:80/live/Elias21/21993168216/1673577.m3u8
-#EXTINF:-1 type="stream" tvg-id="BBB26 Cozinha 02" tvg-logo="http://7upsp8.com.br/tvlogos/BBB.png" group-title="Canais | Reality Show",BBB26 Cozinha 02
-http://7up2.com:80/live/Elias21/21993168216/1673580.m3u8
-#EXTINF:-1 type="stream" tvg-id="BBB26 Piscina" tvg-logo="http://7upsp8.com.br/tvlogos/BBB.png" group-title="Canais | Reality Show",BBB26 Piscina
-http://7up2.com:80/live/Elias21/21993168216/1673583.m3u8
-#EXTINF:-1 type="stream" tvg-id="BBB26 Quarto Sonho Eternidade" tvg-logo="http://7upsp8.com.br/tvlogos/BBB.png" group-title="Canais | Reality Show",BBB26 Quarto Sonho Eternidade
-http://7up2.com:80/live/Elias21/21993168216/1673576.m3u8
-#EXTINF:-1 type="stream" tvg-id="BBB26 Quarto Sonho Grande Amor" tvg-logo="http://7upsp8.com.br/tvlogos/BBB.png" group-title="Canais | Reality Show",BBB26 Quarto Sonho Grande Amor
-http://7up2.com:80/live/Elias21/21993168216/1673579.m3u8
-#EXTINF:-1 type="stream" tvg-id="BBB26 Quarto Sonho Voar" tvg-logo="http://7upsp8.com.br/tvlogos/BBB.png" group-title="Canais | Reality Show",BBB26 Quarto Sonho Voar
-http://7up2.com:80/live/Elias21/21993168216/1673578.m3u8
-#EXTINF:-1 type="stream" tvg-id="BBB26 Sala Sonho Milionário" tvg-logo="http://7upsp8.com.br/tvlogos/BBB.png" group-title="Canais | Reality Show",BBB26 Sala Sonho Milionário
-http://7up2.com:80/live/Elias21/21993168216/1673582.m3u8
 #EXTINF:-1 type="stream" tvg-id="BIS FHD" tvg-logo="http://7upsp8.com.br/tvlogos/bis.png" group-title="Canais | Variedades",BIS FHD
 http://7up2.com:80/live/Elias21/21993168216/230.m3u8
+#EXTINF:-1 type="stream" tvg-id="BIS FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/bis.png" group-title="Canais | Variedades",BIS FHD²
+http://7up2.com:80/live/Elias21/21993168216/232.m3u8
 #EXTINF:-1 type="stream" tvg-id="BIS HD" tvg-logo="http://7upsp8.com.br/tvlogos/bis.png" group-title="Canais | Variedades",BIS HD
 http://7up2.com:80/live/Elias21/21993168216/231.m3u8
 #EXTINF:-1 type="stream" tvg-id="Bloomberg HD" tvg-logo="http://7upsp8.com.br/tvlogos/bloomberg.png" group-title="Canais | Jornalismo",Bloomberg HD
 http://7up2.com:80/live/Elias21/21993168216/329.m3u8
-#EXTINF:-1 type="stream" tvg-id="Boas Novas" tvg-logo="http://7upsp8.com.br/tvlogos/boasnovas.png" group-title="Canais | Religiosos",Boas Novas
-http://7up2.com:80/live/Elias21/21993168216/684.m3u8
+#EXTINF:-1 type="stream" tvg-id="Box Kids FHD" tvg-logo="http://7upsp8.com.br/tvlogos/boxkidstv.png" group-title="Canais | Infantis",Box Kids FHD
+http://7up2.com:80/live/Elias21/21993168216/383.m3u8
+#EXTINF:-1 type="stream" tvg-id="Box Kids HD" tvg-logo="http://7upsp8.com.br/tvlogos/boxkidstv.png" group-title="Canais | Infantis",Box Kids HD
+http://7up2.com:80/live/Elias21/21993168216/387.m3u8
 #EXTINF:-1 type="stream" tvg-id="Cabo Frio TV" tvg-logo="https://i.imgur.com/u0g3u10.png" group-title="Canais | Abertos",Cabo Frio TV
 http://7up2.com:80/live/Elias21/21993168216/655.m3u8
 #EXTINF:-1 type="stream" tvg-id="CAM: Alvor - Portugal" tvg-logo="http://7upsp8.com.br/tvlogos/camera.png" group-title="Canais | Câmeras ao Vivo",CAM: Alvor - Portugal
@@ -135,8 +125,6 @@ http://7up2.com:80/live/Elias21/21993168216/9428.m3u8
 http://7up2.com:80/live/Elias21/21993168216/9414.m3u8
 #EXTINF:-1 type="stream" tvg-id="CAM: Empire State Building - NY" tvg-logo="http://7upsp8.com.br/tvlogos/camera.png" group-title="Canais | Câmeras ao Vivo",CAM: Empire State Building - NY
 http://7up2.com:80/live/Elias21/21993168216/9429.m3u8
-#EXTINF:-1 type="stream" tvg-id="CAM: Fontana di Trevi - Roma" tvg-logo="http://7upsp8.com.br/tvlogos/camera.png" group-title="Canais | Câmeras ao Vivo",CAM: Fontana di Trevi - Roma
-http://7up2.com:80/live/Elias21/21993168216/1698662.m3u8
 #EXTINF:-1 type="stream" tvg-id="CAM: Fremont Street - Las Vegas" tvg-logo="http://7upsp8.com.br/tvlogos/camera.png" group-title="Canais | Câmeras ao Vivo",CAM: Fremont Street - Las Vegas
 http://7up2.com:80/live/Elias21/21993168216/9417.m3u8
 #EXTINF:-1 type="stream" tvg-id="CAM: Grand Canyon - Arizona" tvg-logo="http://7upsp8.com.br/tvlogos/camera.png" group-title="Canais | Câmeras ao Vivo",CAM: Grand Canyon - Arizona
@@ -219,18 +207,56 @@ http://7up2.com:80/live/Elias21/21993168216/382.m3u8
 http://7up2.com:80/live/Elias21/21993168216/385.m3u8
 #EXTINF:-1 type="stream" tvg-id="Cartoonito HD" tvg-logo="http://7upsp8.com.br/tvlogos/cartoonito.png" group-title="Canais | Infantis",Cartoonito HD
 http://7up2.com:80/live/Elias21/21993168216/386.m3u8
-#EXTINF:-1 type="stream" tvg-id="Cartoonito SD" tvg-logo="http://7upsp8.com.br/tvlogos/cartoonito.png" group-title="Canais | Infantis",Cartoonito SD
-http://7up2.com:80/live/Elias21/21993168216/387.m3u8
+#EXTINF:-1 type="stream" tvg-id="Casa do Patrão Casa Convivência" tvg-logo="http://32q0d.xyz/images/casapatrao/casadopatraoconvivencia.png" group-title="Canais | Reality Show",Casa do Patrão Casa Convivência
+http://7up2.com:80/live/Elias21/21993168216/2027422.m3u8
+#EXTINF:-1 type="stream" tvg-id="Casa do Patrão Multicam 1" tvg-logo="http://32q0d.xyz/images/casapatrao/casadopatraomulticam1.png" group-title="Canais | Reality Show",Casa do Patrão Multicam 1
+http://7up2.com:80/live/Elias21/21993168216/2027424.m3u8
+#EXTINF:-1 type="stream" tvg-id="Casa do Patrão Multicam 2" tvg-logo="http://32q0d.xyz/images/casapatrao/casadopatraomulticam2.png" group-title="Canais | Reality Show",Casa do Patrão Multicam 2
+http://7up2.com:80/live/Elias21/21993168216/2027417.m3u8
+#EXTINF:-1 type="stream" tvg-id="Casa do Patrão Piscina" tvg-logo="http://32q0d.xyz/images/casapatrao/casadopatraopiscina.png" group-title="Canais | Reality Show",Casa do Patrão Piscina
+http://7up2.com:80/live/Elias21/21993168216/2027423.m3u8
+#EXTINF:-1 type="stream" tvg-id="Casa do Patrão Quarto Coletivo (Casa Trampo)" tvg-logo="http://32q0d.xyz/images/casapatrao/casadopatraoquartocoletivo.png" group-title="Canais | Reality Show",Casa do Patrão Quarto Coletivo (Casa Trampo)
+http://7up2.com:80/live/Elias21/21993168216/2027419.m3u8
+#EXTINF:-1 type="stream" tvg-id="Casa do Patrão Quarto dos Parças" tvg-logo="http://32q0d.xyz/images/casapatrao/casadopatraoquartodosparcas.png" group-title="Canais | Reality Show",Casa do Patrão Quarto dos Parças
+http://7up2.com:80/live/Elias21/21993168216/2027421.m3u8
+#EXTINF:-1 type="stream" tvg-id="Casa do Patrão Sala e Cozinha (Casa Trampo)" tvg-logo="http://32q0d.xyz/images/casapatrao/casadopatraosalacozinha.png" group-title="Canais | Reality Show",Casa do Patrão Sala e Cozinha (Casa Trampo)
+http://7up2.com:80/live/Elias21/21993168216/2027418.m3u8
+#EXTINF:-1 type="stream" tvg-id="Casa do Patrão Suíte do Patrão" tvg-logo="http://32q0d.xyz/images/casapatrao/casadopatraosuitedopatrao.png" group-title="Canais | Reality Show",Casa do Patrão Suíte do Patrão
+http://7up2.com:80/live/Elias21/21993168216/2027420.m3u8
 #EXTINF:-1 type="stream" tvg-id="CATVE" tvg-logo="http://7upsp8.com.br/tvlogos/Catve.png" group-title="Canais | Variedades",CATVE
 http://7up2.com:80/live/Elias21/21993168216/233.m3u8
 #EXTINF:-1 type="stream" tvg-id="Cazé TV 01" tvg-logo="http://7upsp8.com.br/tvlogos/cazetv.png" group-title="Canais | Esportes PPV",Cazé TV 01
 http://7up2.com:80/live/Elias21/21993168216/502.m3u8
+#EXTINF:-1 type="stream" tvg-id="Cazé TV 01²" tvg-logo="http://7upsp8.com.br/tvlogos/cazetv.png" group-title="Canais | Esportes PPV",Cazé TV 01²
+http://7up2.com:80/live/Elias21/21993168216/2065149.m3u8
 #EXTINF:-1 type="stream" tvg-id="Cazé TV 02" tvg-logo="http://7upsp8.com.br/tvlogos/cazetv.png" group-title="Canais | Esportes PPV",Cazé TV 02
 http://7up2.com:80/live/Elias21/21993168216/275930.m3u8
+#EXTINF:-1 type="stream" tvg-id="Cazé TV 02²" tvg-logo="http://7upsp8.com.br/tvlogos/cazetv.png" group-title="Canais | Esportes PPV",Cazé TV 02²
+http://7up2.com:80/live/Elias21/21993168216/2065150.m3u8
 #EXTINF:-1 type="stream" tvg-id="Cazé TV 03" tvg-logo="http://7upsp8.com.br/tvlogos/cazetv.png" group-title="Canais | Esportes PPV",Cazé TV 03
 http://7up2.com:80/live/Elias21/21993168216/87153.m3u8
+#EXTINF:-1 type="stream" tvg-id="Cazé TV 03²" tvg-logo="http://7upsp8.com.br/tvlogos/cazetv.png" group-title="Canais | Esportes PPV",Cazé TV 03²
+http://7up2.com:80/live/Elias21/21993168216/2065151.m3u8
 #EXTINF:-1 type="stream" tvg-id="Cazé TV 04" tvg-logo="http://7upsp8.com.br/tvlogos/cazetv.png" group-title="Canais | Esportes PPV",Cazé TV 04
 http://7up2.com:80/live/Elias21/21993168216/87152.m3u8
+#EXTINF:-1 type="stream" tvg-id="Cazé TV 04²" tvg-logo="http://7upsp8.com.br/tvlogos/cazetv.png" group-title="Canais | Esportes PPV",Cazé TV 04²
+http://7up2.com:80/live/Elias21/21993168216/2065152.m3u8
+#EXTINF:-1 type="stream" tvg-id="Cazé TV 05" tvg-logo="http://7upsp8.com.br/tvlogos/cazetv.png" group-title="Canais | Esportes PPV",Cazé TV 05
+http://7up2.com:80/live/Elias21/21993168216/219.m3u8
+#EXTINF:-1 type="stream" tvg-id="Cazé TV 05²" tvg-logo="http://7upsp8.com.br/tvlogos/cazetv.png" group-title="Canais | Esportes PPV",Cazé TV 05²
+http://7up2.com:80/live/Elias21/21993168216/2065153.m3u8
+#EXTINF:-1 type="stream" tvg-id="Cazé TV 06" tvg-logo="http://7upsp8.com.br/tvlogos/cazetv.png" group-title="Canais | Esportes PPV",Cazé TV 06
+http://7up2.com:80/live/Elias21/21993168216/587.m3u8
+#EXTINF:-1 type="stream" tvg-id="Cazé TV 06²" tvg-logo="http://7upsp8.com.br/tvlogos/cazetv.png" group-title="Canais | Esportes PPV",Cazé TV 06²
+http://7up2.com:80/live/Elias21/21993168216/2065154.m3u8
+#EXTINF:-1 type="stream" tvg-id="Cazé TV 07" tvg-logo="http://7upsp8.com.br/tvlogos/cazetv.png" group-title="Canais | Esportes PPV",Cazé TV 07
+http://7up2.com:80/live/Elias21/21993168216/1930.m3u8
+#EXTINF:-1 type="stream" tvg-id="Cazé TV 07²" tvg-logo="http://7upsp8.com.br/tvlogos/cazetv.png" group-title="Canais | Esportes PPV",Cazé TV 07²
+http://7up2.com:80/live/Elias21/21993168216/2065155.m3u8
+#EXTINF:-1 type="stream" tvg-id="Cazé TV 08" tvg-logo="http://7upsp8.com.br/tvlogos/cazetv.png" group-title="Canais | Esportes PPV",Cazé TV 08
+http://7up2.com:80/live/Elias21/21993168216/75076.m3u8
+#EXTINF:-1 type="stream" tvg-id="Cazé TV 08²" tvg-logo="http://7upsp8.com.br/tvlogos/cazetv.png" group-title="Canais | Esportes PPV",Cazé TV 08²
+http://7up2.com:80/live/Elias21/21993168216/2065156.m3u8
 #EXTINF:-1 type="stream" tvg-id="Cine Ação" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Cine Ação
 http://7up2.com:80/live/Elias21/21993168216/419.m3u8
 #EXTINF:-1 type="stream" tvg-id="Cine Brasil" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Cine Brasil
@@ -306,7 +332,11 @@ http://7up2.com:80/live/Elias21/21993168216/570.m3u8
 #EXTINF:-1 type="stream" tvg-id="Combate FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/combate.png" group-title="Canais | Esportes",Combate FHD²
 http://7up2.com:80/live/Elias21/21993168216/605.m3u8
 #EXTINF:-1 type="stream" tvg-id="Combate HD" tvg-logo="http://7upsp8.com.br/tvlogos/combate.png" group-title="Canais | Esportes",Combate HD
+http://7up2.com:80/live/Elias21/21993168216/571.m3u8
+#EXTINF:-1 type="stream" tvg-id="Combate HD²" tvg-logo="http://7upsp8.com.br/tvlogos/combate.png" group-title="Canais | Esportes",Combate HD²
 http://7up2.com:80/live/Elias21/21993168216/56995.m3u8
+#EXTINF:-1 type="stream" tvg-id="Curta FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/curta_.png" group-title="Canais | Variedades",Curta FHD²
+http://7up2.com:80/live/Elias21/21993168216/240.m3u8
 #EXTINF:-1 type="stream" tvg-id="Curta! FHD" tvg-logo="http://7upsp8.com.br/tvlogos/curta_.png" group-title="Canais | Variedades",Curta! FHD
 http://7up2.com:80/live/Elias21/21993168216/238.m3u8
 #EXTINF:-1 type="stream" tvg-id="Curta! HD" tvg-logo="http://7upsp8.com.br/tvlogos/curta_.png" group-title="Canais | Variedades",Curta! HD
@@ -370,6 +400,8 @@ http://7up2.com:80/live/Elias21/21993168216/354.m3u8
 #EXTINF:-1 type="stream" tvg-id="Discovery Turbo FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/discoveryturbo.png" group-title="Canais | Cultura e Documentário",Discovery Turbo FHD²
 http://7up2.com:80/live/Elias21/21993168216/81631.m3u8
 #EXTINF:-1 type="stream" tvg-id="Discovery Turbo HD" tvg-logo="http://7upsp8.com.br/tvlogos/discoveryturbo.png" group-title="Canais | Cultura e Documentário",Discovery Turbo HD
+http://7up2.com:80/live/Elias21/21993168216/1698662.m3u8
+#EXTINF:-1 type="stream" tvg-id="Discovery Turbo HD²" tvg-logo="http://7upsp8.com.br/tvlogos/discoveryturbo.png" group-title="Canais | Cultura e Documentário",Discovery Turbo HD²
 http://7up2.com:80/live/Elias21/21993168216/355.m3u8
 #EXTINF:-1 type="stream" tvg-id="Discovery World FHD" tvg-logo="http://7upsp8.com.br/tvlogos/discoveryworld.png" group-title="Canais | Cultura e Documentário",Discovery World FHD
 http://7up2.com:80/live/Elias21/21993168216/366.m3u8
@@ -377,42 +409,56 @@ http://7up2.com:80/live/Elias21/21993168216/366.m3u8
 http://7up2.com:80/live/Elias21/21993168216/81637.m3u8
 #EXTINF:-1 type="stream" tvg-id="Discovery World HD" tvg-logo="http://7upsp8.com.br/tvlogos/discoveryworld.png" group-title="Canais | Cultura e Documentário",Discovery World HD
 http://7up2.com:80/live/Elias21/21993168216/367.m3u8
-#EXTINF:-1 type="stream" tvg-id="Disney+ 1 " tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 1 
+#EXTINF:-1 type="stream" tvg-id="Disney+ 01 " tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 01 
 http://7up2.com:80/live/Elias21/21993168216/637.m3u8
-#EXTINF:-1 type="stream" tvg-id="Disney+ 1 ²" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 1 ²
+#EXTINF:-1 type="stream" tvg-id="Disney+ 01 ²" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 01 ²
 http://7up2.com:80/live/Elias21/21993168216/668.m3u8
-#EXTINF:-1 type="stream" tvg-id="Disney+ 2" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 2
+#EXTINF:-1 type="stream" tvg-id="Disney+ 02" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 02
 http://7up2.com:80/live/Elias21/21993168216/638.m3u8
-#EXTINF:-1 type="stream" tvg-id="Disney+ 2 ²" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 2 ²
+#EXTINF:-1 type="stream" tvg-id="Disney+ 02 ²" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 02 ²
 http://7up2.com:80/live/Elias21/21993168216/669.m3u8
-#EXTINF:-1 type="stream" tvg-id="Disney+ 3 " tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 3 
+#EXTINF:-1 type="stream" tvg-id="Disney+ 03" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 03
 http://7up2.com:80/live/Elias21/21993168216/639.m3u8
-#EXTINF:-1 type="stream" tvg-id="Disney+ 3 ²" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 3 ²
+#EXTINF:-1 type="stream" tvg-id="Disney+ 03 ²" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 03 ²
 http://7up2.com:80/live/Elias21/21993168216/670.m3u8
-#EXTINF:-1 type="stream" tvg-id="Disney+ 4" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 4
+#EXTINF:-1 type="stream" tvg-id="Disney+ 04" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 04
 http://7up2.com:80/live/Elias21/21993168216/640.m3u8
-#EXTINF:-1 type="stream" tvg-id="Disney+ 4 ²" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 4 ²
+#EXTINF:-1 type="stream" tvg-id="Disney+ 04 ²" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 04 ²
 http://7up2.com:80/live/Elias21/21993168216/671.m3u8
-#EXTINF:-1 type="stream" tvg-id="Disney+ 5" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 5
+#EXTINF:-1 type="stream" tvg-id="Disney+ 05" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 05
 http://7up2.com:80/live/Elias21/21993168216/672.m3u8
-#EXTINF:-1 type="stream" tvg-id="Disney+ 5 ²" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 5 ²
+#EXTINF:-1 type="stream" tvg-id="Disney+ 05 ²" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 05 ²
 http://7up2.com:80/live/Elias21/21993168216/347.m3u8
-#EXTINF:-1 type="stream" tvg-id="Disney+ 6" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 6
+#EXTINF:-1 type="stream" tvg-id="Disney+ 06" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 06
 http://7up2.com:80/live/Elias21/21993168216/673.m3u8
-#EXTINF:-1 type="stream" tvg-id="Disney+ 6 ²" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 6 ²
+#EXTINF:-1 type="stream" tvg-id="Disney+ 06 ²" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 06 ²
 http://7up2.com:80/live/Elias21/21993168216/508.m3u8
-#EXTINF:-1 type="stream" tvg-id="Disney+ 7" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 7
+#EXTINF:-1 type="stream" tvg-id="Disney+ 07" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 07
 http://7up2.com:80/live/Elias21/21993168216/513.m3u8
-#EXTINF:-1 type="stream" tvg-id="Disney+ 7 ²" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 7 ²
+#EXTINF:-1 type="stream" tvg-id="Disney+ 07 ²" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 07 ²
 http://7up2.com:80/live/Elias21/21993168216/683.m3u8
-#EXTINF:-1 type="stream" tvg-id="Disney+ 8" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 8
+#EXTINF:-1 type="stream" tvg-id="Disney+ 08" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 08
 http://7up2.com:80/live/Elias21/21993168216/682.m3u8
-#EXTINF:-1 type="stream" tvg-id="Disney+ 8 ²" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 8 ²
+#EXTINF:-1 type="stream" tvg-id="Disney+ 08 ²" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 08 ²
 http://7up2.com:80/live/Elias21/21993168216/686.m3u8
+#EXTINF:-1 type="stream" tvg-id="Disney+ 09" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 09
+http://7up2.com:80/live/Elias21/21993168216/184.m3u8
+#EXTINF:-1 type="stream" tvg-id="Disney+ 10" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 10
+http://7up2.com:80/live/Elias21/21993168216/186.m3u8
+#EXTINF:-1 type="stream" tvg-id="Disney+ 11" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 11
+http://7up2.com:80/live/Elias21/21993168216/85953.m3u8
+#EXTINF:-1 type="stream" tvg-id="Disney+ 12" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 12
+http://7up2.com:80/live/Elias21/21993168216/85954.m3u8
+#EXTINF:-1 type="stream" tvg-id="Disney+ 13" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 13
+http://7up2.com:80/live/Elias21/21993168216/61911.m3u8
 #EXTINF:-1 type="stream" tvg-id="Dog TV FHD" tvg-logo="http://7upsp8.com.br/tvlogos/dogtv.png" group-title="Canais | Variedades",Dog TV FHD
 http://7up2.com:80/live/Elias21/21993168216/242.m3u8
+#EXTINF:-1 type="stream" tvg-id="DumDum HD" tvg-logo="http://7upsp8.com.br/tvlogos/dumdum.png" group-title="Canais | Infantis",DumDum HD
+http://7up2.com:80/live/Elias21/21993168216/384.m3u8
 #EXTINF:-1 type="stream" tvg-id="E! FHD" tvg-logo="https://i.imgur.com/2O3afLq.png" group-title="Canais | Variedades",E! FHD
 http://7up2.com:80/live/Elias21/21993168216/243.m3u8
+#EXTINF:-1 type="stream" tvg-id="E! FHD²" tvg-logo="https://i.imgur.com/2O3afLq.png" group-title="Canais | Variedades",E! FHD²
+http://7up2.com:80/live/Elias21/21993168216/245.m3u8
 #EXTINF:-1 type="stream" tvg-id="E! HD" tvg-logo="https://i.imgur.com/2O3afLq.png" group-title="Canais | Variedades",E! HD
 http://7up2.com:80/live/Elias21/21993168216/244.m3u8
 #EXTINF:-1 type="stream" tvg-id="ESPN 1 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/espn1.png" group-title="Canais | Esportes",ESPN 1 FHD
@@ -434,17 +480,17 @@ http://7up2.com:80/live/Elias21/21993168216/575.m3u8
 #EXTINF:-1 type="stream" tvg-id="ESPN 3 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/espn3.png" group-title="Canais | Esportes",ESPN 3 FHD
 http://7up2.com:80/live/Elias21/21993168216/576.m3u8
 #EXTINF:-1 type="stream" tvg-id="ESPN 3 FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/espn3.png" group-title="Canais | Esportes",ESPN 3 FHD²
-http://7up2.com:80/live/Elias21/21993168216/27.m3u8
+http://7up2.com:80/live/Elias21/21993168216/578.m3u8
 #EXTINF:-1 type="stream" tvg-id="ESPN 3 HD" tvg-logo="http://7upsp8.com.br/tvlogos/espn3.png" group-title="Canais | Esportes",ESPN 3 HD
 http://7up2.com:80/live/Elias21/21993168216/577.m3u8
-#EXTINF:-1 type="stream" tvg-id="ESPN 3 HD²" tvg-logo="http://7upsp8.com.br/tvlogos/espn3.png" group-title="Canais | Esportes",ESPN 3 HD²
-http://7up2.com:80/live/Elias21/21993168216/578.m3u8
 #EXTINF:-1 type="stream" tvg-id="ESPN 4 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/espn4.png" group-title="Canais | Esportes",ESPN 4 FHD
 http://7up2.com:80/live/Elias21/21993168216/579.m3u8
 #EXTINF:-1 type="stream" tvg-id="ESPN 4 FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/espn4.png" group-title="Canais | Esportes",ESPN 4 FHD²
 http://7up2.com:80/live/Elias21/21993168216/462.m3u8
 #EXTINF:-1 type="stream" tvg-id="ESPN 4 HD" tvg-logo="http://7upsp8.com.br/tvlogos/espn4.png" group-title="Canais | Esportes",ESPN 4 HD
 http://7up2.com:80/live/Elias21/21993168216/580.m3u8
+#EXTINF:-1 type="stream" tvg-id="ESPN 4 HD²" tvg-logo="http://7upsp8.com.br/tvlogos/espn4.png" group-title="Canais | Esportes",ESPN 4 HD²
+http://7up2.com:80/live/Elias21/21993168216/1929.m3u8
 #EXTINF:-1 type="stream" tvg-id="ESPN 5 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/espn5.png" group-title="Canais | Esportes",ESPN 5 FHD
 http://7up2.com:80/live/Elias21/21993168216/592.m3u8
 #EXTINF:-1 type="stream" tvg-id="ESPN 5 FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/espn5.png" group-title="Canais | Esportes",ESPN 5 FHD²
@@ -469,6 +515,8 @@ http://7up2.com:80/live/Elias21/21993168216/446.m3u8
 http://7up2.com:80/live/Elias21/21993168216/447.m3u8
 #EXTINF:-1 type="stream" tvg-id="Filmes e Séries" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Filmes e Séries
 http://7up2.com:80/live/Elias21/21993168216/241.m3u8
+#EXTINF:-1 type="stream" tvg-id="Filmes em Destaque" tvg-logo="http://7upsp8.com.br/tvlogos/baldepipoca.png" group-title="Área do Cliente",Filmes em Destaque
+http://7up2.com:80/live/Elias21/21993168216/152.m3u8
 #EXTINF:-1 type="stream" tvg-id="Filmes Variados 2" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Filmes Variados 2
 http://7up2.com:80/live/Elias21/21993168216/306.m3u8
 #EXTINF:-1 type="stream" tvg-id="Fish TV FHD" tvg-logo="http://7upsp8.com.br/tvlogos/fishtv.png" group-title="Canais | Esportes",Fish TV FHD
@@ -517,7 +565,7 @@ http://7up2.com:80/live/Elias21/21993168216/108.m3u8
 http://7up2.com:80/live/Elias21/21993168216/76114.m3u8
 #EXTINF:-1 type="stream" tvg-id="Globo EPTV Sul de Minas HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo EPTV Sul de Minas HD
 http://7up2.com:80/live/Elias21/21993168216/109.m3u8
-#EXTINF:-1 type="stream" tvg-id="Globo Globo TV Diário Mogi HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo Globo TV Diário Mogi HD
+#EXTINF:-1 type="stream" tvg-id="Globo Globo TV Diário Mogi das Cruzes HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo Globo TV Diário Mogi das Cruzes HD
 http://7up2.com:80/live/Elias21/21993168216/47494.m3u8
 #EXTINF:-1 type="stream" tvg-id="Globo Integração Juiz de Fora FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo Integração Juiz de Fora FHD
 http://7up2.com:80/live/Elias21/21993168216/111.m3u8
@@ -545,8 +593,6 @@ http://7up2.com:80/live/Elias21/21993168216/118.m3u8
 http://7up2.com:80/live/Elias21/21993168216/119.m3u8
 #EXTINF:-1 type="stream" tvg-id="Globo Inter TV Grande Minas HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo Inter TV Grande Minas HD²
 http://7up2.com:80/live/Elias21/21993168216/115.m3u8
-#EXTINF:-1 type="stream" tvg-id="Globo Inter TV Planície FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo Inter TV Planície FHD
-http://7up2.com:80/live/Elias21/21993168216/47480.m3u8
 #EXTINF:-1 type="stream" tvg-id="Globo Minas FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo Minas FHD
 http://7up2.com:80/live/Elias21/21993168216/120.m3u8
 #EXTINF:-1 type="stream" tvg-id="Globo Minas FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo Minas FHD²
@@ -619,6 +665,8 @@ http://7up2.com:80/live/Elias21/21993168216/146.m3u8
 http://7up2.com:80/live/Elias21/21993168216/148.m3u8
 #EXTINF:-1 type="stream" tvg-id="Globo RJ HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo RJ HD²
 http://7up2.com:80/live/Elias21/21993168216/149.m3u8
+#EXTINF:-1 type="stream" tvg-id="Globo RJ Inter TV Planície HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo RJ Inter TV Planície HD
+http://7up2.com:80/live/Elias21/21993168216/47480.m3u8
 #EXTINF:-1 type="stream" tvg-id="Globo RJ Interior FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo RJ Interior FHD
 http://7up2.com:80/live/Elias21/21993168216/151.m3u8
 #EXTINF:-1 type="stream" tvg-id="Globo RPC Curitiba FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo RPC Curitiba FHD
@@ -636,9 +684,9 @@ http://7up2.com:80/live/Elias21/21993168216/159.m3u8
 #EXTINF:-1 type="stream" tvg-id="Globo RPC Ponta Grossa HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo RPC Ponta Grossa HD
 http://7up2.com:80/live/Elias21/21993168216/160.m3u8
 #EXTINF:-1 type="stream" tvg-id="Globo SJ do Rio Preto FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo SJ do Rio Preto FHD
-http://7up2.com:80/live/Elias21/21993168216/162.m3u8
-#EXTINF:-1 type="stream" tvg-id="Globo SJ do Rio Preto HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo SJ do Rio Preto HD
 http://7up2.com:80/live/Elias21/21993168216/163.m3u8
+#EXTINF:-1 type="stream" tvg-id="Globo SJ do Rio Preto HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo SJ do Rio Preto HD
+http://7up2.com:80/live/Elias21/21993168216/162.m3u8
 #EXTINF:-1 type="stream" tvg-id="Globo SP FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo SP FHD
 http://7up2.com:80/live/Elias21/21993168216/164.m3u8
 #EXTINF:-1 type="stream" tvg-id="Globo SP FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo SP FHD²
@@ -771,10 +819,14 @@ http://7up2.com:80/live/Elias21/21993168216/399.m3u8
 http://7up2.com:80/live/Elias21/21993168216/398.m3u8
 #EXTINF:-1 type="stream" tvg-id="GNT FHD" tvg-logo="http://7upsp8.com.br/tvlogos/gnt.png" group-title="Canais | Variedades",GNT FHD
 http://7up2.com:80/live/Elias21/21993168216/250.m3u8
+#EXTINF:-1 type="stream" tvg-id="GNT FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/gnt.png" group-title="Canais | Variedades",GNT FHD²
+http://7up2.com:80/live/Elias21/21993168216/252.m3u8
 #EXTINF:-1 type="stream" tvg-id="GNT HD" tvg-logo="http://7upsp8.com.br/tvlogos/gnt.png" group-title="Canais | Variedades",GNT HD
 http://7up2.com:80/live/Elias21/21993168216/251.m3u8
 #EXTINF:-1 type="stream" tvg-id="H2 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/history2.png" group-title="Canais | Cultura e Documentário",H2 FHD
 http://7up2.com:80/live/Elias21/21993168216/369.m3u8
+#EXTINF:-1 type="stream" tvg-id="H2 FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/history2.png" group-title="Canais | Cultura e Documentário",H2 FHD²
+http://7up2.com:80/live/Elias21/21993168216/371.m3u8
 #EXTINF:-1 type="stream" tvg-id="H2 HD" tvg-logo="http://7upsp8.com.br/tvlogos/history2.png" group-title="Canais | Cultura e Documentário",H2 HD
 http://7up2.com:80/live/Elias21/21993168216/370.m3u8
 #EXTINF:-1 type="stream" tvg-id="HBO 1 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/hbo.png" group-title="Canais | Rede HBO",HBO 1 FHD
@@ -782,6 +834,8 @@ http://7up2.com:80/live/Elias21/21993168216/544.m3u8
 #EXTINF:-1 type="stream" tvg-id="HBO 1 FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/hbo.png" group-title="Canais | Rede HBO",HBO 1 FHD²
 http://7up2.com:80/live/Elias21/21993168216/542.m3u8
 #EXTINF:-1 type="stream" tvg-id="HBO 1 HD" tvg-logo="http://7upsp8.com.br/tvlogos/hbo.png" group-title="Canais | Rede HBO",HBO 1 HD
+http://7up2.com:80/live/Elias21/21993168216/557.m3u8
+#EXTINF:-1 type="stream" tvg-id="HBO 1 HD²" tvg-logo="http://7upsp8.com.br/tvlogos/hbo.png" group-title="Canais | Rede HBO",HBO 1 HD²
 http://7up2.com:80/live/Elias21/21993168216/543.m3u8
 #EXTINF:-1 type="stream" tvg-id="HBO 2 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/hbo2.png" group-title="Canais | Rede HBO",HBO 2 FHD
 http://7up2.com:80/live/Elias21/21993168216/536.m3u8
@@ -789,12 +843,16 @@ http://7up2.com:80/live/Elias21/21993168216/536.m3u8
 http://7up2.com:80/live/Elias21/21993168216/534.m3u8
 #EXTINF:-1 type="stream" tvg-id="HBO 2 HD" tvg-logo="http://7upsp8.com.br/tvlogos/hbo2.png" group-title="Canais | Rede HBO",HBO 2 HD
 http://7up2.com:80/live/Elias21/21993168216/535.m3u8
+#EXTINF:-1 type="stream" tvg-id="HBO 2 HD²" tvg-logo="http://7upsp8.com.br/tvlogos/hbo2.png" group-title="Canais | Rede HBO",HBO 2 HD²
+http://7up2.com:80/live/Elias21/21993168216/537.m3u8
 #EXTINF:-1 type="stream" tvg-id="HBO Family FHD" tvg-logo="http://7upsp8.com.br/tvlogos/hbofamily.png" group-title="Canais | Rede HBO",HBO Family FHD
 http://7up2.com:80/live/Elias21/21993168216/538.m3u8
 #EXTINF:-1 type="stream" tvg-id="HBO Family FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/hbofamily.png" group-title="Canais | Rede HBO",HBO Family FHD²
 http://7up2.com:80/live/Elias21/21993168216/540.m3u8
 #EXTINF:-1 type="stream" tvg-id="HBO Family HD" tvg-logo="http://7upsp8.com.br/tvlogos/hbofamily.png" group-title="Canais | Rede HBO",HBO Family HD
 http://7up2.com:80/live/Elias21/21993168216/539.m3u8
+#EXTINF:-1 type="stream" tvg-id="HBO Family HD²" tvg-logo="http://7upsp8.com.br/tvlogos/hbofamily.png" group-title="Canais | Rede HBO",HBO Family HD²
+http://7up2.com:80/live/Elias21/21993168216/541.m3u8
 #EXTINF:-1 type="stream" tvg-id="HBO Max 01" tvg-logo="http://7upsp8.com.br/tvlogos/hbomax.png" group-title="Canais | Esportes PPV",HBO Max 01
 http://7up2.com:80/live/Elias21/21993168216/81651.m3u8
 #EXTINF:-1 type="stream" tvg-id="HBO Max 01 ²" tvg-logo="http://7upsp8.com.br/tvlogos/hbomax.png" group-title="Canais | Esportes PPV",HBO Max 01 ²
@@ -838,30 +896,40 @@ http://7up2.com:80/live/Elias21/21993168216/545.m3u8
 #EXTINF:-1 type="stream" tvg-id="HBO Mundi FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/hbomundi.png" group-title="Canais | Rede HBO",HBO Mundi FHD²
 http://7up2.com:80/live/Elias21/21993168216/547.m3u8
 #EXTINF:-1 type="stream" tvg-id="HBO Mundi HD" tvg-logo="http://7upsp8.com.br/tvlogos/hbomundi.png" group-title="Canais | Rede HBO",HBO Mundi HD
+http://7up2.com:80/live/Elias21/21993168216/548.m3u8
+#EXTINF:-1 type="stream" tvg-id="HBO Mundi HD²" tvg-logo="http://7upsp8.com.br/tvlogos/hbomundi.png" group-title="Canais | Rede HBO",HBO Mundi HD²
 http://7up2.com:80/live/Elias21/21993168216/546.m3u8
 #EXTINF:-1 type="stream" tvg-id="HBO Plus+ FHD" tvg-logo="http://7upsp8.com.br/tvlogos/hboplus.png" group-title="Canais | Rede HBO",HBO Plus+ FHD
 http://7up2.com:80/live/Elias21/21993168216/549.m3u8
 #EXTINF:-1 type="stream" tvg-id="HBO Plus+ FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/hboplus.png" group-title="Canais | Rede HBO",HBO Plus+ FHD²
 http://7up2.com:80/live/Elias21/21993168216/551.m3u8
 #EXTINF:-1 type="stream" tvg-id="HBO Plus+ HD" tvg-logo="http://7upsp8.com.br/tvlogos/hboplus.png" group-title="Canais | Rede HBO",HBO Plus+ HD
+http://7up2.com:80/live/Elias21/21993168216/552.m3u8
+#EXTINF:-1 type="stream" tvg-id="HBO Plus+ HD²" tvg-logo="http://7upsp8.com.br/tvlogos/hboplus.png" group-title="Canais | Rede HBO",HBO Plus+ HD²
 http://7up2.com:80/live/Elias21/21993168216/550.m3u8
 #EXTINF:-1 type="stream" tvg-id="HBO Pop FHD" tvg-logo="http://7upsp8.com.br/tvlogos/hbopop.png" group-title="Canais | Rede HBO",HBO Pop FHD
 http://7up2.com:80/live/Elias21/21993168216/553.m3u8
 #EXTINF:-1 type="stream" tvg-id="HBO Pop FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/hbopop.png" group-title="Canais | Rede HBO",HBO Pop FHD²
 http://7up2.com:80/live/Elias21/21993168216/555.m3u8
 #EXTINF:-1 type="stream" tvg-id="HBO Pop HD" tvg-logo="http://7upsp8.com.br/tvlogos/hbopop.png" group-title="Canais | Rede HBO",HBO Pop HD
+http://7up2.com:80/live/Elias21/21993168216/556.m3u8
+#EXTINF:-1 type="stream" tvg-id="HBO Pop HD²" tvg-logo="http://7upsp8.com.br/tvlogos/hbopop.png" group-title="Canais | Rede HBO",HBO Pop HD²
 http://7up2.com:80/live/Elias21/21993168216/554.m3u8
 #EXTINF:-1 type="stream" tvg-id="HBO Signature FHD" tvg-logo="http://7upsp8.com.br/tvlogos/hbosignature.png" group-title="Canais | Rede HBO",HBO Signature FHD
 http://7up2.com:80/live/Elias21/21993168216/560.m3u8
 #EXTINF:-1 type="stream" tvg-id="HBO Signature FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/hbosignature.png" group-title="Canais | Rede HBO",HBO Signature FHD²
 http://7up2.com:80/live/Elias21/21993168216/558.m3u8
 #EXTINF:-1 type="stream" tvg-id="HBO Signature HD" tvg-logo="http://7upsp8.com.br/tvlogos/hbosignature.png" group-title="Canais | Rede HBO",HBO Signature HD
+http://7up2.com:80/live/Elias21/21993168216/561.m3u8
+#EXTINF:-1 type="stream" tvg-id="HBO Signature HD²" tvg-logo="http://7upsp8.com.br/tvlogos/hbosignature.png" group-title="Canais | Rede HBO",HBO Signature HD²
 http://7up2.com:80/live/Elias21/21993168216/559.m3u8
 #EXTINF:-1 type="stream" tvg-id="HBO Xtreme FHD" tvg-logo="http://7upsp8.com.br/tvlogos/hboxtreme.png" group-title="Canais | Rede HBO",HBO Xtreme FHD
 http://7up2.com:80/live/Elias21/21993168216/562.m3u8
 #EXTINF:-1 type="stream" tvg-id="HBO Xtreme FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/hboxtreme.png" group-title="Canais | Rede HBO",HBO Xtreme FHD²
 http://7up2.com:80/live/Elias21/21993168216/564.m3u8
 #EXTINF:-1 type="stream" tvg-id="HBO Xtreme HD" tvg-logo="http://7upsp8.com.br/tvlogos/hboxtreme.png" group-title="Canais | Rede HBO",HBO Xtreme HD
+http://7up2.com:80/live/Elias21/21993168216/565.m3u8
+#EXTINF:-1 type="stream" tvg-id="HBO Xtreme HD²" tvg-logo="http://7upsp8.com.br/tvlogos/hboxtreme.png" group-title="Canais | Rede HBO",HBO Xtreme HD²
 http://7up2.com:80/live/Elias21/21993168216/563.m3u8
 #EXTINF:-1 type="stream" tvg-id="HGTV FHD" tvg-logo="http://7upsp8.com.br/tvlogos/hgtv.png" group-title="Canais | Cultura e Documentário",HGTV FHD
 http://7up2.com:80/live/Elias21/21993168216/254.m3u8
@@ -885,6 +953,8 @@ http://7up2.com:80/live/Elias21/21993168216/38618.m3u8
 http://7up2.com:80/live/Elias21/21993168216/341.m3u8
 #EXTINF:-1 type="stream" tvg-id="Lifetime FHD" tvg-logo="http://7upsp8.com.br/tvlogos/lifetime.png" group-title="Canais | Variedades",Lifetime FHD
 http://7up2.com:80/live/Elias21/21993168216/258.m3u8
+#EXTINF:-1 type="stream" tvg-id="Lifetime FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/lifetime.png" group-title="Canais | Variedades",Lifetime FHD²
+http://7up2.com:80/live/Elias21/21993168216/260.m3u8
 #EXTINF:-1 type="stream" tvg-id="Lifetime HD" tvg-logo="http://7upsp8.com.br/tvlogos/lifetime.png" group-title="Canais | Variedades",Lifetime HD
 http://7up2.com:80/live/Elias21/21993168216/259.m3u8
 #EXTINF:-1 type="stream" tvg-id="Loading TV HD" tvg-logo="https://i.imgur.com/MtkzA35.png" group-title="Canais | Variedades",Loading TV HD
@@ -895,12 +965,18 @@ http://7up2.com:80/live/Elias21/21993168216/451.m3u8
 http://7up2.com:80/live/Elias21/21993168216/453.m3u8
 #EXTINF:-1 type="stream" tvg-id="Megapix HD" tvg-logo="http://7upsp8.com.br/tvlogos/megapix.png" group-title="Canais | Filmes e Séries",Megapix HD
 http://7up2.com:80/live/Elias21/21993168216/452.m3u8
+#EXTINF:-1 type="stream" tvg-id="Metropoles Esportes 01" tvg-logo="http://7upsp8.com.br/tvlogos/metropolisesportes.png" group-title="Canais | Esportes PPV",Metropoles Esportes 01
+http://7up2.com:80/live/Elias21/21993168216/43.m3u8
+#EXTINF:-1 type="stream" tvg-id="Metropoles Esportes 02" tvg-logo="http://7upsp8.com.br/tvlogos/metropolisesportes.png" group-title="Canais | Esportes PPV",Metropoles Esportes 02
+http://7up2.com:80/live/Elias21/21993168216/62.m3u8
+#EXTINF:-1 type="stream" tvg-id="Metropoles Esportes 03" tvg-logo="http://7upsp8.com.br/tvlogos/metropolisesportes.png" group-title="Canais | Esportes PPV",Metropoles Esportes 03
+http://7up2.com:80/live/Elias21/21993168216/72.m3u8
+#EXTINF:-1 type="stream" tvg-id="Metropoles Esportes 04" tvg-logo="http://7upsp8.com.br/tvlogos/metropolisesportes.png" group-title="Canais | Esportes PPV",Metropoles Esportes 04
+http://7up2.com:80/live/Elias21/21993168216/86.m3u8
 #EXTINF:-1 type="stream" tvg-id="Modo Viagem FHD" tvg-logo="http://7upsp8.com.br/tvlogos/modoviagem.png" group-title="Canais | Variedades",Modo Viagem FHD
 http://7up2.com:80/live/Elias21/21993168216/264.m3u8
 #EXTINF:-1 type="stream" tvg-id="Modo Viagem HD" tvg-logo="http://7upsp8.com.br/tvlogos/modoviagem.png" group-title="Canais | Variedades",Modo Viagem HD
 http://7up2.com:80/live/Elias21/21993168216/75077.m3u8
-#EXTINF:-1 type="stream" tvg-id="Movie Sphere" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Movie Sphere
-http://7up2.com:80/live/Elias21/21993168216/421.m3u8
 #EXTINF:-1 type="stream" tvg-id="Mr Olympia 01" tvg-logo="http://7upsp8.com.br/tvlogos/olympia.png" group-title="Canais | Esportes PPV",Mr Olympia 01
 http://7up2.com:80/live/Elias21/21993168216/469.m3u8
 #EXTINF:-1 type="stream" tvg-id="Mr Olympia 02" tvg-logo="http://7upsp8.com.br/tvlogos/olympia.png" group-title="Canais | Esportes PPV",Mr Olympia 02
@@ -951,8 +1027,6 @@ http://7up2.com:80/live/Elias21/21993168216/277.m3u8
 http://7up2.com:80/live/Elias21/21993168216/266.m3u8
 #EXTINF:-1 type="stream" tvg-id="Paramount+ PLTF 03" tvg-logo="http://7upsp8.com.br/tvlogos/paramountplus.png" group-title="Canais | Esportes PPV",Paramount+ PLTF 03
 http://7up2.com:80/live/Elias21/21993168216/269.m3u8
-#EXTINF:-1 type="stream" tvg-id="PLAYBOY HD" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",PLAYBOY HD
-http://7up2.com:80/live/Elias21/21993168216/1984158.m3u8
 #EXTINF:-1 type="stream" tvg-id="Premiere 1 Clubes FHD" tvg-logo="http://7upsp8.com.br/tvlogos/premierefutebolclubes.png" group-title="Canais | Premiere F.C.",Premiere 1 Clubes FHD
 http://7up2.com:80/live/Elias21/21993168216/634.m3u8
 #EXTINF:-1 type="stream" tvg-id="Premiere 1 Clubes FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/premierefutebolclubes.png" group-title="Canais | Premiere F.C.",Premiere 1 Clubes FHD²
@@ -1011,20 +1085,26 @@ http://7up2.com:80/live/Elias21/21993168216/636.m3u8
 http://7up2.com:80/live/Elias21/21993168216/283.m3u8
 #EXTINF:-1 type="stream" tvg-id="Prime Box Brasil HD" tvg-logo="http://7upsp8.com.br/tvlogos/primeboxbrazil.png" group-title="Canais | Variedades",Prime Box Brasil HD
 http://7up2.com:80/live/Elias21/21993168216/284.m3u8
-#EXTINF:-1 type="stream" tvg-id="Prime Vídeo 1 " tvg-logo="http://7upsp8.com.br/tvlogos/primevideo.png" group-title="Canais | Esportes PPV",Prime Vídeo 1 
+#EXTINF:-1 type="stream" tvg-id="Prime Vídeo 01 " tvg-logo="http://7upsp8.com.br/tvlogos/primevideo.png" group-title="Canais | Esportes PPV",Prime Vídeo 01 
 http://7up2.com:80/live/Elias21/21993168216/645.m3u8
-#EXTINF:-1 type="stream" tvg-id="Prime Vídeo 1 ²" tvg-logo="http://7upsp8.com.br/tvlogos/primevideo.png" group-title="Canais | Esportes PPV",Prime Vídeo 1 ²
-http://7up2.com:80/live/Elias21/21993168216/54132.m3u8
-#EXTINF:-1 type="stream" tvg-id="Prime Vídeo 2 " tvg-logo="http://7upsp8.com.br/tvlogos/primevideo.png" group-title="Canais | Esportes PPV",Prime Vídeo 2 
+#EXTINF:-1 type="stream" tvg-id="Prime Vídeo 02 " tvg-logo="http://7upsp8.com.br/tvlogos/primevideo.png" group-title="Canais | Esportes PPV",Prime Vídeo 02 
 http://7up2.com:80/live/Elias21/21993168216/646.m3u8
-#EXTINF:-1 type="stream" tvg-id="Prime Vídeo 2 ²" tvg-logo="http://7upsp8.com.br/tvlogos/primevideo.png" group-title="Canais | Esportes PPV",Prime Vídeo 2 ²
-http://7up2.com:80/live/Elias21/21993168216/664.m3u8
-#EXTINF:-1 type="stream" tvg-id="Prime Vídeo 3 " tvg-logo="http://7upsp8.com.br/tvlogos/primevideo.png" group-title="Canais | Esportes PPV",Prime Vídeo 3 
+#EXTINF:-1 type="stream" tvg-id="Prime Vídeo 03 " tvg-logo="http://7upsp8.com.br/tvlogos/primevideo.png" group-title="Canais | Esportes PPV",Prime Vídeo 03 
 http://7up2.com:80/live/Elias21/21993168216/82245.m3u8
-#EXTINF:-1 type="stream" tvg-id="Prime Vídeo 4 " tvg-logo="http://7upsp8.com.br/tvlogos/primevideo.png" group-title="Canais | Esportes PPV",Prime Vídeo 4 
+#EXTINF:-1 type="stream" tvg-id="Prime Vídeo 04 " tvg-logo="http://7upsp8.com.br/tvlogos/primevideo.png" group-title="Canais | Esportes PPV",Prime Vídeo 04 
 http://7up2.com:80/live/Elias21/21993168216/674.m3u8
-#EXTINF:-1 type="stream" tvg-id="Prime Vídeo 5 " tvg-logo="http://7upsp8.com.br/tvlogos/primevideo.png" group-title="Canais | Esportes PPV",Prime Vídeo 5 
+#EXTINF:-1 type="stream" tvg-id="Prime Vídeo 05 " tvg-logo="http://7upsp8.com.br/tvlogos/primevideo.png" group-title="Canais | Esportes PPV",Prime Vídeo 05 
 http://7up2.com:80/live/Elias21/21993168216/675.m3u8
+#EXTINF:-1 type="stream" tvg-id="Prime Vídeo 06" tvg-logo="http://7upsp8.com.br/tvlogos/primevideo.png" group-title="Canais | Esportes PPV",Prime Vídeo 06
+http://7up2.com:80/live/Elias21/21993168216/664.m3u8
+#EXTINF:-1 type="stream" tvg-id="Prime Vídeo 07" tvg-logo="http://7upsp8.com.br/tvlogos/primevideo.png" group-title="Canais | Esportes PPV",Prime Vídeo 07
+http://7up2.com:80/live/Elias21/21993168216/54132.m3u8
+#EXTINF:-1 type="stream" tvg-id="Prime Vídeo 08" tvg-logo="http://7upsp8.com.br/tvlogos/primevideo.png" group-title="Canais | Esportes PPV",Prime Vídeo 08
+http://7up2.com:80/live/Elias21/21993168216/285.m3u8
+#EXTINF:-1 type="stream" tvg-id="Prime Vídeo 09" tvg-logo="http://7upsp8.com.br/tvlogos/primevideo.png" group-title="Canais | Esportes PPV",Prime Vídeo 09
+http://7up2.com:80/live/Elias21/21993168216/161.m3u8
+#EXTINF:-1 type="stream" tvg-id="Prime Vídeo 10" tvg-logo="http://7upsp8.com.br/tvlogos/primevideo.png" group-title="Canais | Esportes PPV",Prime Vídeo 10
+http://7up2.com:80/live/Elias21/21993168216/136.m3u8
 #EXTINF:-1 type="stream" tvg-id="Receitas Fast HD" tvg-logo="http://7upsp8.com.br/tvlogos/receitasfast.png" group-title="Canais | Variedades",Receitas Fast HD
 http://7up2.com:80/live/Elias21/21993168216/47483.m3u8
 #EXTINF:-1 type="stream" tvg-id="Record Belém FHD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record Belém FHD
@@ -1053,12 +1133,14 @@ http://7up2.com:80/live/Elias21/21993168216/36.m3u8
 http://7up2.com:80/live/Elias21/21993168216/37.m3u8
 #EXTINF:-1 type="stream" tvg-id="Record Minas HD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record Minas HD
 http://7up2.com:80/live/Elias21/21993168216/290.m3u8
-#EXTINF:-1 type="stream" tvg-id="Record NDTV Blumenal HD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record NDTV Blumenal HD
+#EXTINF:-1 type="stream" tvg-id="Record Remanso MA HD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record Remanso MA HD
 http://7up2.com:80/live/Elias21/21993168216/372.m3u8
 #EXTINF:-1 type="stream" tvg-id="Record NDTV Florianópolis HD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record NDTV Florianópolis HD
 http://7up2.com:80/live/Elias21/21993168216/335.m3u8
 #EXTINF:-1 type="stream" tvg-id="Record News FHD" tvg-logo="http://7upsp8.com.br/tvlogos/recordnews1.png" group-title="Canais | Jornalismo",Record News FHD
 http://7up2.com:80/live/Elias21/21993168216/342.m3u8
+#EXTINF:-1 type="stream" tvg-id="Record News FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/recordnews1.png" group-title="Canais | Jornalismo",Record News FHD²
+http://7up2.com:80/live/Elias21/21993168216/344.m3u8
 #EXTINF:-1 type="stream" tvg-id="Record News HD" tvg-logo="http://7upsp8.com.br/tvlogos/recordnews1.png" group-title="Canais | Jornalismo",Record News HD
 http://7up2.com:80/live/Elias21/21993168216/38619.m3u8
 #EXTINF:-1 type="stream" tvg-id="Record RJ FHD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record RJ FHD
@@ -1089,7 +1171,9 @@ http://7up2.com:80/live/Elias21/21993168216/648.m3u8
 http://7up2.com:80/live/Elias21/21993168216/1119616.m3u8
 #EXTINF:-1 type="stream" tvg-id="Record Vila Real MT HD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record Vila Real MT HD
 http://7up2.com:80/live/Elias21/21993168216/653.m3u8
-#EXTINF:-1 type="stream" tvg-id="Rede Brasil TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Rede_Brasil_de_Televis%C3%A3o_Logo2023.png" group-title="Canais | Abertos",Rede Brasil TV HD
+#EXTINF:-1 type="stream" tvg-id="Rede Boas Novas" tvg-logo="http://7upsp8.com.br/tvlogos/boasnovas.png" group-title="Canais | Religiosos",Rede Boas Novas
+http://7up2.com:80/live/Elias21/21993168216/684.m3u8
+#EXTINF:-1 type="stream" tvg-id="Rede Brasil TV HD" tvg-logo="http://7upsp8.com.br/tvlogos/redebrasil.png" group-title="Canais | Abertos",Rede Brasil TV HD
 http://7up2.com:80/live/Elias21/21993168216/49.m3u8
 #EXTINF:-1 type="stream" tvg-id="Rede CNT" tvg-logo="https://i.imgur.com/GJ9fNPj.png" group-title="Canais | Religiosos",Rede CNT
 http://7up2.com:80/live/Elias21/21993168216/687.m3u8
@@ -1203,6 +1287,12 @@ http://7up2.com:80/live/Elias21/21993168216/56.m3u8
 http://7up2.com:80/live/Elias21/21993168216/60.m3u8
 #EXTINF:-1 type="stream" tvg-id="SBT MA HD" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT MA HD
 http://7up2.com:80/live/Elias21/21993168216/61.m3u8
+#EXTINF:-1 type="stream" tvg-id="SBT News FHD" tvg-logo="http://7upsp8.com.br/tvlogos/sbtnews.png" group-title="Canais | Jornalismo",SBT News FHD
+http://7up2.com:80/live/Elias21/21993168216/316.m3u8
+#EXTINF:-1 type="stream" tvg-id="SBT News FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/sbtnews.png" group-title="Canais | Jornalismo",SBT News FHD²
+http://7up2.com:80/live/Elias21/21993168216/343.m3u8
+#EXTINF:-1 type="stream" tvg-id="SBT News HD" tvg-logo="http://7upsp8.com.br/tvlogos/sbtnews.png" group-title="Canais | Jornalismo",SBT News HD
+http://7up2.com:80/live/Elias21/21993168216/652.m3u8
 #EXTINF:-1 type="stream" tvg-id="SBT Piauí HD" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT Piauí HD
 http://7up2.com:80/live/Elias21/21993168216/262.m3u8
 #EXTINF:-1 type="stream" tvg-id="SBT PR HD" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT PR HD
@@ -1217,7 +1307,7 @@ http://7up2.com:80/live/Elias21/21993168216/69.m3u8
 http://7up2.com:80/live/Elias21/21993168216/1941.m3u8
 #EXTINF:-1 type="stream" tvg-id="SBT RS HD²" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT RS HD²
 http://7up2.com:80/live/Elias21/21993168216/70.m3u8
-#EXTINF:-1 type="stream" tvg-id="SBT SC HD²" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT SC HD²
+#EXTINF:-1 type="stream" tvg-id="SBT SC HD" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT SC HD
 http://7up2.com:80/live/Elias21/21993168216/71.m3u8
 #EXTINF:-1 type="stream" tvg-id="SBT Serra Dourada GO HD" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT Serra Dourada GO HD
 http://7up2.com:80/live/Elias21/21993168216/57.m3u8
@@ -1233,16 +1323,12 @@ http://7up2.com:80/live/Elias21/21993168216/468299.m3u8
 http://7up2.com:80/live/Elias21/21993168216/55.m3u8
 #EXTINF:-1 type="stream" tvg-id="SescTV" tvg-logo="http://7upsp8.com.br/tvlogos/sesctv.png" group-title="Canais | Abertos",SescTV
 http://7up2.com:80/live/Elias21/21993168216/76.m3u8
-#EXTINF:-1 type="stream" tvg-id="SEXTREME HD" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",SEXTREME HD
-http://7up2.com:80/live/Elias21/21993168216/1984160.m3u8
-#EXTINF:-1 type="stream" tvg-id="SEXY HOT HD" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",SEXY HOT HD
-http://7up2.com:80/live/Elias21/21993168216/1984162.m3u8
 #EXTINF:-1 type="stream" tvg-id="Sony FHD" tvg-logo="http://7upsp8.com.br/tvlogos/sony.png" group-title="Canais | Filmes e Séries",Sony FHD
 http://7up2.com:80/live/Elias21/21993168216/460.m3u8
+#EXTINF:-1 type="stream" tvg-id="Sony FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/sony.png" group-title="Canais | Filmes e Séries",Sony FHD²
+http://7up2.com:80/live/Elias21/21993168216/463.m3u8
 #EXTINF:-1 type="stream" tvg-id="Sony HD" tvg-logo="http://7upsp8.com.br/tvlogos/sony.png" group-title="Canais | Filmes e Séries",Sony HD
 http://7up2.com:80/live/Elias21/21993168216/461.m3u8
-#EXTINF:-1 type="stream" tvg-id="Sony HD²" tvg-logo="http://7upsp8.com.br/tvlogos/sony.png" group-title="Canais | Filmes e Séries",Sony HD²
-http://7up2.com:80/live/Elias21/21993168216/463.m3u8
 #EXTINF:-1 type="stream" tvg-id="Space FHD" tvg-logo="http://7upsp8.com.br/tvlogos/space.png" group-title="Canais | Filmes e Séries",Space FHD
 http://7up2.com:80/live/Elias21/21993168216/464.m3u8
 #EXTINF:-1 type="stream" tvg-id="Space FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/space.png" group-title="Canais | Filmes e Séries",Space FHD²
@@ -1275,6 +1361,10 @@ http://7up2.com:80/live/Elias21/21993168216/449.m3u8
 http://7up2.com:80/live/Elias21/21993168216/604.m3u8
 #EXTINF:-1 type="stream" tvg-id="SporTV 3 HD²" tvg-logo="http://7upsp8.com.br/tvlogos/sportv3.png" group-title="Canais | Esportes",SporTV 3 HD²
 http://7up2.com:80/live/Elias21/21993168216/606.m3u8
+#EXTINF:-1 type="stream" tvg-id="SporTV 4 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/sportv4.png" group-title="Canais | Esportes",SporTV 4 FHD
+http://7up2.com:80/live/Elias21/21993168216/572.m3u8
+#EXTINF:-1 type="stream" tvg-id="SporTV 4 HD" tvg-logo="http://7upsp8.com.br/tvlogos/sportv4.png" group-title="Canais | Esportes",SporTV 4 HD
+http://7up2.com:80/live/Elias21/21993168216/282.m3u8
 #EXTINF:-1 type="stream" tvg-id="Sportv Extra 01" tvg-logo="http://7upsp8.com.br/tvlogos/sportvextra.png" group-title="Canais | Esportes PPV",Sportv Extra 01
 http://7up2.com:80/live/Elias21/21993168216/169.m3u8
 #EXTINF:-1 type="stream" tvg-id="Sportv Extra 02" tvg-logo="http://7upsp8.com.br/tvlogos/sportvextra.png" group-title="Canais | Esportes PPV",Sportv Extra 02
@@ -1295,6 +1385,8 @@ http://7up2.com:80/live/Elias21/21993168216/471.m3u8
 http://7up2.com:80/live/Elias21/21993168216/474.m3u8
 #EXTINF:-1 type="stream" tvg-id="Studio Universal HD" tvg-logo="http://7upsp8.com.br/tvlogos/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal HD
 http://7up2.com:80/live/Elias21/21993168216/473.m3u8
+#EXTINF:-1 type="stream" tvg-id="Séries em Destaque" tvg-logo="http://7upsp8.com.br/tvlogos/baldepipoca.png" group-title="Área do Cliente",Séries em Destaque
+http://7up2.com:80/live/Elias21/21993168216/182.m3u8
 #EXTINF:-1 type="stream" tvg-id="TCM FHD" tvg-logo="http://7upsp8.com.br/tvlogos/tcm.png" group-title="Canais | Filmes e Séries",TCM FHD
 http://7up2.com:80/live/Elias21/21993168216/478.m3u8
 #EXTINF:-1 type="stream" tvg-id="TCM HD" tvg-logo="http://7upsp8.com.br/tvlogos/tcm.png" group-title="Canais | Filmes e Séries",TCM HD
@@ -1357,8 +1449,6 @@ http://7up2.com:80/live/Elias21/21993168216/375.m3u8
 http://7up2.com:80/live/Elias21/21993168216/253.m3u8
 #EXTINF:-1 type="stream" tvg-id="The History HD" tvg-logo="http://7upsp8.com.br/tvlogos/history.png" group-title="Canais | Cultura e Documentário",The History HD
 http://7up2.com:80/live/Elias21/21993168216/376.m3u8
-#EXTINF:-1 type="stream" tvg-id="The History HD²" tvg-logo="http://7upsp8.com.br/tvlogos/history.png" group-title="Canais | Cultura e Documentário",The History HD²
-http://7up2.com:80/live/Elias21/21993168216/257.m3u8
 #EXTINF:-1 type="stream" tvg-id="TNT FHD" tvg-logo="http://7upsp8.com.br/tvlogos/tnt.png" group-title="Canais | Filmes e Séries",TNT FHD
 http://7up2.com:80/live/Elias21/21993168216/485.m3u8
 #EXTINF:-1 type="stream" tvg-id="TNT FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/tnt.png" group-title="Canais | Filmes e Séries",TNT FHD²
@@ -1383,6 +1473,8 @@ http://7up2.com:80/live/Elias21/21993168216/490.m3u8
 http://7up2.com:80/live/Elias21/21993168216/87171.m3u8
 #EXTINF:-1 type="stream" tvg-id="Tooncast FHD" tvg-logo="http://7upsp8.com.br/tvlogos/tooncast.png" group-title="Canais | Infantis",Tooncast FHD
 http://7up2.com:80/live/Elias21/21993168216/408.m3u8
+#EXTINF:-1 type="stream" tvg-id="Tooncast FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/tooncast.png" group-title="Canais | Infantis",Tooncast FHD²
+http://7up2.com:80/live/Elias21/21993168216/409.m3u8
 #EXTINF:-1 type="stream" tvg-id="Tooncast HD" tvg-logo="http://7upsp8.com.br/tvlogos/tooncast.png" group-title="Canais | Infantis",Tooncast HD
 http://7up2.com:80/live/Elias21/21993168216/407.m3u8
 #EXTINF:-1 type="stream" tvg-id="Top Mix TV" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Top Mix TV
@@ -1423,6 +1515,8 @@ http://7up2.com:80/live/Elias21/21993168216/702.m3u8
 http://7up2.com:80/live/Elias21/21993168216/703.m3u8
 #EXTINF:-1 type="stream" tvg-id="TV Justiça FHD" tvg-logo="http://7upsp8.com.br/tvlogos/tvjustica.png" group-title="Canais | Abertos",TV Justiça FHD
 http://7up2.com:80/live/Elias21/21993168216/91.m3u8
+#EXTINF:-1 type="stream" tvg-id="TV Kid Mais" tvg-logo="http://7upsp8.com.br/tvlogos/tvkidmais.png" group-title="Canais | Infantis",TV Kid Mais
+http://7up2.com:80/live/Elias21/21993168216/412.m3u8
 #EXTINF:-1 type="stream" tvg-id="TV Maná BR" tvg-logo="https://i.imgur.com/VNKhxgm.png" group-title="Canais | Religiosos",TV Maná BR
 http://7up2.com:80/live/Elias21/21993168216/704.m3u8
 #EXTINF:-1 type="stream" tvg-id="TV Novo Tempo HD" tvg-logo="http://7upsp8.com.br/tvlogos/novotempo.png" group-title="Canais | Religiosos",TV Novo Tempo HD
@@ -1439,6 +1533,8 @@ http://7up2.com:80/live/Elias21/21993168216/410.m3u8
 http://7up2.com:80/live/Elias21/21993168216/411.m3u8
 #EXTINF:-1 type="stream" tvg-id="TV Senado" tvg-logo="http://7upsp8.com.br/tvlogos/tvsenado.png" group-title="Canais | Abertos",TV Senado
 http://7up2.com:80/live/Elias21/21993168216/93.m3u8
+#EXTINF:-1 type="stream" tvg-id="TV Sonata" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",TV Sonata
+http://7up2.com:80/live/Elias21/21993168216/421.m3u8
 #EXTINF:-1 type="stream" tvg-id="TVE FHD" tvg-logo="http://7upsp8.com.br/tvlogos/tve.png" group-title="Canais | Abertos",TVE FHD
 http://7up2.com:80/live/Elias21/21993168216/620.m3u8
 #EXTINF:-1 type="stream" tvg-id="UFC Fight Pass 01 HD" tvg-logo="http://7upsp8.com.br/tvlogos/ufcfight.png" group-title="Canais | Esportes",UFC Fight Pass 01 HD
@@ -1475,8 +1571,8 @@ http://7up2.com:80/live/Elias21/21993168216/292.m3u8
 http://7up2.com:80/live/Elias21/21993168216/294.m3u8
 #EXTINF:-1 type="stream" tvg-id="USA HD" tvg-logo="http://7upsp8.com.br/tvlogos/usa.png" group-title="Canais | Filmes e Séries",USA HD
 http://7up2.com:80/live/Elias21/21993168216/293.m3u8
-#EXTINF:-1 type="stream" tvg-id="VENUS HD" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",VENUS HD
-http://7up2.com:80/live/Elias21/21993168216/1984164.m3u8
+#EXTINF:-1 type="stream" tvg-id="Warner Channel" tvg-logo="http://7upsp8.com.br/tvlogos/warner.png" group-title="Canais | Filmes e Séries",Warner Channel
+http://7up2.com:80/live/Elias21/21993168216/503.m3u8
 #EXTINF:-1 type="stream" tvg-id="Warner Channel FHD" tvg-logo="http://7upsp8.com.br/tvlogos/warner.png" group-title="Canais | Filmes e Séries",Warner Channel FHD
 http://7up2.com:80/live/Elias21/21993168216/499.m3u8
 #EXTINF:-1 type="stream" tvg-id="Warner Channel FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/warner.png" group-title="Canais | Filmes e Séries",Warner Channel FHD²
@@ -1497,337 +1593,185 @@ http://7up2.com:80/live/Elias21/21993168216/466.m3u8
 http://7up2.com:80/live/Elias21/21993168216/96.m3u8
 #EXTINF:-1 type="stream" tvg-id="ZooMoo FHD" tvg-logo="http://7upsp8.com.br/tvlogos/zoomoo.png" group-title="Canais | Infantis",ZooMoo FHD
 http://7up2.com:80/live/Elias21/21993168216/414.m3u8
-#EXTINF:-1 type="stream" tvg-id="ZooMoo HD" tvg-logo="https://i.imgur.com/siaWfbB.png" group-title="Canais | Infantis",ZooMoo HD
-http://7up2.com:80/live/Elias21/21993168216/75992.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 01" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 01
-http://7up2.com:80/live/Elias21/21993168216/1984166.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 02" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 02
-http://7up2.com:80/live/Elias21/21993168216/1984167.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 03" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 03
-http://7up2.com:80/live/Elias21/21993168216/1984168.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 04" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 04
-http://7up2.com:80/live/Elias21/21993168216/1984169.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 05" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 05
-http://7up2.com:80/live/Elias21/21993168216/1984170.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 06" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 06
-http://7up2.com:80/live/Elias21/21993168216/1984171.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 07" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 07
-http://7up2.com:80/live/Elias21/21993168216/1984172.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 08" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 08
-http://7up2.com:80/live/Elias21/21993168216/1984173.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 09" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 09
-http://7up2.com:80/live/Elias21/21993168216/1984174.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 10" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 10
-http://7up2.com:80/live/Elias21/21993168216/1984175.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 11" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 11
-http://7up2.com:80/live/Elias21/21993168216/1984176.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 12" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 12
-http://7up2.com:80/live/Elias21/21993168216/1984177.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 13" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 13
-http://7up2.com:80/live/Elias21/21993168216/1984178.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 14" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 14
-http://7up2.com:80/live/Elias21/21993168216/1984179.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 15" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 15
-http://7up2.com:80/live/Elias21/21993168216/1984180.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 16" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 16
-http://7up2.com:80/live/Elias21/21993168216/1984181.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 17" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 17
-http://7up2.com:80/live/Elias21/21993168216/1984182.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 18" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 18
-http://7up2.com:80/live/Elias21/21993168216/1984183.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 19" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 19
-http://7up2.com:80/live/Elias21/21993168216/1984184.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 20" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 20
-http://7up2.com:80/live/Elias21/21993168216/1984185.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 21" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 21
-http://7up2.com:80/live/Elias21/21993168216/1984186.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 22" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 22
-http://7up2.com:80/live/Elias21/21993168216/1984187.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 23" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 23
-http://7up2.com:80/live/Elias21/21993168216/1984188.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 24" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 24
-http://7up2.com:80/live/Elias21/21993168216/1984189.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 25" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 25
-http://7up2.com:80/live/Elias21/21993168216/1984190.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 26" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 26
-http://7up2.com:80/live/Elias21/21993168216/1984191.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 27" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 27
-http://7up2.com:80/live/Elias21/21993168216/1984192.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 28" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 28
-http://7up2.com:80/live/Elias21/21993168216/1984193.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 29" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 29
-http://7up2.com:80/live/Elias21/21993168216/1984194.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 30" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 30
-http://7up2.com:80/live/Elias21/21993168216/1984195.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 31" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 31
-http://7up2.com:80/live/Elias21/21993168216/1984196.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 32" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 32
-http://7up2.com:80/live/Elias21/21993168216/1984197.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 33" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 33
-http://7up2.com:80/live/Elias21/21993168216/1984198.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 34" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 34
-http://7up2.com:80/live/Elias21/21993168216/1984199.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 35" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 35
-http://7up2.com:80/live/Elias21/21993168216/1984200.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 36" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 36
-http://7up2.com:80/live/Elias21/21993168216/1984201.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 37" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 37
-http://7up2.com:80/live/Elias21/21993168216/1984202.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 38" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 38
-http://7up2.com:80/live/Elias21/21993168216/1984203.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 39" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 39
-http://7up2.com:80/live/Elias21/21993168216/1984204.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 40" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 40
-http://7up2.com:80/live/Elias21/21993168216/1984205.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 41" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 41
-http://7up2.com:80/live/Elias21/21993168216/1984206.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 42" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 42
-http://7up2.com:80/live/Elias21/21993168216/1984207.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 43" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 43
-http://7up2.com:80/live/Elias21/21993168216/1984208.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 44" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 44
-http://7up2.com:80/live/Elias21/21993168216/1984209.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 45" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 45
-http://7up2.com:80/live/Elias21/21993168216/1984210.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 46" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 46
-http://7up2.com:80/live/Elias21/21993168216/1984211.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 47" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 47
-http://7up2.com:80/live/Elias21/21993168216/1984212.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 48" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 48
-http://7up2.com:80/live/Elias21/21993168216/1984213.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 49" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 49
-http://7up2.com:80/live/Elias21/21993168216/1984214.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 50" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 50
-http://7up2.com:80/live/Elias21/21993168216/1984215.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 51" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 51
-http://7up2.com:80/live/Elias21/21993168216/1984216.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 52" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 52
-http://7up2.com:80/live/Elias21/21993168216/1984217.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 53" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 53
-http://7up2.com:80/live/Elias21/21993168216/1984218.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 54" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 54
-http://7up2.com:80/live/Elias21/21993168216/1984219.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 55" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 55
-http://7up2.com:80/live/Elias21/21993168216/1984220.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 56" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 56
-http://7up2.com:80/live/Elias21/21993168216/1984221.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 57" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 57
-http://7up2.com:80/live/Elias21/21993168216/1984222.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 58" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 58
-http://7up2.com:80/live/Elias21/21993168216/1984223.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 59" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 59
-http://7up2.com:80/live/Elias21/21993168216/1984224.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 60" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 60
-http://7up2.com:80/live/Elias21/21993168216/1984225.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 61" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 61
-http://7up2.com:80/live/Elias21/21993168216/1984226.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 62" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 62
-http://7up2.com:80/live/Elias21/21993168216/1984227.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 63" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 63
-http://7up2.com:80/live/Elias21/21993168216/1984228.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 64" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 64
-http://7up2.com:80/live/Elias21/21993168216/1984229.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 65" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 65
-http://7up2.com:80/live/Elias21/21993168216/1984230.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 66" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 66
-http://7up2.com:80/live/Elias21/21993168216/1984231.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 67" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 67
-http://7up2.com:80/live/Elias21/21993168216/1984232.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 68" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 68
-http://7up2.com:80/live/Elias21/21993168216/1984233.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 69" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 69
-http://7up2.com:80/live/Elias21/21993168216/1984234.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 70" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 70
-http://7up2.com:80/live/Elias21/21993168216/1984235.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 71" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 71
-http://7up2.com:80/live/Elias21/21993168216/1984236.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 72" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 72
-http://7up2.com:80/live/Elias21/21993168216/1984237.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 73" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 73
-http://7up2.com:80/live/Elias21/21993168216/1984238.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 74" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 74
-http://7up2.com:80/live/Elias21/21993168216/1984239.m3u8
-#EXTINF:-1 type="stream" tvg-id="[+18] ADULTO 75" tvg-logo="http://7upsp8.com.br/tvlogos/adultopimenta.png" group-title="Canais | XXX - Adultos (+18)",[+18] ADULTO 75
-http://7up2.com:80/live/Elias21/21993168216/1984240.m3u8
 #EXTINF:-1 type="stream" tvg-id="[24H]  A Grande Família do Alasca" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Programação 24 HRS",[24H]  A Grande Família do Alasca
 http://7up2.com:80/live/Elias21/21993168216/2762.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] 3 Palavrinhas" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] 3 Palavrinhas
-http://7up2.com:80/live/Elias21/21993168216/1984317.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] 3 PALAVRINHAS" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] 3 PALAVRINHAS
+http://7up2.com:80/live/Elias21/21993168216/2039218.m3u8
 #EXTINF:-1 type="stream" tvg-id="[24H] A Família Dinossauros" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Programação 24 HRS",[24H] A Família Dinossauros
 http://7up2.com:80/live/Elias21/21993168216/2796.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] A Turma Do Pateta" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] A Turma Do Pateta
-http://7up2.com:80/live/Elias21/21993168216/1984340.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] A TURMA DO PATETA" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] A TURMA DO PATETA
+http://7up2.com:80/live/Elias21/21993168216/2039241.m3u8
 #EXTINF:-1 type="stream" tvg-id="[24H] Alf, O ETeimoso" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Programação 24 HRS",[24H] Alf, O ETeimoso
 http://7up2.com:80/live/Elias21/21993168216/2848.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] American Dad!" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] American Dad!
-http://7up2.com:80/live/Elias21/21993168216/1984361.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Apenas Um Show" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Apenas Um Show
-http://7up2.com:80/live/Elias21/21993168216/1984362.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] As Aventuras De Jackie Chan" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] As Aventuras De Jackie Chan
-http://7up2.com:80/live/Elias21/21993168216/1984339.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] As Meninas Superpoderosas" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] As Meninas Superpoderosas
-http://7up2.com:80/live/Elias21/21993168216/1984319.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Baby Looney Tunes" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Baby Looney Tunes
-http://7up2.com:80/live/Elias21/21993168216/1984331.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Baby Shark" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Baby Shark
-http://7up2.com:80/live/Elias21/21993168216/1984363.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Batman: A Série Animada" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Batman: A Série Animada
-http://7up2.com:80/live/Elias21/21993168216/1984324.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Beyblade" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Beyblade
-http://7up2.com:80/live/Elias21/21993168216/1984364.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Blaze E Os Monster Machines" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Blaze E Os Monster Machines
-http://7up2.com:80/live/Elias21/21993168216/1984365.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Bob Esponja" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Bob Esponja
-http://7up2.com:80/live/Elias21/21993168216/1984349.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Bob Zoom" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Bob Zoom
-http://7up2.com:80/live/Elias21/21993168216/1984366.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Boku No Hero Academia" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Boku No Hero Academia
-http://7up2.com:80/live/Elias21/21993168216/1984323.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] AMERICAN DAD!" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] AMERICAN DAD!
+http://7up2.com:80/live/Elias21/21993168216/2039262.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] APENAS UM SHOW" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] APENAS UM SHOW
+http://7up2.com:80/live/Elias21/21993168216/2039263.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] AS AVENTURAS DE JACKIE CHAN" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] AS AVENTURAS DE JACKIE CHAN
+http://7up2.com:80/live/Elias21/21993168216/2039240.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] AS MENINAS SUPERPODEROSAS" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] AS MENINAS SUPERPODEROSAS
+http://7up2.com:80/live/Elias21/21993168216/2039220.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] BABY LOONEY TUNES" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] BABY LOONEY TUNES
+http://7up2.com:80/live/Elias21/21993168216/2039232.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] BABY SHARK" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] BABY SHARK
+http://7up2.com:80/live/Elias21/21993168216/2039264.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] BATMAN: A SÉRIE ANIMADA" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] BATMAN: A SÉRIE ANIMADA
+http://7up2.com:80/live/Elias21/21993168216/2039225.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] BEYBLADE" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] BEYBLADE
+http://7up2.com:80/live/Elias21/21993168216/2039265.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] BLAZE E OS MONSTER MACHINES" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] BLAZE E OS MONSTER MACHINES
+http://7up2.com:80/live/Elias21/21993168216/2039266.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] BOB ESPONJA" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] BOB ESPONJA
+http://7up2.com:80/live/Elias21/21993168216/2039250.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] BOB ZOOM" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] BOB ZOOM
+http://7up2.com:80/live/Elias21/21993168216/2039267.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] BOKU NO HERO ACADEMIA" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] BOKU NO HERO ACADEMIA
+http://7up2.com:80/live/Elias21/21993168216/2039224.m3u8
 #EXTINF:-1 type="stream" tvg-id="[24H] Cavaleiros do Zodíaco" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Programação 24 HRS",[24H] Cavaleiros do Zodíaco
 http://7up2.com:80/live/Elias21/21993168216/2782.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Caverna Do Dragão" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Caverna Do Dragão
-http://7up2.com:80/live/Elias21/21993168216/1984318.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] CAVERNA DO DRAGÃO" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] CAVERNA DO DRAGÃO
+http://7up2.com:80/live/Elias21/21993168216/2039219.m3u8
 #EXTINF:-1 type="stream" tvg-id="[24H] Chaves" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Programação 24 HRS",[24H] Chaves
 http://7up2.com:80/live/Elias21/21993168216/2790.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Corrida Maluca" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Corrida Maluca
-http://7up2.com:80/live/Elias21/21993168216/1984367.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Death Note" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Death Note
-http://7up2.com:80/live/Elias21/21993168216/1984351.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Desenhos Bíblicos" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Desenhos Bíblicos
-http://7up2.com:80/live/Elias21/21993168216/1984368.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Digimon" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Digimon
-http://7up2.com:80/live/Elias21/21993168216/1984321.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] CORRIDA MALUCA" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] CORRIDA MALUCA
+http://7up2.com:80/live/Elias21/21993168216/2039268.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] DEATH NOTE" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] DEATH NOTE
+http://7up2.com:80/live/Elias21/21993168216/2039252.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] DESENHOS BÍBLICOS" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] DESENHOS BÍBLICOS
+http://7up2.com:80/live/Elias21/21993168216/2039269.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] DIGIMON" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] DIGIMON
+http://7up2.com:80/live/Elias21/21993168216/2039222.m3u8
 #EXTINF:-1 type="stream" tvg-id="[24H] Dois Homens e Meio" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Programação 24 HRS",[24H] Dois Homens e Meio
 http://7up2.com:80/live/Elias21/21993168216/2802.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Dora E Seus Amigos" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Dora E Seus Amigos
-http://7up2.com:80/live/Elias21/21993168216/1984369.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Dragon Ball" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Dragon Ball
-http://7up2.com:80/live/Elias21/21993168216/1984370.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Dragon Ball Kai" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Dragon Ball Kai
-http://7up2.com:80/live/Elias21/21993168216/1984372.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Dragon Ball Super" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Dragon Ball Super
-http://7up2.com:80/live/Elias21/21993168216/1984373.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Dragon Ball Z" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Dragon Ball Z
-http://7up2.com:80/live/Elias21/21993168216/1984371.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] DORA E SEUS AMIGOS" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] DORA E SEUS AMIGOS
+http://7up2.com:80/live/Elias21/21993168216/2039270.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] DRAGON BALL" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] DRAGON BALL
+http://7up2.com:80/live/Elias21/21993168216/2039271.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] DRAGON BALL KAI" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] DRAGON BALL KAI
+http://7up2.com:80/live/Elias21/21993168216/2039273.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] DRAGON BALL SUPER" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] DRAGON BALL SUPER
+http://7up2.com:80/live/Elias21/21993168216/2039274.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] DRAGON BALL Z" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] DRAGON BALL Z
+http://7up2.com:80/live/Elias21/21993168216/2039272.m3u8
 #EXTINF:-1 type="stream" tvg-id="[24H] Eu, a Patroa e as Crianças" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Programação 24 HRS",[24H] Eu, a Patroa e as Crianças
 http://7up2.com:80/live/Elias21/21993168216/2758.m3u8
 #EXTINF:-1 type="stream" tvg-id="[24H] Friends" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Programação 24 HRS",[24H] Friends
 http://7up2.com:80/live/Elias21/21993168216/2797.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Futurama" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Futurama
-http://7up2.com:80/live/Elias21/21993168216/1984374.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Gaguinho E Patolino" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Gaguinho E Patolino
-http://7up2.com:80/live/Elias21/21993168216/1984356.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Galinha Pintadinha" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Galinha Pintadinha
-http://7up2.com:80/live/Elias21/21993168216/1984375.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] He-Man" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] He-Man
-http://7up2.com:80/live/Elias21/21993168216/1984352.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Homem De Ferro" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Homem De Ferro
-http://7up2.com:80/live/Elias21/21993168216/1984346.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Homem-Aranha" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Homem-Aranha
-http://7up2.com:80/live/Elias21/21993168216/1984334.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Homem-Aranha: Ação Sem Limites" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Homem-Aranha: Ação Sem Limites
-http://7up2.com:80/live/Elias21/21993168216/1984336.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Homem-Aranha: Ultimate" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Homem-Aranha: Ultimate
-http://7up2.com:80/live/Elias21/21993168216/1984335.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Hora De Aventura" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Hora De Aventura
-http://7up2.com:80/live/Elias21/21993168216/1984333.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Iron Man" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Iron Man
-http://7up2.com:80/live/Elias21/21993168216/1984347.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Knd: A Turma Do Bairro" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Knd: A Turma Do Bairro
-http://7up2.com:80/live/Elias21/21993168216/1984353.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] FUTURAMA" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] FUTURAMA
+http://7up2.com:80/live/Elias21/21993168216/2039275.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] GAGUINHO E PATOLINO" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] GAGUINHO E PATOLINO
+http://7up2.com:80/live/Elias21/21993168216/2039257.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] GALINHA PINTADINHA" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] GALINHA PINTADINHA
+http://7up2.com:80/live/Elias21/21993168216/2039276.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] HE-MAN" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] HE-MAN
+http://7up2.com:80/live/Elias21/21993168216/2039253.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] HOMEM DE FERRO" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] HOMEM DE FERRO
+http://7up2.com:80/live/Elias21/21993168216/2039247.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] HOMEM-ARANHA" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] HOMEM-ARANHA
+http://7up2.com:80/live/Elias21/21993168216/2039235.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] HOMEM-ARANHA: AÇÃO SEM LIMITES" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] HOMEM-ARANHA: AÇÃO SEM LIMITES
+http://7up2.com:80/live/Elias21/21993168216/2039237.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] HOMEM-ARANHA: ULTIMATE" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] HOMEM-ARANHA: ULTIMATE
+http://7up2.com:80/live/Elias21/21993168216/2039236.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] HORA DE AVENTURA" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] HORA DE AVENTURA
+http://7up2.com:80/live/Elias21/21993168216/2039234.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] IRON MAN" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] IRON MAN
+http://7up2.com:80/live/Elias21/21993168216/2039248.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] KND: A TURMA DO BAIRRO" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] KND: A TURMA DO BAIRRO
+http://7up2.com:80/live/Elias21/21993168216/2039254.m3u8
 #EXTINF:-1 type="stream" tvg-id="[24H] Largados e Pelados" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Programação 24 HRS",[24H] Largados e Pelados
 http://7up2.com:80/live/Elias21/21993168216/2844.m3u8
 #EXTINF:-1 type="stream" tvg-id="[24H] Largados e Pelados - Latinos" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Programação 24 HRS",[24H] Largados e Pelados - Latinos
 http://7up2.com:80/live/Elias21/21993168216/2788.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Liga Da Justiça" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Liga Da Justiça
-http://7up2.com:80/live/Elias21/21993168216/1984326.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Liga Da Justiça: Sem Limites" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Liga Da Justiça: Sem Limites
-http://7up2.com:80/live/Elias21/21993168216/1984325.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Looney Tunes" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Looney Tunes
-http://7up2.com:80/live/Elias21/21993168216/1984354.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Manda-Chuva" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Manda-Chuva
-http://7up2.com:80/live/Elias21/21993168216/1984337.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Masha E O Urso" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Masha E O Urso
-http://7up2.com:80/live/Elias21/21993168216/1984376.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Mr. Bean" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Mr. Bean
-http://7up2.com:80/live/Elias21/21993168216/1984377.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Mundo Bita" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Mundo Bita
-http://7up2.com:80/live/Elias21/21993168216/1984378.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Naruto" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Naruto
-http://7up2.com:80/live/Elias21/21993168216/1984379.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] LIGA DA JUSTIÇA" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] LIGA DA JUSTIÇA
+http://7up2.com:80/live/Elias21/21993168216/2039227.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] LIGA DA JUSTIÇA: SEM LIMITES" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] LIGA DA JUSTIÇA: SEM LIMITES
+http://7up2.com:80/live/Elias21/21993168216/2039226.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] LOONEY TUNES" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] LOONEY TUNES
+http://7up2.com:80/live/Elias21/21993168216/2039255.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] MANDA-CHUVA" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] MANDA-CHUVA
+http://7up2.com:80/live/Elias21/21993168216/2039238.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] MASHA E O URSO" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] MASHA E O URSO
+http://7up2.com:80/live/Elias21/21993168216/2039277.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] MR. BEAN" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] MR. BEAN
+http://7up2.com:80/live/Elias21/21993168216/2039278.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] MUNDO BITA" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] MUNDO BITA
+http://7up2.com:80/live/Elias21/21993168216/2039279.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] NARUTO" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] NARUTO
+http://7up2.com:80/live/Elias21/21993168216/2039280.m3u8
 #EXTINF:-1 type="stream" tvg-id="[24H] Novelas Turcas" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Programação 24 HRS",[24H] Novelas Turcas
 http://7up2.com:80/live/Elias21/21993168216/623.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] O Incrível Mundo De Gumball" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] O Incrível Mundo De Gumball
-http://7up2.com:80/live/Elias21/21993168216/1984332.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] O Máskara" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] O Máskara
-http://7up2.com:80/live/Elias21/21993168216/1984350.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] O Novo Pica-Pau" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] O Novo Pica-Pau
-http://7up2.com:80/live/Elias21/21993168216/1984380.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] One Piece" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] One Piece
-http://7up2.com:80/live/Elias21/21993168216/1984381.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] One Punch-Man" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] One Punch-Man
-http://7up2.com:80/live/Elias21/21993168216/1984338.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Os Cavaleiros Do Zodíaco" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Os Cavaleiros Do Zodíaco
-http://7up2.com:80/live/Elias21/21993168216/1984343.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Os Flintstones" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Os Flintstones
-http://7up2.com:80/live/Elias21/21993168216/1984382.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Os Jetsons" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Os Jetsons
-http://7up2.com:80/live/Elias21/21993168216/1984383.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Os Jovens Titãs" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Os Jovens Titãs
-http://7up2.com:80/live/Elias21/21993168216/1984384.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] O INCRÍVEL MUNDO DE GUMBALL" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] O INCRÍVEL MUNDO DE GUMBALL
+http://7up2.com:80/live/Elias21/21993168216/2039233.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] O MÁSKARA" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] O MÁSKARA
+http://7up2.com:80/live/Elias21/21993168216/2039251.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] O NOVO PICA-PAU" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] O NOVO PICA-PAU
+http://7up2.com:80/live/Elias21/21993168216/2039281.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] ONE PIECE" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] ONE PIECE
+http://7up2.com:80/live/Elias21/21993168216/2039282.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] ONE PUNCH-MAN" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] ONE PUNCH-MAN
+http://7up2.com:80/live/Elias21/21993168216/2039239.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] OS CAVALEIROS DO ZODÍACO" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] OS CAVALEIROS DO ZODÍACO
+http://7up2.com:80/live/Elias21/21993168216/2039244.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] OS FLINTSTONES" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] OS FLINTSTONES
+http://7up2.com:80/live/Elias21/21993168216/2039283.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] OS JETSONS" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] OS JETSONS
+http://7up2.com:80/live/Elias21/21993168216/2039284.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] OS JOVENS TITÃS" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] OS JOVENS TITÃS
+http://7up2.com:80/live/Elias21/21993168216/2039285.m3u8
 #EXTINF:-1 type="stream" tvg-id="[24H] Os Simpsons" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Programação 24 HRS",[24H] Os Simpsons
 http://7up2.com:80/live/Elias21/21993168216/2803.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Os Simpsons" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Os Simpsons
-http://7up2.com:80/live/Elias21/21993168216/1984329.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Os Vingadores" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Os Vingadores
-http://7up2.com:80/live/Elias21/21993168216/1984342.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Papa-Léguas" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Papa-Léguas
-http://7up2.com:80/live/Elias21/21993168216/1984355.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Patati Patatá" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Patati Patatá
-http://7up2.com:80/live/Elias21/21993168216/1984385.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Patrulha Canina" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Patrulha Canina
-http://7up2.com:80/live/Elias21/21993168216/1984322.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Peppa Pig" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Peppa Pig
-http://7up2.com:80/live/Elias21/21993168216/1984386.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Pica-Pau" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Pica-Pau
-http://7up2.com:80/live/Elias21/21993168216/1984358.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Piu-Piu E Frajola" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Piu-Piu E Frajola
-http://7up2.com:80/live/Elias21/21993168216/1984357.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Pokémon" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Pokémon
-http://7up2.com:80/live/Elias21/21993168216/1984387.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Rick E Morty" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Rick E Morty
-http://7up2.com:80/live/Elias21/21993168216/1984330.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Santiago Dos Mares" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Santiago Dos Mares
-http://7up2.com:80/live/Elias21/21993168216/1984388.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Scooby-Doo" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Scooby-Doo
-http://7up2.com:80/live/Elias21/21993168216/1984359.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] OS SIMPSONS" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] OS SIMPSONS
+http://7up2.com:80/live/Elias21/21993168216/2039230.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] OS VINGADORES" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] OS VINGADORES
+http://7up2.com:80/live/Elias21/21993168216/2039243.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] PAPA-LÉGUAS" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] PAPA-LÉGUAS
+http://7up2.com:80/live/Elias21/21993168216/2039256.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] PATATI PATATÁ" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] PATATI PATATÁ
+http://7up2.com:80/live/Elias21/21993168216/2039286.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] PATRULHA CANINA" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] PATRULHA CANINA
+http://7up2.com:80/live/Elias21/21993168216/2039223.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] PEPPA PIG" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] PEPPA PIG
+http://7up2.com:80/live/Elias21/21993168216/2039287.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] PICA-PAU" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] PICA-PAU
+http://7up2.com:80/live/Elias21/21993168216/2039259.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] PIU-PIU E FRAJOLA" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] PIU-PIU E FRAJOLA
+http://7up2.com:80/live/Elias21/21993168216/2039258.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] POKÉMON" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] POKÉMON
+http://7up2.com:80/live/Elias21/21993168216/2039288.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] RICK E MORTY" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] RICK E MORTY
+http://7up2.com:80/live/Elias21/21993168216/2039231.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] SANTIAGO DOS MARES" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] SANTIAGO DOS MARES
+http://7up2.com:80/live/Elias21/21993168216/2039289.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] SCOOBY-DOO" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] SCOOBY-DOO
+http://7up2.com:80/live/Elias21/21993168216/2039260.m3u8
 #EXTINF:-1 type="stream" tvg-id="[24H] Smallville" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Programação 24 HRS",[24H] Smallville
 http://7up2.com:80/live/Elias21/21993168216/2833.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Snoopy" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Snoopy
-http://7up2.com:80/live/Elias21/21993168216/1984320.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Sonic The Hedgehog" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Sonic The Hedgehog
-http://7up2.com:80/live/Elias21/21993168216/1984389.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Super Choque" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Super Choque
-http://7up2.com:80/live/Elias21/21993168216/1984327.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] SNOOPY" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] SNOOPY
+http://7up2.com:80/live/Elias21/21993168216/2039221.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] SONIC THE HEDGEHOG" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] SONIC THE HEDGEHOG
+http://7up2.com:80/live/Elias21/21993168216/2039290.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] SUPER CHOQUE" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] SUPER CHOQUE
+http://7up2.com:80/live/Elias21/21993168216/2039228.m3u8
 #EXTINF:-1 type="stream" tvg-id="[24H] The Big Bang Theory" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Programação 24 HRS",[24H] The Big Bang Theory
 http://7up2.com:80/live/Elias21/21993168216/2783.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Thundercats" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Thundercats
-http://7up2.com:80/live/Elias21/21993168216/1984360.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] THUNDERCATS" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] THUNDERCATS
+http://7up2.com:80/live/Elias21/21993168216/2039261.m3u8
 #EXTINF:-1 type="stream" tvg-id="[24H] Todo Mundo Odeia o Chris" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Programação 24 HRS",[24H] Todo Mundo Odeia o Chris
 http://7up2.com:80/live/Elias21/21993168216/2851.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Tom E Jerry" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Tom E Jerry
-http://7up2.com:80/live/Elias21/21993168216/1984341.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Três Espiãs Demais" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Três Espiãs Demais
-http://7up2.com:80/live/Elias21/21993168216/1984348.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] TOM E JERRY" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] TOM E JERRY
+http://7up2.com:80/live/Elias21/21993168216/2039242.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] TRÊS ESPIÃS DEMAIS" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] TRÊS ESPIÃS DEMAIS
+http://7up2.com:80/live/Elias21/21993168216/2039249.m3u8
 #EXTINF:-1 type="stream" tvg-id="[24H] Um Maluco no Pedaço" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Programação 24 HRS",[24H] Um Maluco no Pedaço
 http://7up2.com:80/live/Elias21/21993168216/2855.m3u8
 #EXTINF:-1 type="stream" tvg-id="[24H] Uma Familía da Pesada" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Programação 24 HRS",[24H] Uma Familía da Pesada
 http://7up2.com:80/live/Elias21/21993168216/2842.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Uma Família Da Pesada" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Uma Família Da Pesada
-http://7up2.com:80/live/Elias21/21993168216/1984328.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Wolverine E Os X-Men" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Wolverine E Os X-Men
-http://7up2.com:80/live/Elias21/21993168216/1984344.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] X-Men: Evolution" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] X-Men: Evolution
-http://7up2.com:80/live/Elias21/21993168216/1984345.m3u8
-#EXTINF:-1 type="stream" tvg-id="[24H] Yin Yang Yo!" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] Yin Yang Yo!
-http://7up2.com:80/live/Elias21/21993168216/1984390.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] UMA FAMÍLIA DA PESADA" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] UMA FAMÍLIA DA PESADA
+http://7up2.com:80/live/Elias21/21993168216/2039229.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] WOLVERINE E OS X-MEN" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] WOLVERINE E OS X-MEN
+http://7up2.com:80/live/Elias21/21993168216/2039245.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] X-MEN: EVOLUTION" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] X-MEN: EVOLUTION
+http://7up2.com:80/live/Elias21/21993168216/2039246.m3u8
+#EXTINF:-1 type="stream" tvg-id="[24H] YIN YANG YO!" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] YIN YANG YO!
+http://7up2.com:80/live/Elias21/21993168216/2039291.m3u8
