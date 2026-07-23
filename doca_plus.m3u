@@ -1,0 +1,1515 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="globosp.br" tvg-name=" Globo Nacional FHD (SP)" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais", Globo Nacional FHD (SP)
+http://7up2.com:80/live/Josilaine1/21976061603/123.m3u8
+#EXTINF:-1 tvg-id="globosp.br" tvg-name=" Globo Nacional HD (SP)" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais", Globo Nacional HD (SP)
+http://7up2.com:80/live/Josilaine1/21976061603/48774.m3u8
+#EXTINF:-1 tvg-id="AandE.br" tvg-name="A&E FHD" tvg-logo="http://7upsp8.com.br/tvlogos/aee.png" group-title="Canais | Filmes e Séries",A&E FHD
+http://7up2.com:80/live/Josilaine1/21976061603/426.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD" tvg-logo="http://7upsp8.com.br/tvlogos/aee.png" group-title="Canais | Filmes e Séries",A&E HD
+http://7up2.com:80/live/Josilaine1/21976061603/427.m3u8
+#EXTINF:-1 tvg-id="axn.br" tvg-name="Acelerados HD" tvg-logo="http://7upsp8.com.br/tvlogos/acelerados.png" group-title="Canais | Variedades",Acelerados HD
+http://7up2.com:80/live/Josilaine1/21976061603/435.m3u8
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="Adult Swim FHD" tvg-logo="http://7upsp8.com.br/tvlogos/adultswim.png" group-title="Canais | Variedades",Adult Swim FHD
+http://7up2.com:80/live/Josilaine1/21976061603/300.m3u8
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="Adult Swim HD" tvg-logo="http://7upsp8.com.br/tvlogos/adultswim.png" group-title="Canais | Variedades",Adult Swim HD
+http://7up2.com:80/live/Josilaine1/21976061603/301.m3u8
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="Agro+ FHD" tvg-logo="http://7upsp8.com.br/tvlogos/agromais.png" group-title="Canais | Abertos",Agro+ FHD
+http://7up2.com:80/live/Josilaine1/21976061603/3.m3u8
+#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC FHD" tvg-logo="http://7upsp8.com.br/tvlogos/amc.png" group-title="Canais | Filmes e Séries",AMC FHD
+http://7up2.com:80/live/Josilaine1/21976061603/429.m3u8
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/amc.png" group-title="Canais | Filmes e Séries",AMC FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/431.m3u8
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="http://7upsp8.com.br/tvlogos/amc.png" group-title="Canais | Filmes e Séries",AMC HD
+http://7up2.com:80/live/Josilaine1/21976061603/430.m3u8
+#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC Séries FHD" tvg-logo="http://7upsp8.com.br/tvlogos/amcseries1.png" group-title="Canais | Filmes e Séries",AMC Séries FHD
+http://7up2.com:80/live/Josilaine1/21976061603/79998.m3u8
+#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC Séries HD" tvg-logo="http://7upsp8.com.br/tvlogos/amcseries1.png" group-title="Canais | Filmes e Séries",AMC Séries HD
+http://7up2.com:80/live/Josilaine1/21976061603/444.m3u8
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet FHD" tvg-logo="http://7upsp8.com.br/tvlogos/animalplanet.png" group-title="Canais | Cultura e Documentário",Animal Planet FHD
+http://7up2.com:80/live/Josilaine1/21976061603/345.m3u8
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/animalplanet.png" group-title="Canais | Cultura e Documentário",Animal Planet FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/37188.m3u8
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="http://7upsp8.com.br/tvlogos/animalplanet.png" group-title="Canais | Cultura e Documentário",Animal Planet HD
+http://7up2.com:80/live/Josilaine1/21976061603/346.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet HD²" tvg-logo="http://7upsp8.com.br/tvlogos/animalplanet.png" group-title="Canais | Cultura e Documentário",Animal Planet HD²
+http://7up2.com:80/live/Josilaine1/21976061603/27.m3u8
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/arte1.png" group-title="Canais | Variedades",Arte 1 FHD
+http://7up2.com:80/live/Josilaine1/21976061603/226.m3u8
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="Arte 1 FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/arte1.png" group-title="Canais | Variedades",Arte 1 FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/228.m3u8
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="Arte 1 HD" tvg-logo="http://7upsp8.com.br/tvlogos/arte1.png" group-title="Canais | Variedades",Arte 1 HD
+http://7up2.com:80/live/Josilaine1/21976061603/227.m3u8
+#EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN FHD" tvg-logo="http://7upsp8.com.br/tvlogos/axn.png" group-title="Canais | Filmes e Séries",AXN FHD
+http://7up2.com:80/live/Josilaine1/21976061603/432.m3u8
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/axn.png" group-title="Canais | Filmes e Séries",AXN FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/82183.m3u8
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="http://7upsp8.com.br/tvlogos/axn.png" group-title="Canais | Filmes e Séries",AXN HD
+http://7up2.com:80/live/Josilaine1/21976061603/433.m3u8
+#EXTINF:-1 tvg-id="baby.br" tvg-name="Baby TV HD" tvg-logo="http://7upsp8.com.br/tvlogos/babytv.png" group-title="Canais | Infantis",Baby TV HD
+http://7up2.com:80/live/Josilaine1/21976061603/75992.m3u8
+#EXTINF:-1 tvg-id="bandbahia.br" tvg-name="Band Bahia FHD" tvg-logo="http://7upsp8.com.br/tvlogos/band.png" group-title="Canais | Band, SBT, Record",Band Bahia FHD
+http://7up2.com:80/live/Josilaine1/21976061603/4.m3u8
+#EXTINF:-1 tvg-id="bandbrasília.br" tvg-name="Band Brasília HD" tvg-logo="http://7upsp8.com.br/tvlogos/band.png" group-title="Canais | Band, SBT, Record",Band Brasília HD
+http://7up2.com:80/live/Josilaine1/21976061603/5.m3u8
+#EXTINF:-1 tvg-id="band.campinas.br" tvg-name="Band Campinas HD" tvg-logo="http://7upsp8.com.br/tvlogos/band.png" group-title="Canais | Band, SBT, Record",Band Campinas HD
+http://7up2.com:80/live/Josilaine1/21976061603/6.m3u8
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band CE HD" tvg-logo="http://7upsp8.com.br/tvlogos/band.png" group-title="Canais | Band, SBT, Record",Band CE HD
+http://7up2.com:80/live/Josilaine1/21976061603/7.m3u8
+#EXTINF:-1 tvg-id="band.minas.br" tvg-name="Band MG HD" tvg-logo="http://7upsp8.com.br/tvlogos/band.png" group-title="Canais | Band, SBT, Record",Band MG HD
+http://7up2.com:80/live/Josilaine1/21976061603/10.m3u8
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News FHD" tvg-logo="http://7upsp8.com.br/tvlogos/bandnews.png" group-title="Canais | Jornalismo",Band News FHD
+http://7up2.com:80/live/Josilaine1/21976061603/315.m3u8
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/bandnews.png" group-title="Canais | Jornalismo",Band News FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/318.m3u8
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News HD" tvg-logo="http://7upsp8.com.br/tvlogos/bandnews.png" group-title="Canais | Jornalismo",Band News HD
+http://7up2.com:80/live/Josilaine1/21976061603/317.m3u8
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band Pará" tvg-logo="http://7upsp8.com.br/tvlogos/band.png" group-title="Canais | Band, SBT, Record",Band Pará
+http://7up2.com:80/live/Josilaine1/21976061603/11.m3u8
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="Band RJ FHD" tvg-logo="http://7upsp8.com.br/tvlogos/band.png" group-title="Canais | Band, SBT, Record",Band RJ FHD
+http://7up2.com:80/live/Josilaine1/21976061603/9.m3u8
+#EXTINF:-1 tvg-id="band.rj.br" tvg-name="Band RJ HD" tvg-logo="http://7upsp8.com.br/tvlogos/band.png" group-title="Canais | Band, SBT, Record",Band RJ HD
+http://7up2.com:80/live/Josilaine1/21976061603/13.m3u8
+#EXTINF:-1 tvg-id="band.rio.grande.do.sul.br" tvg-name="Band RS HD" tvg-logo="http://7upsp8.com.br/tvlogos/band.png" group-title="Canais | Band, SBT, Record",Band RS HD
+http://7up2.com:80/live/Josilaine1/21976061603/14.m3u8
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band SP FHD" tvg-logo="http://7upsp8.com.br/tvlogos/band.png" group-title="Canais | Band, SBT, Record",Band SP FHD
+http://7up2.com:80/live/Josilaine1/21976061603/8.m3u8
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band SP FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/band.png" group-title="Canais | Band, SBT, Record",Band SP FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/17.m3u8
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band SP HD²" tvg-logo="http://7upsp8.com.br/tvlogos/band.png" group-title="Canais | Band, SBT, Record",Band SP HD²
+http://7up2.com:80/live/Josilaine1/21976061603/18.m3u8
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports FHD" tvg-logo="http://7upsp8.com.br/tvlogos/bandsports.png" group-title="Canais | Esportes",Band Sports FHD
+http://7up2.com:80/live/Josilaine1/21976061603/567.m3u8
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/bandsports.png" group-title="Canais | Esportes",Band Sports FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/80627.m3u8
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports HD" tvg-logo="http://7upsp8.com.br/tvlogos/bandsports.png" group-title="Canais | Esportes",Band Sports HD
+http://7up2.com:80/live/Josilaine1/21976061603/568.m3u8
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports HD²" tvg-logo="http://7upsp8.com.br/tvlogos/bandsports.png" group-title="Canais | Esportes",Band Sports HD²
+http://7up2.com:80/live/Josilaine1/21976061603/80628.m3u8
+#EXTINF:-1 tvg-id="BIS.br" tvg-name="BIS FHD" tvg-logo="http://7upsp8.com.br/tvlogos/bis.png" group-title="Canais | Variedades",BIS FHD
+http://7up2.com:80/live/Josilaine1/21976061603/230.m3u8
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/bis.png" group-title="Canais | Variedades",BIS FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/232.m3u8
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="http://7upsp8.com.br/tvlogos/bis.png" group-title="Canais | Variedades",BIS HD
+http://7up2.com:80/live/Josilaine1/21976061603/231.m3u8
+#EXTINF:-1 tvg-id="bloomberg.br" tvg-name="Bloomberg HD" tvg-logo="http://7upsp8.com.br/tvlogos/bloomberg.png" group-title="Canais | Jornalismo",Bloomberg HD
+http://7up2.com:80/live/Josilaine1/21976061603/329.m3u8
+#EXTINF:-1 tvg-id="dummy-196" tvg-name="Box Kids FHD" tvg-logo="http://7upsp8.com.br/tvlogos/boxkidstv.png" group-title="Canais | Infantis",Box Kids FHD
+http://7up2.com:80/live/Josilaine1/21976061603/383.m3u8
+#EXTINF:-1 tvg-id="dummy-196" tvg-name="Box Kids HD" tvg-logo="http://7upsp8.com.br/tvlogos/boxkidstv.png" group-title="Canais | Infantis",Box Kids HD
+http://7up2.com:80/live/Josilaine1/21976061603/387.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cabo Frio TV" tvg-logo="https://i.imgur.com/u0g3u10.png" group-title="Canais | Abertos",Cabo Frio TV
+http://7up2.com:80/live/Josilaine1/21976061603/655.m3u8
+#EXTINF:-1 tvg-id="CanalBrasil.br" tvg-name="Canal Brasil FHD" tvg-logo="http://7upsp8.com.br/tvlogos/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil FHD
+http://7up2.com:80/live/Josilaine1/21976061603/438.m3u8
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/436.m3u8
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil HD" tvg-logo="http://7upsp8.com.br/tvlogos/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil HD
+http://7up2.com:80/live/Josilaine1/21976061603/437.m3u8
+#EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="Canal do Boi HD" tvg-logo="http://7upsp8.com.br/tvlogos/canaldoboi.png" group-title="Canais | Abertos",Canal do Boi HD
+http://7up2.com:80/live/Josilaine1/21976061603/19.m3u8
+#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="Canal GOAT 01" tvg-logo="http://7upsp8.com.br/tvlogos/goat.png" group-title="Canais | Esportes PPV",Canal GOAT 01
+http://7up2.com:80/live/Josilaine1/21976061603/24033.m3u8
+#EXTINF:-1 tvg-id="cnn.en.espanol.br" tvg-name="Canal GOAT 02" tvg-logo="http://7upsp8.com.br/tvlogos/goat.png" group-title="Canais | Esportes PPV",Canal GOAT 02
+http://7up2.com:80/live/Josilaine1/21976061603/323.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal GOV" tvg-logo="https://i.imgur.com/ZSpOHuu.png" group-title="Canais | Abertos",Canal GOV
+http://7up2.com:80/live/Josilaine1/21976061603/468300.m3u8
+#EXTINF:-1 tvg-id="canalrural.br" tvg-name="Canal Rural" tvg-logo="http://7upsp8.com.br/tvlogos/canalrural.png" group-title="Canais | Abertos",Canal Rural
+http://7up2.com:80/live/Josilaine1/21976061603/20.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Canal Zapping 01" tvg-logo="https://telaviva.com.br/wp-content/uploads/2023/08/Zapping.png" group-title="Canais | Esportes PPV",Canal Zapping 01
+http://7up2.com:80/live/Josilaine1/21976061603/663.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Canal Zapping 02" tvg-logo="https://telaviva.com.br/wp-content/uploads/2023/08/Zapping.png" group-title="Canais | Esportes PPV",Canal Zapping 02
+http://7up2.com:80/live/Josilaine1/21976061603/666.m3u8
+#EXTINF:-1 tvg-id="cançãonova.br" tvg-name="Canção Nova FHD" tvg-logo="http://7upsp8.com.br/tvlogos/cancaonova.png" group-title="Canais | Religiosos",Canção Nova FHD
+http://7up2.com:80/live/Josilaine1/21976061603/685.m3u8
+#EXTINF:-1 tvg-id="cançãonova.br" tvg-name="Canção Nova HD" tvg-logo="http://7upsp8.com.br/tvlogos/cancaonova.png" group-title="Canais | Religiosos",Canção Nova HD
+http://7up2.com:80/live/Josilaine1/21976061603/74591.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network FHD" tvg-logo="http://7upsp8.com.br/tvlogos/cartoonnetwork.png" group-title="Canais | Infantis",Cartoon Network FHD
+http://7up2.com:80/live/Josilaine1/21976061603/381.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/cartoonnetwork.png" group-title="Canais | Infantis",Cartoon Network FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/406.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="http://7upsp8.com.br/tvlogos/cartoonnetwork.png" group-title="Canais | Infantis",Cartoon Network HD
+http://7up2.com:80/live/Josilaine1/21976061603/382.m3u8
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito FHD" tvg-logo="http://7upsp8.com.br/tvlogos/cartoonito.png" group-title="Canais | Infantis",Cartoonito FHD
+http://7up2.com:80/live/Josilaine1/21976061603/385.m3u8
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito HD" tvg-logo="http://7upsp8.com.br/tvlogos/cartoonito.png" group-title="Canais | Infantis",Cartoonito HD
+http://7up2.com:80/live/Josilaine1/21976061603/386.m3u8
+#EXTINF:-1 tvg-id="tve.br" tvg-name="CATVE" tvg-logo="http://7upsp8.com.br/tvlogos/Catve.png" group-title="Canais | Variedades",CATVE
+http://7up2.com:80/live/Josilaine1/21976061603/233.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine ToonGoggles (Infantil)" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Cine ToonGoggles (Infantil)
+http://7up2.com:80/live/Josilaine1/21976061603/234.m3u8
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax FHD" tvg-logo="http://7upsp8.com.br/tvlogos/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax FHD
+http://7up2.com:80/live/Josilaine1/21976061603/434.m3u8
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/442.m3u8
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD" tvg-logo="http://7upsp8.com.br/tvlogos/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax HD
+http://7up2.com:80/live/Josilaine1/21976061603/443.m3u8
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil FHD" tvg-logo="http://7upsp8.com.br/tvlogos/cnn.png" group-title="Canais | Jornalismo",CNN Brasil FHD
+http://7up2.com:80/live/Josilaine1/21976061603/320.m3u8
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/cnn.png" group-title="Canais | Jornalismo",CNN Brasil FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/332.m3u8
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil HD" tvg-logo="http://7upsp8.com.br/tvlogos/cnn.png" group-title="Canais | Jornalismo",CNN Brasil HD
+http://7up2.com:80/live/Josilaine1/21976061603/321.m3u8
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil HD²" tvg-logo="http://7upsp8.com.br/tvlogos/cnn.png" group-title="Canais | Jornalismo",CNN Brasil HD²
+http://7up2.com:80/live/Josilaine1/21976061603/322.m3u8
+#EXTINF:-1 tvg-id="cnnenespañol.br" tvg-name="CNN Espanhol HD" tvg-logo="http://7upsp8.com.br/tvlogos/cnn.png" group-title="Canais | Jornalismo",CNN Espanhol HD
+http://7up2.com:80/live/Josilaine1/21976061603/325.m3u8
+#EXTINF:-1 tvg-id="dummy-246" tvg-name="CNN Internacional FHD" tvg-logo="http://7upsp8.com.br/tvlogos/cnn.png" group-title="Canais | Jornalismo",CNN Internacional FHD
+http://7up2.com:80/live/Josilaine1/21976061603/326.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="CNN Internacional HD" tvg-logo="http://7upsp8.com.br/tvlogos/cnn.png" group-title="Canais | Jornalismo",CNN Internacional HD
+http://7up2.com:80/live/Josilaine1/21976061603/327.m3u8
+#EXTINF:-1 tvg-id="com.brasil.br" tvg-name="COM Brasil TV" tvg-logo="http://7upsp8.com.br/tvlogos/combrasil.png" group-title="Canais | Abertos",COM Brasil TV
+http://7up2.com:80/live/Josilaine1/21976061603/24.m3u8
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate FHD" tvg-logo="http://7upsp8.com.br/tvlogos/combate.png" group-title="Canais | Esportes",Combate FHD
+http://7up2.com:80/live/Josilaine1/21976061603/570.m3u8
+#EXTINF:-1 tvg-id="114" tvg-name="Combate FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/combate.png" group-title="Canais | Esportes",Combate FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/605.m3u8
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD" tvg-logo="http://7upsp8.com.br/tvlogos/combate.png" group-title="Canais | Esportes",Combate HD
+http://7up2.com:80/live/Josilaine1/21976061603/571.m3u8
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD²" tvg-logo="http://7upsp8.com.br/tvlogos/combate.png" group-title="Canais | Esportes",Combate HD²
+http://7up2.com:80/live/Josilaine1/21976061603/56995.m3u8
+#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/curta_.png" group-title="Canais | Variedades",Curta FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/240.m3u8
+#EXTINF:-1 tvg-id="curta!.br" tvg-name="Curta! FHD" tvg-logo="http://7upsp8.com.br/tvlogos/curta_.png" group-title="Canais | Variedades",Curta! FHD
+http://7up2.com:80/live/Josilaine1/21976061603/238.m3u8
+#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta! HD" tvg-logo="http://7upsp8.com.br/tvlogos/curta_.png" group-title="Canais | Variedades",Curta! HD
+http://7up2.com:80/live/Josilaine1/21976061603/239.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 01" tvg-logo="http://7upsp8.com.br/tvlogos/dazn.png" group-title="Canais | Esportes PPV",DAZN 01
+http://7up2.com:80/live/Josilaine1/21976061603/81657.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="DAZN 02" tvg-logo="http://7upsp8.com.br/tvlogos/dazn.png" group-title="Canais | Esportes PPV",DAZN 02
+http://7up2.com:80/live/Josilaine1/21976061603/139.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 03" tvg-logo="http://7upsp8.com.br/tvlogos/dazn.png" group-title="Canais | Esportes PPV",DAZN 03
+http://7up2.com:80/live/Josilaine1/21976061603/81658.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="DAZN 04" tvg-logo="http://7upsp8.com.br/tvlogos/dazn.png" group-title="Canais | Esportes PPV",DAZN 04
+http://7up2.com:80/live/Josilaine1/21976061603/600.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="DAZN 05" tvg-logo="http://7upsp8.com.br/tvlogos/dazn.png" group-title="Canais | Esportes PPV",DAZN 05
+http://7up2.com:80/live/Josilaine1/21976061603/147.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Flamengo TV" tvg-logo="https://pbs.twimg.com/media/CW7Yh9XWAAAOTV2.png" group-title="Canais | Esportes PPV",Flamengo TV
+http://7up2.com:80/live/Josilaine1/21976061603/81659.m3u8
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="Discovery Channel FHD" tvg-logo="http://7upsp8.com.br/tvlogos/discoverychannel.png" group-title="Canais | Cultura e Documentário",Discovery Channel FHD
+http://7up2.com:80/live/Josilaine1/21976061603/38620.m3u8
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="Discovery Channel FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/discoverychannel.png" group-title="Canais | Cultura e Documentário",Discovery Channel FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/348.m3u8
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="Discovery Channel HD" tvg-logo="http://7upsp8.com.br/tvlogos/discoverychannel.png" group-title="Canais | Cultura e Documentário",Discovery Channel HD
+http://7up2.com:80/live/Josilaine1/21976061603/349.m3u8
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="Discovery H&H FHD" tvg-logo="http://7upsp8.com.br/tvlogos/discoveryheh.png" group-title="Canais | Cultura e Documentário",Discovery H&H FHD
+http://7up2.com:80/live/Josilaine1/21976061603/351.m3u8
+#EXTINF:-1 tvg-id="discoveryhome&health.br" tvg-name="Discovery H&H FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/discoveryheh.png" group-title="Canais | Cultura e Documentário",Discovery H&H FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/37288.m3u8
+#EXTINF:-1 tvg-id="discoveryhome&health.br" tvg-name="Discovery H&H HD" tvg-logo="http://7upsp8.com.br/tvlogos/discoveryheh.png" group-title="Canais | Cultura e Documentário",Discovery H&H HD
+http://7up2.com:80/live/Josilaine1/21976061603/352.m3u8
+#EXTINF:-1 tvg-id="investigaçãodiscovery.br" tvg-name="Discovery ID FHD" tvg-logo="http://7upsp8.com.br/tvlogos/idinvestigationdiscovery.png" group-title="Canais | Cultura e Documentário",Discovery ID FHD
+http://7up2.com:80/live/Josilaine1/21976061603/357.m3u8
+#EXTINF:-1 tvg-id="investigaçãodiscovery.br" tvg-name="Discovery ID FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/idinvestigationdiscovery.png" group-title="Canais | Cultura e Documentário",Discovery ID FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/38621.m3u8
+#EXTINF:-1 tvg-id="investigaçãodiscovery.br" tvg-name="Discovery ID HD" tvg-logo="http://7upsp8.com.br/tvlogos/idinvestigationdiscovery.png" group-title="Canais | Cultura e Documentário",Discovery ID HD
+http://7up2.com:80/live/Josilaine1/21976061603/358.m3u8
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids FHD" tvg-logo="http://7upsp8.com.br/tvlogos/discoverykids.png" group-title="Canais | Infantis",Discovery Kids FHD
+http://7up2.com:80/live/Josilaine1/21976061603/388.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKids.br" tvg-name="Discovery Kids FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/discoverykids.png" group-title="Canais | Infantis",Discovery Kids FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/390.m3u8
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids HD" tvg-logo="http://7upsp8.com.br/tvlogos/discoverykids.png" group-title="Canais | Infantis",Discovery Kids HD
+http://7up2.com:80/live/Josilaine1/21976061603/389.m3u8
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science FHD" tvg-logo="http://7upsp8.com.br/tvlogos/discoverysciencesci.png" group-title="Canais | Cultura e Documentário",Discovery Science FHD
+http://7up2.com:80/live/Josilaine1/21976061603/360.m3u8
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/discoverysciencesci.png" group-title="Canais | Cultura e Documentário",Discovery Science FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/81632.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science HD" tvg-logo="http://7upsp8.com.br/tvlogos/discoverysciencesci.png" group-title="Canais | Cultura e Documentário",Discovery Science HD
+http://7up2.com:80/live/Josilaine1/21976061603/361.m3u8
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater FHD" tvg-logo="http://7upsp8.com.br/tvlogos/discoverytheater.png" group-title="Canais | Cultura e Documentário",Discovery Theater FHD
+http://7up2.com:80/live/Josilaine1/21976061603/363.m3u8
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/discoverytheater.png" group-title="Canais | Cultura e Documentário",Discovery Theater FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/81633.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTheater.br" tvg-name="Discovery Theater HD" tvg-logo="http://7upsp8.com.br/tvlogos/discoverytheater.png" group-title="Canais | Cultura e Documentário",Discovery Theater HD
+http://7up2.com:80/live/Josilaine1/21976061603/364.m3u8
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="Discovery TLC FHD" tvg-logo="http://7upsp8.com.br/tvlogos/tlc.png" group-title="Canais | Cultura e Documentário",Discovery TLC FHD
+http://7up2.com:80/live/Josilaine1/21976061603/81638.m3u8
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="Discovery TLC FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/tlc.png" group-title="Canais | Cultura e Documentário",Discovery TLC FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/481.m3u8
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="Discovery TLC HD" tvg-logo="http://7upsp8.com.br/tvlogos/tlc.png" group-title="Canais | Cultura e Documentário",Discovery TLC HD
+http://7up2.com:80/live/Josilaine1/21976061603/482.m3u8
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo FHD" tvg-logo="http://7upsp8.com.br/tvlogos/discoveryturbo.png" group-title="Canais | Cultura e Documentário",Discovery Turbo FHD
+http://7up2.com:80/live/Josilaine1/21976061603/354.m3u8
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/discoveryturbo.png" group-title="Canais | Cultura e Documentário",Discovery Turbo FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/81631.m3u8
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo HD" tvg-logo="http://7upsp8.com.br/tvlogos/discoveryturbo.png" group-title="Canais | Cultura e Documentário",Discovery Turbo HD
+http://7up2.com:80/live/Josilaine1/21976061603/1698662.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo.br" tvg-name="Discovery Turbo HD²" tvg-logo="http://7upsp8.com.br/tvlogos/discoveryturbo.png" group-title="Canais | Cultura e Documentário",Discovery Turbo HD²
+http://7up2.com:80/live/Josilaine1/21976061603/355.m3u8
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World FHD" tvg-logo="http://7upsp8.com.br/tvlogos/discoveryworld.png" group-title="Canais | Cultura e Documentário",Discovery World FHD
+http://7up2.com:80/live/Josilaine1/21976061603/366.m3u8
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/discoveryworld.png" group-title="Canais | Cultura e Documentário",Discovery World FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/81637.m3u8
+#EXTINF:-1 tvg-id="DiscoveryWorld.br" tvg-name="Discovery World HD" tvg-logo="http://7upsp8.com.br/tvlogos/discoveryworld.png" group-title="Canais | Cultura e Documentário",Discovery World HD
+http://7up2.com:80/live/Josilaine1/21976061603/367.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 01 " tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 01 
+http://7up2.com:80/live/Josilaine1/21976061603/637.m3u8
+#EXTINF:-1 tvg-id="5star.plus.1.gb" tvg-name="Disney+ 01 ²" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 01 ²
+http://7up2.com:80/live/Josilaine1/21976061603/668.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 02" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 02
+http://7up2.com:80/live/Josilaine1/21976061603/638.m3u8
+#EXTINF:-1 tvg-id="dummy-304" tvg-name="Disney+ 02 ²" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 02 ²
+http://7up2.com:80/live/Josilaine1/21976061603/669.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 03" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 03
+http://7up2.com:80/live/Josilaine1/21976061603/639.m3u8
+#EXTINF:-1 tvg-id="star.plus.gb" tvg-name="Disney+ 03 ²" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 03 ²
+http://7up2.com:80/live/Josilaine1/21976061603/670.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 04" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 04
+http://7up2.com:80/live/Josilaine1/21976061603/640.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 04 ²" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 04 ²
+http://7up2.com:80/live/Josilaine1/21976061603/671.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 05" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 05
+http://7up2.com:80/live/Josilaine1/21976061603/672.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 06" tvg-logo="http://7upsp8.com.br/tvlogos/disneyplus.png" group-title="Canais | Esportes PPV",Disney+ 06
+http://7up2.com:80/live/Josilaine1/21976061603/673.m3u8
+#EXTINF:-1 tvg-id="dogtv.br" tvg-name="Dog TV FHD" tvg-logo="http://7upsp8.com.br/tvlogos/dogtv.png" group-title="Canais | Variedades",Dog TV FHD
+http://7up2.com:80/live/Josilaine1/21976061603/242.m3u8
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD" tvg-logo="https://i.imgur.com/2O3afLq.png" group-title="Canais | Variedades",E! FHD
+http://7up2.com:80/live/Josilaine1/21976061603/243.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="E! FHD²" tvg-logo="https://i.imgur.com/2O3afLq.png" group-title="Canais | Variedades",E! FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/245.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="E! HD" tvg-logo="https://i.imgur.com/2O3afLq.png" group-title="Canais | Variedades",E! HD
+http://7up2.com:80/live/Josilaine1/21976061603/244.m3u8
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN 1 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/espn1.png" group-title="Canais | Esportes",ESPN 1 FHD
+http://7up2.com:80/live/Josilaine1/21976061603/585.m3u8
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN 1 FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/espn1.png" group-title="Canais | Esportes",ESPN 1 FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/32550.m3u8
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN 1 HD" tvg-logo="http://7upsp8.com.br/tvlogos/espn1.png" group-title="Canais | Esportes",ESPN 1 HD
+http://7up2.com:80/live/Josilaine1/21976061603/586.m3u8
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN 1 HD²" tvg-logo="http://7upsp8.com.br/tvlogos/espn1.png" group-title="Canais | Esportes",ESPN 1 HD²
+http://7up2.com:80/live/Josilaine1/21976061603/47496.m3u8
+#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="ESPN 2 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/espn2.png" group-title="Canais | Esportes",ESPN 2 FHD
+http://7up2.com:80/live/Josilaine1/21976061603/573.m3u8
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/espn2.png" group-title="Canais | Esportes",ESPN 2 FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/601194.m3u8
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 HD" tvg-logo="http://7upsp8.com.br/tvlogos/espn2.png" group-title="Canais | Esportes",ESPN 2 HD
+http://7up2.com:80/live/Josilaine1/21976061603/574.m3u8
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 HD²" tvg-logo="http://7upsp8.com.br/tvlogos/espn2.png" group-title="Canais | Esportes",ESPN 2 HD²
+http://7up2.com:80/live/Josilaine1/21976061603/575.m3u8
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/espn3.png" group-title="Canais | Esportes",ESPN 3 FHD
+http://7up2.com:80/live/Josilaine1/21976061603/576.m3u8
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/espn3.png" group-title="Canais | Esportes",ESPN 3 FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/578.m3u8
+#EXTINF:-1 tvg-id="ESPN3.br" tvg-name="ESPN 3 HD" tvg-logo="http://7upsp8.com.br/tvlogos/espn3.png" group-title="Canais | Esportes",ESPN 3 HD
+http://7up2.com:80/live/Josilaine1/21976061603/577.m3u8
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 HD" tvg-logo="http://7upsp8.com.br/tvlogos/espn4.png" group-title="Canais | Esportes",ESPN 4 HD
+http://7up2.com:80/live/Josilaine1/21976061603/580.m3u8
+#EXTINF:-1 tvg-id="ESPN5.br" tvg-name="ESPN 5 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/espn5.png" group-title="Canais | Esportes",ESPN 5 FHD
+http://7up2.com:80/live/Josilaine1/21976061603/592.m3u8
+#EXTINF:-1 tvg-id="ESPN5.br" tvg-name="ESPN 5 FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/espn5.png" group-title="Canais | Esportes",ESPN 5 FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/594.m3u8
+#EXTINF:-1 tvg-id="ESPN5.br" tvg-name="ESPN 5 HD" tvg-logo="http://7upsp8.com.br/tvlogos/espn5.png" group-title="Canais | Esportes",ESPN 5 HD
+http://7up2.com:80/live/Josilaine1/21976061603/593.m3u8
+#EXTINF:-1 tvg-id="ESPN6.br" tvg-name="ESPN 6 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/espn6.png" group-title="Canais | Esportes",ESPN 6 FHD
+http://7up2.com:80/live/Josilaine1/21976061603/582.m3u8
+#EXTINF:-1 tvg-id="ESPN6.br" tvg-name="ESPN 6 FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/espn6.png" group-title="Canais | Esportes",ESPN 6 FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/584.m3u8
+#EXTINF:-1 tvg-id="ESPN6.br" tvg-name="ESPN 6 HD" tvg-logo="http://7upsp8.com.br/tvlogos/espn6.png" group-title="Canais | Esportes",ESPN 6 HD
+http://7up2.com:80/live/Josilaine1/21976061603/583.m3u8
+#EXTINF:-1 tvg-id="fashiontv.br" tvg-name="Fashion TV FHD" tvg-logo="http://7upsp8.com.br/tvlogos/fashiontv.png" group-title="Canais | Variedades",Fashion TV FHD
+http://7up2.com:80/live/Josilaine1/21976061603/246.m3u8
+#EXTINF:-1 tvg-id="filmandarts.br" tvg-name="Film & Arts FHD" tvg-logo="http://7upsp8.com.br/tvlogos/filmarts.png" group-title="Canais | Filmes e Séries",Film & Arts FHD
+http://7up2.com:80/live/Josilaine1/21976061603/446.m3u8
+#EXTINF:-1 tvg-id="film.arts.br" tvg-name="Film & Arts HD" tvg-logo="http://7upsp8.com.br/tvlogos/filmarts.png" group-title="Canais | Filmes e Séries",Film & Arts HD
+http://7up2.com:80/live/Josilaine1/21976061603/447.m3u8
+#EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish TV FHD" tvg-logo="http://7upsp8.com.br/tvlogos/fishtv.png" group-title="Canais | Esportes",Fish TV FHD
+http://7up2.com:80/live/Josilaine1/21976061603/588.m3u8
+#EXTINF:-1 tvg-id="fish.br" tvg-name="Fish TV HD" tvg-logo="http://7upsp8.com.br/tvlogos/fishtv.png" group-title="Canais | Esportes",Fish TV HD
+http://7up2.com:80/live/Josilaine1/21976061603/589.m3u8
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV HD²" tvg-logo="http://7upsp8.com.br/tvlogos/fishtv.png" group-title="Canais | Esportes",Fish TV HD²
+http://7up2.com:80/live/Josilaine1/21976061603/590.m3u8
+#EXTINF:-1 tvg-id="chef.br" tvg-name="Flograppling Eventos 01" tvg-logo="http://7upsp8.com.br/tvlogos/Flograppling.png" group-title="Canais | Esportes PPV",Flograppling Eventos 01
+http://7up2.com:80/live/Josilaine1/21976061603/288.m3u8
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Flograppling Eventos 02" tvg-logo="http://7upsp8.com.br/tvlogos/Flograppling.png" group-title="Canais | Esportes PPV",Flograppling Eventos 02
+http://7up2.com:80/live/Josilaine1/21976061603/391.m3u8
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network FHD" tvg-logo="http://7upsp8.com.br/tvlogos/foodnetwork.png" group-title="Canais | Variedades",Food Network FHD
+http://7up2.com:80/live/Josilaine1/21976061603/247.m3u8
+#EXTINF:-1 tvg-id="food.network.br" tvg-name="Food Network FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/foodnetwork.png" group-title="Canais | Variedades",Food Network FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/249.m3u8
+#EXTINF:-1 tvg-id="food.network.br" tvg-name="Food Network HD" tvg-logo="http://7upsp8.com.br/tvlogos/foodnetwork.png" group-title="Canais | Variedades",Food Network HD
+http://7up2.com:80/live/Josilaine1/21976061603/248.m3u8
+#EXTINF:-1 tvg-id="foxnewschannel.br" tvg-name="Fox News FHD" tvg-logo="http://7upsp8.com.br/tvlogos/foxnews.png" group-title="Canais | Jornalismo",Fox News FHD
+http://7up2.com:80/live/Josilaine1/21976061603/334.m3u8
+#EXTINF:-1 tvg-id="foxnewschannel.br" tvg-name="Fox News HD" tvg-logo="http://7upsp8.com.br/tvlogos/foxnews.png" group-title="Canais | Jornalismo",Fox News HD
+http://7up2.com:80/live/Josilaine1/21976061603/336.m3u8
+#EXTINF:-1 tvg-id="futura.br" tvg-name="Futura FHD" tvg-logo="http://7upsp8.com.br/tvlogos/futura.png" group-title="Canais | Abertos",Futura FHD
+http://7up2.com:80/live/Josilaine1/21976061603/25.m3u8
+#EXTINF:-1 tvg-id="futura.br" tvg-name="Futura HD" tvg-logo="http://7upsp8.com.br/tvlogos/futura.png" group-title="Canais | Abertos",Futura HD
+http://7up2.com:80/live/Josilaine1/21976061603/26.m3u8
+#EXTINF:-1 tvg-id="globoamazonas.br" tvg-name="Globo Boa Vista Roraima HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo Boa Vista Roraima HD
+http://7up2.com:80/live/Josilaine1/21976061603/100.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo Centro América FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo Centro América FHD
+http://7up2.com:80/live/Josilaine1/21976061603/101.m3u8
+#EXTINF:-1 tvg-id="tv.centro.america.cuiaba.br" tvg-name="Globo Centro América FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo Centro América FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/103.m3u8
+#EXTINF:-1 tvg-id="tv.centro.america.br" tvg-name="Globo Centro América HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo Centro América HD
+http://7up2.com:80/live/Josilaine1/21976061603/102.m3u8
+#EXTINF:-1 tvg-id="EPTVCampinas.br" tvg-name="Globo EPTV Campinas FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo EPTV Campinas FHD
+http://7up2.com:80/live/Josilaine1/21976061603/104.m3u8
+#EXTINF:-1 tvg-id="eptv.campinas.br" tvg-name="Globo EPTV Campinas FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo EPTV Campinas FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/106.m3u8
+#EXTINF:-1 tvg-id="eptv.campinas.br" tvg-name="Globo EPTV Campinas HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo EPTV Campinas HD
+http://7up2.com:80/live/Josilaine1/21976061603/105.m3u8
+#EXTINF:-1 tvg-id="eptv.ribeirao.preto.br" tvg-name="Globo EPTV Ribeirão Preto HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo EPTV Ribeirão Preto HD
+http://7up2.com:80/live/Josilaine1/21976061603/107.m3u8
+#EXTINF:-1 tvg-id="eptv.sul.de.minas.br" tvg-name="Globo EPTV Sul de Minas FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo EPTV Sul de Minas FHD
+http://7up2.com:80/live/Josilaine1/21976061603/108.m3u8
+#EXTINF:-1 tvg-id="eptv.sul.de.minas.br" tvg-name="Globo EPTV Sul de Minas FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo EPTV Sul de Minas FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/76114.m3u8
+#EXTINF:-1 tvg-id="eptv.sul.de.minas.br" tvg-name="Globo EPTV Sul de Minas HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo EPTV Sul de Minas HD
+http://7up2.com:80/live/Josilaine1/21976061603/109.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo Globo TV Diário Mogi das Cruzes HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo Globo TV Diário Mogi das Cruzes HD
+http://7up2.com:80/live/Josilaine1/21976061603/47494.m3u8
+#EXTINF:-1 tvg-id="globobelohorizonte.br" tvg-name="Globo Integração Juiz de Fora FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo Integração Juiz de Fora FHD
+http://7up2.com:80/live/Josilaine1/21976061603/111.m3u8
+#EXTINF:-1 tvg-id="tv.integracao.juiz.de.fora.br" tvg-name="Globo Integração Juiz de Fora FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo Integração Juiz de Fora FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/38623.m3u8
+#EXTINF:-1 tvg-id="tv.integracao.juiz.de.fora.br" tvg-name="Globo Integração Juiz de Fora HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo Integração Juiz de Fora HD
+http://7up2.com:80/live/Josilaine1/21976061603/72721.m3u8
+#EXTINF:-1 tvg-id="InterTVGrandeMinas.br" tvg-name="Globo Integração Uberaba HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo Integração Uberaba HD
+http://7up2.com:80/live/Josilaine1/21976061603/215.m3u8
+#EXTINF:-1 tvg-id="inter.tv.alto.litoral.globo.br" tvg-name="Globo Inter TV Alto Litoral FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo Inter TV Alto Litoral FHD
+http://7up2.com:80/live/Josilaine1/21976061603/85955.m3u8
+#EXTINF:-1 tvg-id="inter.tv.alto.litoral.globo.br" tvg-name="Globo Inter TV Alto Litoral FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo Inter TV Alto Litoral FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/85956.m3u8
+#EXTINF:-1 tvg-id="inter.tv.alto.litoral.br" tvg-name="Globo Inter TV Alto Litoral HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo Inter TV Alto Litoral HD
+http://7up2.com:80/live/Josilaine1/21976061603/116.m3u8
+#EXTINF:-1 tvg-id="intertvcabugi.br" tvg-name="Globo Inter TV Cabugi FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo Inter TV Cabugi FHD
+http://7up2.com:80/live/Josilaine1/21976061603/113.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo Inter TV dos Vales FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo Inter TV dos Vales FHD
+http://7up2.com:80/live/Josilaine1/21976061603/117.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo Inter TV dos Vales HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo Inter TV dos Vales HD
+http://7up2.com:80/live/Josilaine1/21976061603/114.m3u8
+#EXTINF:-1 tvg-id="intertv.grande.minas.br" tvg-name="Globo Inter TV Grande Minas FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo Inter TV Grande Minas FHD
+http://7up2.com:80/live/Josilaine1/21976061603/118.m3u8
+#EXTINF:-1 tvg-id="InterTVGrandeMinas.br" tvg-name="Globo Inter TV Grande Minas HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo Inter TV Grande Minas HD
+http://7up2.com:80/live/Josilaine1/21976061603/119.m3u8
+#EXTINF:-1 tvg-id="intertv.grande.minas.br" tvg-name="Globo Inter TV Grande Minas HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo Inter TV Grande Minas HD²
+http://7up2.com:80/live/Josilaine1/21976061603/115.m3u8
+#EXTINF:-1 tvg-id="globobelohorizonte.br" tvg-name="Globo Minas FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo Minas FHD
+http://7up2.com:80/live/Josilaine1/21976061603/120.m3u8
+#EXTINF:-1 tvg-id="globobelohorizonte.br" tvg-name="Globo Minas FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo Minas FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/87358.m3u8
+#EXTINF:-1 tvg-id="globobelohorizonte.br" tvg-name="Globo Minas HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo Minas HD
+http://7up2.com:80/live/Josilaine1/21976061603/121.m3u8
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globonews.png" group-title="Canais | Jornalismo",Globo News FHD
+http://7up2.com:80/live/Josilaine1/21976061603/337.m3u8
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globonews.png" group-title="Canais | Jornalismo",Globo News FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/38617.m3u8
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News HD" tvg-logo="http://7upsp8.com.br/tvlogos/globonews.png" group-title="Canais | Jornalismo",Globo News HD
+http://7up2.com:80/live/Josilaine1/21976061603/339.m3u8
+#EXTINF:-1 tvg-id="globonordeste.br" tvg-name="Globo Nordeste FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo Nordeste FHD
+http://7up2.com:80/live/Josilaine1/21976061603/124.m3u8
+#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="Globo Nordeste FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo Nordeste FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/517.m3u8
+#EXTINF:-1 tvg-id="globonordeste.br" tvg-name="Globo Nordeste HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo Nordeste HD
+http://7up2.com:80/live/Josilaine1/21976061603/125.m3u8
+#EXTINF:-1 tvg-id="nsctvflorianópolis.br" tvg-name="Globo NSC Florianopolis FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo NSC Florianopolis FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/131.m3u8
+#EXTINF:-1 tvg-id="nsctvflorianópolis.br" tvg-name="Globo NSC Florianópolis FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo NSC Florianópolis FHD
+http://7up2.com:80/live/Josilaine1/21976061603/129.m3u8
+#EXTINF:-1 tvg-id="nsctvflorianópolis.br" tvg-name="Globo NSC Florianópolis HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo NSC Florianópolis HD
+http://7up2.com:80/live/Josilaine1/21976061603/130.m3u8
+#EXTINF:-1 tvg-id="nsctvjoinville.br" tvg-name="Globo NSC Joinville FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo NSC Joinville FHD
+http://7up2.com:80/live/Josilaine1/21976061603/128.m3u8
+#EXTINF:-1 tvg-id="nsctvflorianópolis.br" tvg-name="Globo NSC TV Blumenau FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo NSC TV Blumenau FHD
+http://7up2.com:80/live/Josilaine1/21976061603/132.m3u8
+#EXTINF:-1 tvg-id="nsctvflorianópolis.br" tvg-name="Globo NSC TV Blumenau HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo NSC TV Blumenau HD
+http://7up2.com:80/live/Josilaine1/21976061603/133.m3u8
+#EXTINF:-1 tvg-id="nsctvchapecó.br" tvg-name="Globo NSC TV Chapeco FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo NSC TV Chapeco FHD
+http://7up2.com:80/live/Josilaine1/21976061603/134.m3u8
+#EXTINF:-1 tvg-id="nsctvcriciúma.br" tvg-name="Globo NSC TV Criciúma HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo NSC TV Criciúma HD
+http://7up2.com:80/live/Josilaine1/21976061603/135.m3u8
+#EXTINF:-1 tvg-id="viva.br" tvg-name="Globo Play Novelas FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globoplaynovelas.png" group-title="Canais | Variedades",Globo Play Novelas FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/312.m3u8
+#EXTINF:-1 tvg-id="viva.br" tvg-name="Globo Play Novelas HD" tvg-logo="http://7upsp8.com.br/tvlogos/globoplaynovelas.png" group-title="Canais | Variedades",Globo Play Novelas HD
+http://7up2.com:80/live/Josilaine1/21976061603/311.m3u8
+#EXTINF:-1 tvg-id="rbs.br" tvg-name="Globo RBS Passo Fundo HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo RBS Passo Fundo HD
+http://7up2.com:80/live/Josilaine1/21976061603/137.m3u8
+#EXTINF:-1 tvg-id="rbstvportoalegre.br" tvg-name="Globo RBS TV Caxias do Sul HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo RBS TV Caxias do Sul HD
+http://7up2.com:80/live/Josilaine1/21976061603/138.m3u8
+#EXTINF:-1 tvg-id="rbstvportoalegre.br" tvg-name="Globo RBS TV Pelotas FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo RBS TV Pelotas FHD
+http://7up2.com:80/live/Josilaine1/21976061603/140.m3u8
+#EXTINF:-1 tvg-id="globorbstvpoa.br" tvg-name="Globo RBS TV POA FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo RBS TV POA FHD
+http://7up2.com:80/live/Josilaine1/21976061603/141.m3u8
+#EXTINF:-1 tvg-id="globorbstvpoa.br" tvg-name="Globo RBS TV POA FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo RBS TV POA FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/143.m3u8
+#EXTINF:-1 tvg-id="globorbstvpoa.br" tvg-name="Globo RBS TV POA HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo RBS TV POA HD
+http://7up2.com:80/live/Josilaine1/21976061603/142.m3u8
+#EXTINF:-1 tvg-id="rbstvportoalegre.br" tvg-name="Globo RBS TV Santa Maria FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo RBS TV Santa Maria FHD
+http://7up2.com:80/live/Josilaine1/21976061603/145.m3u8
+#EXTINF:-1 tvg-id="rbstvportoalegre.br" tvg-name="Globo RBS TV Santa Maria HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo RBS TV Santa Maria HD
+http://7up2.com:80/live/Josilaine1/21976061603/144.m3u8
+#EXTINF:-1 tvg-id="globoamazonas.br" tvg-name="Globo Rede Amazônica Manaus FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo Rede Amazônica Manaus FHD
+http://7up2.com:80/live/Josilaine1/21976061603/97.m3u8
+#EXTINF:-1 tvg-id="globoamazonas.br" tvg-name="Globo Rede Amazônica Manaus HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo Rede Amazônica Manaus HD
+http://7up2.com:80/live/Josilaine1/21976061603/98.m3u8
+#EXTINF:-1 tvg-id="tv.macapa.br" tvg-name="Globo Rede Amazônica Rio Branco FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo Rede Amazônica Rio Branco FHD
+http://7up2.com:80/live/Josilaine1/21976061603/87357.m3u8
+#EXTINF:-1 tvg-id="rede.amazonica.rio.branco.br" tvg-name="Globo Rede Amazônica Rio Branco HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo Rede Amazônica Rio Branco HD
+http://7up2.com:80/live/Josilaine1/21976061603/99.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RJ FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo RJ FHD
+http://7up2.com:80/live/Josilaine1/21976061603/35894.m3u8
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="Globo RJ FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo RJ FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/146.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RJ HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo RJ HD
+http://7up2.com:80/live/Josilaine1/21976061603/148.m3u8
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="Globo RJ HD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo RJ HD²
+http://7up2.com:80/live/Josilaine1/21976061603/149.m3u8
+#EXTINF:-1 tvg-id="inter.tv.planicie.tv.globo.br" tvg-name="Globo RJ Inter TV Planície HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo RJ Inter TV Planície HD
+http://7up2.com:80/live/Josilaine1/21976061603/47480.m3u8
+#EXTINF:-1 tvg-id="globorio.br" tvg-name="Globo RJ Interior FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo RJ Interior FHD
+http://7up2.com:80/live/Josilaine1/21976061603/151.m3u8
+#EXTINF:-1 tvg-id="rpccuritiba.br" tvg-name="Globo RPC Curitiba FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo RPC Curitiba FHD
+http://7up2.com:80/live/Josilaine1/21976061603/154.m3u8
+#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="Globo RPC Curitiba FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo RPC Curitiba FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/156.m3u8
+#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="Globo RPC Curitiba HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo RPC Curitiba HD
+http://7up2.com:80/live/Josilaine1/21976061603/155.m3u8
+#EXTINF:-1 tvg-id="rpcfozdoiguaçu.br" tvg-name="Globo RPC Foz do Iguaçu FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo RPC Foz do Iguaçu FHD
+http://7up2.com:80/live/Josilaine1/21976061603/157.m3u8
+#EXTINF:-1 tvg-id="rpc.maringa.br" tvg-name="Globo RPC Maringá FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo RPC Maringá FHD
+http://7up2.com:80/live/Josilaine1/21976061603/158.m3u8
+#EXTINF:-1 tvg-id="rpc.maringa.br" tvg-name="Globo RPC Maringá HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo RPC Maringá HD
+http://7up2.com:80/live/Josilaine1/21976061603/159.m3u8
+#EXTINF:-1 tvg-id="rpcpontagrossa.br" tvg-name="Globo RPC Ponta Grossa HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo RPC Ponta Grossa HD
+http://7up2.com:80/live/Josilaine1/21976061603/160.m3u8
+#EXTINF:-1 tvg-id="tv.tem.sao.jose.do.rio.preto.br" tvg-name="Globo SJ do Rio Preto FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo SJ do Rio Preto FHD
+http://7up2.com:80/live/Josilaine1/21976061603/163.m3u8
+#EXTINF:-1 tvg-id="EPTVRibeiraoPreto.br" tvg-name="Globo SJ do Rio Preto HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo SJ do Rio Preto HD
+http://7up2.com:80/live/Josilaine1/21976061603/162.m3u8
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo SP FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo SP FHD
+http://7up2.com:80/live/Josilaine1/21976061603/164.m3u8
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo SP FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo SP FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/35893.m3u8
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo SP HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo SP HD
+http://7up2.com:80/live/Josilaine1/21976061603/166.m3u8
+#EXTINF:-1 tvg-id="globoanhanguera.br" tvg-name="Globo TV Anhanguera FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Anhanguera FHD
+http://7up2.com:80/live/Josilaine1/21976061603/172.m3u8
+#EXTINF:-1 tvg-id="globo.anhanguera.br" tvg-name="Globo TV Anhanguera FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Anhanguera FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/171.m3u8
+#EXTINF:-1 tvg-id="globo.anhanguera.br" tvg-name="Globo TV Anhanguera Goiania HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Anhanguera Goiania HD
+http://7up2.com:80/live/Josilaine1/21976061603/173.m3u8
+#EXTINF:-1 tvg-id="globonordeste.br" tvg-name="Globo TV Asa Branca FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV Asa Branca FHD
+http://7up2.com:80/live/Josilaine1/21976061603/174.m3u8
+#EXTINF:-1 tvg-id="globotvbahia.br" tvg-name="Globo TV Bahia FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Bahia FHD
+http://7up2.com:80/live/Josilaine1/21976061603/175.m3u8
+#EXTINF:-1 tvg-id="globo.tv.bahia.br" tvg-name="Globo TV Bahia FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Bahia FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/177.m3u8
+#EXTINF:-1 tvg-id="globo.tv.bahia.br" tvg-name="Globo TV Bahia HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Bahia HD
+http://7up2.com:80/live/Josilaine1/21976061603/176.m3u8
+#EXTINF:-1 tvg-id="tvliberal.br" tvg-name="Globo TV Belém FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Belém FHD
+http://7up2.com:80/live/Josilaine1/21976061603/178.m3u8
+#EXTINF:-1 tvg-id="globo.belem.liberal.br" tvg-name="Globo TV Belém FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Belém FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/170.m3u8
+#EXTINF:-1 tvg-id="globo.belem.liberal.br" tvg-name="Globo TV Belém HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Belém HD
+http://7up2.com:80/live/Josilaine1/21976061603/179.m3u8
+#EXTINF:-1 tvg-id="globobrasília.br" tvg-name="Globo TV Brasília FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Brasília FHD
+http://7up2.com:80/live/Josilaine1/21976061603/38624.m3u8
+#EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="Globo TV Brasília FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Brasília FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/180.m3u8
+#EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="Globo TV Brasília HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Brasília HD
+http://7up2.com:80/live/Josilaine1/21976061603/181.m3u8
+#EXTINF:-1 tvg-id="tvcabobranco.br" tvg-name="Globo TV Cabo Branco FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Cabo Branco FHD
+http://7up2.com:80/live/Josilaine1/21976061603/183.m3u8
+#EXTINF:-1 tvg-id="tv.clube.br" tvg-name="Globo TV Clube Piauí FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Clube Piauí FHD
+http://7up2.com:80/live/Josilaine1/21976061603/185.m3u8
+#EXTINF:-1 tvg-id="tv.clube.br" tvg-name="Globo TV Clube Piauí HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Clube Piauí HD
+http://7up2.com:80/live/Josilaine1/21976061603/415.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Fronteira Paulista HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV Fronteira Paulista HD
+http://7up2.com:80/live/Josilaine1/21976061603/187.m3u8
+#EXTINF:-1 tvg-id="tv.gazeta.al.br" tvg-name="Globo TV Gazeta Alagoas FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Gazeta Alagoas FHD
+http://7up2.com:80/live/Josilaine1/21976061603/188.m3u8
+#EXTINF:-1 tvg-id="TVGazetaAlagoas.br" tvg-name="Globo TV Gazeta Alagoas HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Gazeta Alagoas HD
+http://7up2.com:80/live/Josilaine1/21976061603/189.m3u8
+#EXTINF:-1 tvg-id="tvgazetasul.br" tvg-name="Globo TV Gazeta Sul ES HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV Gazeta Sul ES HD
+http://7up2.com:80/live/Josilaine1/21976061603/216.m3u8
+#EXTINF:-1 tvg-id="tvgazetasul.br" tvg-name="Globo TV Gazeta Vitória ES FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Gazeta Vitória ES FHD
+http://7up2.com:80/live/Josilaine1/21976061603/209.m3u8
+#EXTINF:-1 tvg-id="tv.gazeta.es.br" tvg-name="Globo TV Gazeta Vitória ES FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Gazeta Vitória ES FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/217.m3u8
+#EXTINF:-1 tvg-id="tv.gazeta.es.br" tvg-name="Globo TV Gazeta Vitória ES HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Gazeta Vitória ES HD
+http://7up2.com:80/live/Josilaine1/21976061603/218.m3u8
+#EXTINF:-1 tvg-id="tv.mirante.sao.luis.br" tvg-name="Globo TV Mirante São Luís FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Mirante São Luís FHD
+http://7up2.com:80/live/Josilaine1/21976061603/192.m3u8
+#EXTINF:-1 tvg-id="tv.mirante.sao.luis.br" tvg-name="Globo TV Mirante São Luís FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Mirante São Luís FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/193.m3u8
+#EXTINF:-1 tvg-id="tv.mirante.sao.luis.br" tvg-name="Globo TV Mirante São Luís HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Mirante São Luís HD
+http://7up2.com:80/live/Josilaine1/21976061603/194.m3u8
+#EXTINF:-1 tvg-id="tvmorena.br" tvg-name="Globo TV Morena FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Morena FHD
+http://7up2.com:80/live/Josilaine1/21976061603/195.m3u8
+#EXTINF:-1 tvg-id="tv.morena.br" tvg-name="Globo TV Morena FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Morena FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/197.m3u8
+#EXTINF:-1 tvg-id="tv.morena.br" tvg-name="Globo TV Morena HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Morena HD
+http://7up2.com:80/live/Josilaine1/21976061603/196.m3u8
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Porto Velho FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Porto Velho FHD
+http://7up2.com:80/live/Josilaine1/21976061603/198.m3u8
+#EXTINF:-1 tvg-id="globorecife.br" tvg-name="Globo TV Recife FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Recife FHD
+http://7up2.com:80/live/Josilaine1/21976061603/199.m3u8
+#EXTINF:-1 tvg-id="tv.rio.sul.br" tvg-name="Globo TV Rio Sul FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV Rio Sul FHD
+http://7up2.com:80/live/Josilaine1/21976061603/200.m3u8
+#EXTINF:-1 tvg-id="tv.rio.sul.br" tvg-name="Globo TV Rio Sul HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV Rio Sul HD
+http://7up2.com:80/live/Josilaine1/21976061603/201.m3u8
+#EXTINF:-1 tvg-id="rbstvportoalegre.br" tvg-name="Globo TV Santa Cruz FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV Santa Cruz FHD
+http://7up2.com:80/live/Josilaine1/21976061603/202.m3u8
+#EXTINF:-1 tvg-id="rbstvportoalegre.br" tvg-name="Globo TV Santa Cruz HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV Santa Cruz HD
+http://7up2.com:80/live/Josilaine1/21976061603/203.m3u8
+#EXTINF:-1 tvg-id="tvsergipe.br" tvg-name="Globo TV Sergipe FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Sergipe FHD
+http://7up2.com:80/live/Josilaine1/21976061603/220.m3u8
+#EXTINF:-1 tvg-id="tvsergipe.br" tvg-name="Globo TV Sergipe HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Sergipe HD
+http://7up2.com:80/live/Josilaine1/21976061603/221.m3u8
+#EXTINF:-1 tvg-id="intertv.serra.mar.br" tvg-name="Globo TV Serra Mar FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV Serra Mar FHD
+http://7up2.com:80/live/Josilaine1/21976061603/204.m3u8
+#EXTINF:-1 tvg-id="tv.subae.br" tvg-name="Globo TV Subaé FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV Subaé FHD
+http://7up2.com:80/live/Josilaine1/21976061603/47488.m3u8
+#EXTINF:-1 tvg-id="tv.subae.br" tvg-name="Globo TV Subaé HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV Subaé HD
+http://7up2.com:80/live/Josilaine1/21976061603/47486.m3u8
+#EXTINF:-1 tvg-id="TVTEMSorocaba.br" tvg-name="Globo TV TEM Bauru FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV TEM Bauru FHD
+http://7up2.com:80/live/Josilaine1/21976061603/222.m3u8
+#EXTINF:-1 tvg-id="globo.tv.tem.bauru.br" tvg-name="Globo TV TEM Bauru FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV TEM Bauru FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/224.m3u8
+#EXTINF:-1 tvg-id="globo.tv.tem.bauru.br" tvg-name="Globo TV TEM Bauru HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV TEM Bauru HD
+http://7up2.com:80/live/Josilaine1/21976061603/223.m3u8
+#EXTINF:-1 tvg-id="GloboSP.br" tvg-name="Globo TV TEM Itapetininga HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV TEM Itapetininga HD
+http://7up2.com:80/live/Josilaine1/21976061603/205.m3u8
+#EXTINF:-1 tvg-id="tv.tem.sorocaba.br" tvg-name="Globo TV TEM Sorocaba FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV TEM Sorocaba FHD
+http://7up2.com:80/live/Josilaine1/21976061603/206.m3u8
+#EXTINF:-1 tvg-id="tv.tem.sorocaba.br" tvg-name="Globo TV TEM Sorocaba HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV TEM Sorocaba HD
+http://7up2.com:80/live/Josilaine1/21976061603/207.m3u8
+#EXTINF:-1 tvg-id="tv.vanguarda.taubate.br" tvg-name="Globo TV TEM Taubaté FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV TEM Taubaté FHD
+http://7up2.com:80/live/Josilaine1/21976061603/76115.m3u8
+#EXTINF:-1 tvg-id="tv.vanguarda.taubate.br" tvg-name="Globo TV TEM Taubaté HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV TEM Taubaté HD
+http://7up2.com:80/live/Josilaine1/21976061603/208.m3u8
+#EXTINF:-1 tvg-id="globotvtribuna.br" tvg-name="Globo TV Tribuna Santos HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV Tribuna Santos HD
+http://7up2.com:80/live/Josilaine1/21976061603/210.m3u8
+#EXTINF:-1 tvg-id="globo.tv.vanguarda.br" tvg-name="Globo TV Vanguarda SJ Campos FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV Vanguarda SJ Campos FHD
+http://7up2.com:80/live/Josilaine1/21976061603/39816.m3u8
+#EXTINF:-1 tvg-id="tv.vanguarda.br" tvg-name="Globo TV Vanguarda SJ Campos HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Regionais",Globo TV Vanguarda SJ Campos HD
+http://7up2.com:80/live/Josilaine1/21976061603/211.m3u8
+#EXTINF:-1 tvg-id="tvverdesmares.br" tvg-name="Globo TV Verdes Mares CE FHD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Verdes Mares CE FHD
+http://7up2.com:80/live/Josilaine1/21976061603/212.m3u8
+#EXTINF:-1 tvg-id="tv.verdes.mares.br" tvg-name="Globo TV Verdes Mares CE FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Verdes Mares CE FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/214.m3u8
+#EXTINF:-1 tvg-id="tv.verdes.mares.br" tvg-name="Globo TV Verdes Mares CE HD" tvg-logo="http://7upsp8.com.br/tvlogos/globo.png" group-title="Canais | Globos Capitais",Globo TV Verdes Mares CE HD
+http://7up2.com:80/live/Josilaine1/21976061603/213.m3u8
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob FHD" tvg-logo="http://7upsp8.com.br/tvlogos/gloob.png" group-title="Canais | Infantis",Gloob FHD
+http://7up2.com:80/live/Josilaine1/21976061603/394.m3u8
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/gloob.png" group-title="Canais | Infantis",Gloob FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/396.m3u8
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob HD" tvg-logo="http://7upsp8.com.br/tvlogos/gloob.png" group-title="Canais | Infantis",Gloob HD
+http://7up2.com:80/live/Josilaine1/21976061603/395.m3u8
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="Gloobinho FHD" tvg-logo="http://7upsp8.com.br/tvlogos/gloobinho.png" group-title="Canais | Infantis",Gloobinho FHD
+http://7up2.com:80/live/Josilaine1/21976061603/397.m3u8
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="Gloobinho FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/gloobinho.png" group-title="Canais | Infantis",Gloobinho FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/399.m3u8
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="Gloobinho HD" tvg-logo="http://7upsp8.com.br/tvlogos/gloobinho.png" group-title="Canais | Infantis",Gloobinho HD
+http://7up2.com:80/live/Josilaine1/21976061603/398.m3u8
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT FHD" tvg-logo="http://7upsp8.com.br/tvlogos/gnt.png" group-title="Canais | Variedades",GNT FHD
+http://7up2.com:80/live/Josilaine1/21976061603/250.m3u8
+#EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/gnt.png" group-title="Canais | Variedades",GNT FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/252.m3u8
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="http://7upsp8.com.br/tvlogos/gnt.png" group-title="Canais | Variedades",GNT HD
+http://7up2.com:80/live/Josilaine1/21976061603/251.m3u8
+#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/history2.png" group-title="Canais | Cultura e Documentário",H2 FHD
+http://7up2.com:80/live/Josilaine1/21976061603/369.m3u8
+#EXTINF:-1 tvg-id="History2.br" tvg-name="H2 FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/history2.png" group-title="Canais | Cultura e Documentário",H2 FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/371.m3u8
+#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 HD" tvg-logo="http://7upsp8.com.br/tvlogos/history2.png" group-title="Canais | Cultura e Documentário",H2 HD
+http://7up2.com:80/live/Josilaine1/21976061603/370.m3u8
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO 1 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/hbo.png" group-title="Canais | Rede HBO",HBO 1 FHD
+http://7up2.com:80/live/Josilaine1/21976061603/544.m3u8
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO 1 FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/hbo.png" group-title="Canais | Rede HBO",HBO 1 FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/542.m3u8
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO 1 HD" tvg-logo="http://7upsp8.com.br/tvlogos/hbo.png" group-title="Canais | Rede HBO",HBO 1 HD
+http://7up2.com:80/live/Josilaine1/21976061603/557.m3u8
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO 1 HD²" tvg-logo="http://7upsp8.com.br/tvlogos/hbo.png" group-title="Canais | Rede HBO",HBO 1 HD²
+http://7up2.com:80/live/Josilaine1/21976061603/543.m3u8
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/hbo2.png" group-title="Canais | Rede HBO",HBO 2 FHD
+http://7up2.com:80/live/Josilaine1/21976061603/536.m3u8
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/hbo2.png" group-title="Canais | Rede HBO",HBO 2 FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/534.m3u8
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-logo="http://7upsp8.com.br/tvlogos/hbo2.png" group-title="Canais | Rede HBO",HBO 2 HD
+http://7up2.com:80/live/Josilaine1/21976061603/535.m3u8
+#EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2 HD²" tvg-logo="http://7upsp8.com.br/tvlogos/hbo2.png" group-title="Canais | Rede HBO",HBO 2 HD²
+http://7up2.com:80/live/Josilaine1/21976061603/537.m3u8
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family FHD" tvg-logo="http://7upsp8.com.br/tvlogos/hbofamily.png" group-title="Canais | Rede HBO",HBO Family FHD
+http://7up2.com:80/live/Josilaine1/21976061603/538.m3u8
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/hbofamily.png" group-title="Canais | Rede HBO",HBO Family FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/540.m3u8
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family HD" tvg-logo="http://7upsp8.com.br/tvlogos/hbofamily.png" group-title="Canais | Rede HBO",HBO Family HD
+http://7up2.com:80/live/Josilaine1/21976061603/539.m3u8
+#EXTINF:-1 tvg-id="HBOFamily.br" tvg-name="HBO Family HD²" tvg-logo="http://7upsp8.com.br/tvlogos/hbofamily.png" group-title="Canais | Rede HBO",HBO Family HD²
+http://7up2.com:80/live/Josilaine1/21976061603/541.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 01" tvg-logo="http://7upsp8.com.br/tvlogos/hbomax.png" group-title="Canais | Esportes PPV",HBO Max 01
+http://7up2.com:80/live/Josilaine1/21976061603/81651.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="HBO Max 02" tvg-logo="http://7upsp8.com.br/tvlogos/hbomax.png" group-title="Canais | Esportes PPV",HBO Max 02
+http://7up2.com:80/live/Josilaine1/21976061603/657.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 03" tvg-logo="http://7upsp8.com.br/tvlogos/hbomax.png" group-title="Canais | Esportes PPV",HBO Max 03
+http://7up2.com:80/live/Josilaine1/21976061603/81652.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="HBO Max 04" tvg-logo="http://7upsp8.com.br/tvlogos/hbomax.png" group-title="Canais | Esportes PPV",HBO Max 04
+http://7up2.com:80/live/Josilaine1/21976061603/658.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 05" tvg-logo="http://7upsp8.com.br/tvlogos/hbomax.png" group-title="Canais | Esportes PPV",HBO Max 05
+http://7up2.com:80/live/Josilaine1/21976061603/81653.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="HBO Max 06" tvg-logo="http://7upsp8.com.br/tvlogos/hbomax.png" group-title="Canais | Esportes PPV",HBO Max 06
+http://7up2.com:80/live/Josilaine1/21976061603/659.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 07" tvg-logo="http://7upsp8.com.br/tvlogos/hbomax.png" group-title="Canais | Esportes PPV",HBO Max 07
+http://7up2.com:80/live/Josilaine1/21976061603/81654.m3u8
+#EXTINF:-1 tvg-id="dazn.4.es" tvg-name="HBO Max 08" tvg-logo="http://7upsp8.com.br/tvlogos/hbomax.png" group-title="Canais | Esportes PPV",HBO Max 08
+http://7up2.com:80/live/Josilaine1/21976061603/660.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="HBO Max 09" tvg-logo="http://7upsp8.com.br/tvlogos/hbomax.png" group-title="Canais | Esportes PPV",HBO Max 09
+http://7up2.com:80/live/Josilaine1/21976061603/661.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="HBO Max 10" tvg-logo="http://7upsp8.com.br/tvlogos/hbomax.png" group-title="Canais | Esportes PPV",HBO Max 10
+http://7up2.com:80/live/Josilaine1/21976061603/662.m3u8
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi FHD" tvg-logo="http://7upsp8.com.br/tvlogos/hbomundi.png" group-title="Canais | Rede HBO",HBO Mundi FHD
+http://7up2.com:80/live/Josilaine1/21976061603/545.m3u8
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/hbomundi.png" group-title="Canais | Rede HBO",HBO Mundi FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/547.m3u8
+#EXTINF:-1 tvg-id="HBOMundi.br" tvg-name="HBO Mundi HD" tvg-logo="http://7upsp8.com.br/tvlogos/hbomundi.png" group-title="Canais | Rede HBO",HBO Mundi HD
+http://7up2.com:80/live/Josilaine1/21976061603/548.m3u8
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi HD²" tvg-logo="http://7upsp8.com.br/tvlogos/hbomundi.png" group-title="Canais | Rede HBO",HBO Mundi HD²
+http://7up2.com:80/live/Josilaine1/21976061603/546.m3u8
+#EXTINF:-1 tvg-id="HBOPlus.br" tvg-name="HBO Plus+ FHD" tvg-logo="http://7upsp8.com.br/tvlogos/hboplus.png" group-title="Canais | Rede HBO",HBO Plus+ FHD
+http://7up2.com:80/live/Josilaine1/21976061603/549.m3u8
+#EXTINF:-1 tvg-id="HBOPlus.br" tvg-name="HBO Plus+ FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/hboplus.png" group-title="Canais | Rede HBO",HBO Plus+ FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/551.m3u8
+#EXTINF:-1 tvg-id="hboplus.br" tvg-name="HBO Plus+ HD" tvg-logo="http://7upsp8.com.br/tvlogos/hboplus.png" group-title="Canais | Rede HBO",HBO Plus+ HD
+http://7up2.com:80/live/Josilaine1/21976061603/552.m3u8
+#EXTINF:-1 tvg-id="HBOPlus.br" tvg-name="HBO Plus+ HD²" tvg-logo="http://7upsp8.com.br/tvlogos/hboplus.png" group-title="Canais | Rede HBO",HBO Plus+ HD²
+http://7up2.com:80/live/Josilaine1/21976061603/550.m3u8
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop FHD" tvg-logo="http://7upsp8.com.br/tvlogos/hbopop.png" group-title="Canais | Rede HBO",HBO Pop FHD
+http://7up2.com:80/live/Josilaine1/21976061603/553.m3u8
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/hbopop.png" group-title="Canais | Rede HBO",HBO Pop FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/555.m3u8
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop HD" tvg-logo="http://7upsp8.com.br/tvlogos/hbopop.png" group-title="Canais | Rede HBO",HBO Pop HD
+http://7up2.com:80/live/Josilaine1/21976061603/556.m3u8
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop HD²" tvg-logo="http://7upsp8.com.br/tvlogos/hbopop.png" group-title="Canais | Rede HBO",HBO Pop HD²
+http://7up2.com:80/live/Josilaine1/21976061603/554.m3u8
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature FHD" tvg-logo="http://7upsp8.com.br/tvlogos/hbosignature.png" group-title="Canais | Rede HBO",HBO Signature FHD
+http://7up2.com:80/live/Josilaine1/21976061603/560.m3u8
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/hbosignature.png" group-title="Canais | Rede HBO",HBO Signature FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/558.m3u8
+#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="HBO Signature HD" tvg-logo="http://7upsp8.com.br/tvlogos/hbosignature.png" group-title="Canais | Rede HBO",HBO Signature HD
+http://7up2.com:80/live/Josilaine1/21976061603/561.m3u8
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature HD²" tvg-logo="http://7upsp8.com.br/tvlogos/hbosignature.png" group-title="Canais | Rede HBO",HBO Signature HD²
+http://7up2.com:80/live/Josilaine1/21976061603/559.m3u8
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme FHD" tvg-logo="http://7upsp8.com.br/tvlogos/hboxtreme.png" group-title="Canais | Rede HBO",HBO Xtreme FHD
+http://7up2.com:80/live/Josilaine1/21976061603/562.m3u8
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/hboxtreme.png" group-title="Canais | Rede HBO",HBO Xtreme FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/564.m3u8
+#EXTINF:-1 tvg-id="HBOXtreme.br" tvg-name="HBO Xtreme HD" tvg-logo="http://7upsp8.com.br/tvlogos/hboxtreme.png" group-title="Canais | Rede HBO",HBO Xtreme HD
+http://7up2.com:80/live/Josilaine1/21976061603/565.m3u8
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme HD²" tvg-logo="http://7upsp8.com.br/tvlogos/hboxtreme.png" group-title="Canais | Rede HBO",HBO Xtreme HD²
+http://7up2.com:80/live/Josilaine1/21976061603/563.m3u8
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV FHD" tvg-logo="http://7upsp8.com.br/tvlogos/hgtv.png" group-title="Canais | Cultura e Documentário",HGTV FHD
+http://7up2.com:80/live/Josilaine1/21976061603/254.m3u8
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/hgtv.png" group-title="Canais | Cultura e Documentário",HGTV FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/81635.m3u8
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="http://7upsp8.com.br/tvlogos/hgtv.png" group-title="Canais | Cultura e Documentário",HGTV HD
+http://7up2.com:80/live/Josilaine1/21976061603/255.m3u8
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD²" tvg-logo="http://7upsp8.com.br/tvlogos/hgtv.png" group-title="Canais | Cultura e Documentário",HGTV HD²
+http://7up2.com:80/live/Josilaine1/21976061603/256.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Igreja Mundial IMPD" tvg-logo="http://7upsp8.com.br/tvlogos/IMPD.png" group-title="Canais | Religiosos",Igreja Mundial IMPD
+http://7up2.com:80/live/Josilaine1/21976061603/688.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Igreja Universal" tvg-logo="https://i.imgur.com/I1bKINa.png" group-title="Canais | Religiosos",Igreja Universal
+http://7up2.com:80/live/Josilaine1/21976061603/690.m3u8
+#EXTINF:-1 tvg-id="JovemPanNews.br" tvg-name="Jovem Pan News FHD" tvg-logo="http://7upsp8.com.br/tvlogos/jpnews.png" group-title="Canais | Jornalismo",Jovem Pan News FHD
+http://7up2.com:80/live/Josilaine1/21976061603/340.m3u8
+#EXTINF:-1 tvg-id="187" tvg-name="Jovem Pan News FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/jpnews.png" group-title="Canais | Jornalismo",Jovem Pan News FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/38618.m3u8
+#EXTINF:-1 tvg-id="JovemPanNews.br" tvg-name="Jovem Pan News HD" tvg-logo="http://7upsp8.com.br/tvlogos/jpnews.png" group-title="Canais | Jornalismo",Jovem Pan News HD
+http://7up2.com:80/live/Josilaine1/21976061603/341.m3u8
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime FHD" tvg-logo="http://7upsp8.com.br/tvlogos/lifetime.png" group-title="Canais | Variedades",Lifetime FHD
+http://7up2.com:80/live/Josilaine1/21976061603/258.m3u8
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/lifetime.png" group-title="Canais | Variedades",Lifetime FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/260.m3u8
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime HD" tvg-logo="http://7upsp8.com.br/tvlogos/lifetime.png" group-title="Canais | Variedades",Lifetime HD
+http://7up2.com:80/live/Josilaine1/21976061603/259.m3u8
+#EXTINF:-1 tvg-id="loading.br" tvg-name="Loading TV HD" tvg-logo="https://i.imgur.com/MtkzA35.png" group-title="Canais | Variedades",Loading TV HD
+http://7up2.com:80/live/Josilaine1/21976061603/50.m3u8
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix FHD" tvg-logo="http://7upsp8.com.br/tvlogos/megapix.png" group-title="Canais | Filmes e Séries",Megapix FHD
+http://7up2.com:80/live/Josilaine1/21976061603/451.m3u8
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/megapix.png" group-title="Canais | Filmes e Séries",Megapix FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/453.m3u8
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix HD" tvg-logo="http://7upsp8.com.br/tvlogos/megapix.png" group-title="Canais | Filmes e Séries",Megapix HD
+http://7up2.com:80/live/Josilaine1/21976061603/452.m3u8
+#EXTINF:-1 tvg-id="modo.viagem.br" tvg-name="Modo Viagem FHD" tvg-logo="http://7upsp8.com.br/tvlogos/modoviagem.png" group-title="Canais | Variedades",Modo Viagem FHD
+http://7up2.com:80/live/Josilaine1/21976061603/264.m3u8
+#EXTINF:-1 tvg-id="modoviagem.br" tvg-name="Modo Viagem HD" tvg-logo="http://7upsp8.com.br/tvlogos/modoviagem.png" group-title="Canais | Variedades",Modo Viagem HD
+http://7up2.com:80/live/Josilaine1/21976061603/75077.m3u8
+#EXTINF:-1 tvg-id="star.br" tvg-name="Mr Olympia 01" tvg-logo="http://7upsp8.com.br/tvlogos/olympia.png" group-title="Canais | Esportes PPV",Mr Olympia 01
+http://7up2.com:80/live/Josilaine1/21976061603/469.m3u8
+#EXTINF:-1 tvg-id="star.br" tvg-name="Mr Olympia 02" tvg-logo="http://7upsp8.com.br/tvlogos/olympia.png" group-title="Canais | Esportes PPV",Mr Olympia 02
+http://7up2.com:80/live/Josilaine1/21976061603/470.m3u8
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow FHD" tvg-logo="http://7upsp8.com.br/tvlogos/multishow.png" group-title="Canais | Variedades",Multishow FHD
+http://7up2.com:80/live/Josilaine1/21976061603/273.m3u8
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow HD" tvg-logo="http://7upsp8.com.br/tvlogos/multishow.png" group-title="Canais | Variedades",Multishow HD
+http://7up2.com:80/live/Josilaine1/21976061603/274.m3u8
+#EXTINF:-1 tvg-id="music.box.brasil.br" tvg-name="Music Box Brasil FHD" tvg-logo="http://7upsp8.com.br/tvlogos/musicboxbrazil.png" group-title="Canais | Variedades",Music Box Brasil FHD
+http://7up2.com:80/live/Josilaine1/21976061603/276.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="My Time Movie" tvg-logo="http://7upsp8.com.br/tvlogos/mytimetomovie.png" group-title="Canais | Filmes e Séries",My Time Movie
+http://7up2.com:80/live/Josilaine1/21976061603/454.m3u8
+#EXTINF:-1 tvg-id="dummy-647" tvg-name="NSports 01" tvg-logo="http://7upsp8.com.br/tvlogos/NSports.png" group-title="Canais | Esportes",NSports 01
+http://7up2.com:80/live/Josilaine1/21976061603/614.m3u8
+#EXTINF:-1 tvg-id="329" tvg-name="NSports 02" tvg-logo="http://7upsp8.com.br/tvlogos/NSports.png" group-title="Canais | Esportes",NSports 02
+http://7up2.com:80/live/Josilaine1/21976061603/611.m3u8
+#EXTINF:-1 tvg-id="329" tvg-name="NSports 03" tvg-logo="http://7upsp8.com.br/tvlogos/NSports.png" group-title="Canais | Esportes",NSports 03
+http://7up2.com:80/live/Josilaine1/21976061603/601.m3u8
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF FHD" tvg-logo="http://7upsp8.com.br/tvlogos/off.png" group-title="Canais | Esportes",OFF FHD
+http://7up2.com:80/live/Josilaine1/21976061603/280.m3u8
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD" tvg-logo="http://7upsp8.com.br/tvlogos/off.png" group-title="Canais | Esportes",OFF HD
+http://7up2.com:80/live/Josilaine1/21976061603/281.m3u8
+#EXTINF:-1 tvg-id="paramount.plus.1.br" tvg-name="Paramount+ 01 " tvg-logo="http://7upsp8.com.br/tvlogos/paramountplus.png" group-title="Canais | Esportes PPV",Paramount+ 01 
+http://7up2.com:80/live/Josilaine1/21976061603/24034.m3u8
+#EXTINF:-1 tvg-id="paramount.plus.1.br" tvg-name="Paramount+ 01 ²" tvg-logo="http://7upsp8.com.br/tvlogos/paramountplus.png" group-title="Canais | Esportes PPV",Paramount+ 01 ²
+http://7up2.com:80/live/Josilaine1/21976061603/83848.m3u8
+#EXTINF:-1 tvg-id="paramount.plus.2.br" tvg-name="Paramount+ 02 " tvg-logo="http://7upsp8.com.br/tvlogos/paramountplus.png" group-title="Canais | Esportes PPV",Paramount+ 02 
+http://7up2.com:80/live/Josilaine1/21976061603/24035.m3u8
+#EXTINF:-1 tvg-id="paramount.plus.2.br" tvg-name="Paramount+ 02 ²" tvg-logo="http://7upsp8.com.br/tvlogos/paramountplus.png" group-title="Canais | Esportes PPV",Paramount+ 02 ²
+http://7up2.com:80/live/Josilaine1/21976061603/85350.m3u8
+#EXTINF:-1 tvg-id="paramount.plus.3.br" tvg-name="Paramount+ 03 " tvg-logo="http://7upsp8.com.br/tvlogos/paramountplus.png" group-title="Canais | Esportes PPV",Paramount+ 03 
+http://7up2.com:80/live/Josilaine1/21976061603/229.m3u8
+#EXTINF:-1 tvg-id="paramount.plus.3.br" tvg-name="Paramount+ 03 ²" tvg-logo="http://7upsp8.com.br/tvlogos/paramountplus.png" group-title="Canais | Esportes PPV",Paramount+ 03 ²
+http://7up2.com:80/live/Josilaine1/21976061603/85351.m3u8
+#EXTINF:-1 tvg-id="paramount.plus.4.br" tvg-name="Paramount+ 04 " tvg-logo="http://7upsp8.com.br/tvlogos/paramountplus.png" group-title="Canais | Esportes PPV",Paramount+ 04 
+http://7up2.com:80/live/Josilaine1/21976061603/495.m3u8
+#EXTINF:-1 tvg-id="paramount.plus.4.br" tvg-name="Paramount+ 04 ²" tvg-logo="http://7upsp8.com.br/tvlogos/paramountplus.png" group-title="Canais | Esportes PPV",Paramount+ 04 ²
+http://7up2.com:80/live/Josilaine1/21976061603/85352.m3u8
+#EXTINF:-1 tvg-id="music.box.brasil.br" tvg-name="Paramount+ PLTF 01" tvg-logo="http://7upsp8.com.br/tvlogos/paramountplus.png" group-title="Canais | Esportes PPV",Paramount+ PLTF 01
+http://7up2.com:80/live/Josilaine1/21976061603/277.m3u8
+#EXTINF:-1 tvg-id="chef.br" tvg-name="Paramount+ PLTF 02" tvg-logo="http://7upsp8.com.br/tvlogos/paramountplus.png" group-title="Canais | Esportes PPV",Paramount+ PLTF 02
+http://7up2.com:80/live/Josilaine1/21976061603/266.m3u8
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="Paramount+ PLTF 03" tvg-logo="http://7upsp8.com.br/tvlogos/paramountplus.png" group-title="Canais | Esportes PPV",Paramount+ PLTF 03
+http://7up2.com:80/live/Josilaine1/21976061603/269.m3u8
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere 1 Clubes FHD" tvg-logo="http://7upsp8.com.br/tvlogos/premierefutebolclubes.png" group-title="Canais | Premiere F.C.",Premiere 1 Clubes FHD
+http://7up2.com:80/live/Josilaine1/21976061603/634.m3u8
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere 1 Clubes FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/premierefutebolclubes.png" group-title="Canais | Premiere F.C.",Premiere 1 Clubes FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/633.m3u8
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere 1 Clubes HD" tvg-logo="http://7upsp8.com.br/tvlogos/premierefutebolclubes.png" group-title="Canais | Premiere F.C.",Premiere 1 Clubes HD
+http://7up2.com:80/live/Josilaine1/21976061603/635.m3u8
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere 1 Clubes HD²" tvg-logo="http://7upsp8.com.br/tvlogos/premierefutebolclubes.png" group-title="Canais | Premiere F.C.",Premiere 1 Clubes HD²
+http://7up2.com:80/live/Josilaine1/21976061603/1938.m3u8
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/premiere2.png" group-title="Canais | Premiere F.C.",Premiere 2 FHD
+http://7up2.com:80/live/Josilaine1/21976061603/615.m3u8
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/premiere2.png" group-title="Canais | Premiere F.C.",Premiere 2 FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/608.m3u8
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="http://7upsp8.com.br/tvlogos/premiere2.png" group-title="Canais | Premiere F.C.",Premiere 2 HD
+http://7up2.com:80/live/Josilaine1/21976061603/616.m3u8
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD²" tvg-logo="http://7upsp8.com.br/tvlogos/premiere2.png" group-title="Canais | Premiere F.C.",Premiere 2 HD²
+http://7up2.com:80/live/Josilaine1/21976061603/47481.m3u8
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/premiere3.png" group-title="Canais | Premiere F.C.",Premiere 3 FHD
+http://7up2.com:80/live/Josilaine1/21976061603/618.m3u8
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/premiere3.png" group-title="Canais | Premiere F.C.",Premiere 3 FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/598.m3u8
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="http://7upsp8.com.br/tvlogos/premiere3.png" group-title="Canais | Premiere F.C.",Premiere 3 HD
+http://7up2.com:80/live/Josilaine1/21976061603/619.m3u8
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD²" tvg-logo="http://7upsp8.com.br/tvlogos/premiere3.png" group-title="Canais | Premiere F.C.",Premiere 3 HD²
+http://7up2.com:80/live/Josilaine1/21976061603/47485.m3u8
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/premiere4.png" group-title="Canais | Premiere F.C.",Premiere 4 FHD
+http://7up2.com:80/live/Josilaine1/21976061603/621.m3u8
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/premiere4.png" group-title="Canais | Premiere F.C.",Premiere 4 FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/603.m3u8
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD" tvg-logo="http://7upsp8.com.br/tvlogos/premiere4.png" group-title="Canais | Premiere F.C.",Premiere 4 HD
+http://7up2.com:80/live/Josilaine1/21976061603/622.m3u8
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD²" tvg-logo="http://7upsp8.com.br/tvlogos/premiere4.png" group-title="Canais | Premiere F.C.",Premiere 4 HD²
+http://7up2.com:80/live/Josilaine1/21976061603/47487.m3u8
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/premiere5.png" group-title="Canais | Premiere F.C.",Premiere 5 FHD
+http://7up2.com:80/live/Josilaine1/21976061603/624.m3u8
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/premiere5.png" group-title="Canais | Premiere F.C.",Premiere 5 FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/47489.m3u8
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 HD" tvg-logo="http://7upsp8.com.br/tvlogos/premiere5.png" group-title="Canais | Premiere F.C.",Premiere 5 HD
+http://7up2.com:80/live/Josilaine1/21976061603/625.m3u8
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/premiere6.png" group-title="Canais | Premiere F.C.",Premiere 6 FHD
+http://7up2.com:80/live/Josilaine1/21976061603/627.m3u8
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/premiere6.png" group-title="Canais | Premiere F.C.",Premiere 6 FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/629.m3u8
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="http://7upsp8.com.br/tvlogos/premiere6.png" group-title="Canais | Premiere F.C.",Premiere 6 HD
+http://7up2.com:80/live/Josilaine1/21976061603/628.m3u8
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/premiere7.png" group-title="Canais | Premiere F.C.",Premiere 7 FHD
+http://7up2.com:80/live/Josilaine1/21976061603/630.m3u8
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="http://7upsp8.com.br/tvlogos/premiere7.png" group-title="Canais | Premiere F.C.",Premiere 7 HD
+http://7up2.com:80/live/Josilaine1/21976061603/631.m3u8
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="Premiere 8 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/premiere8.png" group-title="Canais | Premiere F.C.",Premiere 8 FHD
+http://7up2.com:80/live/Josilaine1/21976061603/272415.m3u8
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="Premiere 8 HD" tvg-logo="http://7upsp8.com.br/tvlogos/premiere8.png" group-title="Canais | Premiere F.C.",Premiere 8 HD
+http://7up2.com:80/live/Josilaine1/21976061603/636.m3u8
+#EXTINF:-1 tvg-id="prime.box.brazil.br" tvg-name="Prime Box Brasil FHD" tvg-logo="http://7upsp8.com.br/tvlogos/primeboxbrazil.png" group-title="Canais | Variedades",Prime Box Brasil FHD
+http://7up2.com:80/live/Josilaine1/21976061603/283.m3u8
+#EXTINF:-1 tvg-id="PrimeBoxBrazil.br" tvg-name="Prime Box Brasil HD" tvg-logo="http://7upsp8.com.br/tvlogos/primeboxbrazil.png" group-title="Canais | Variedades",Prime Box Brasil HD
+http://7up2.com:80/live/Josilaine1/21976061603/284.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Prime Vídeo 01 " tvg-logo="http://7upsp8.com.br/tvlogos/primevideo.png" group-title="Canais | Esportes PPV",Prime Vídeo 01 
+http://7up2.com:80/live/Josilaine1/21976061603/645.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Prime Vídeo 02 " tvg-logo="http://7upsp8.com.br/tvlogos/primevideo.png" group-title="Canais | Esportes PPV",Prime Vídeo 02 
+http://7up2.com:80/live/Josilaine1/21976061603/646.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Prime Vídeo 03 " tvg-logo="http://7upsp8.com.br/tvlogos/primevideo.png" group-title="Canais | Esportes PPV",Prime Vídeo 03 
+http://7up2.com:80/live/Josilaine1/21976061603/82245.m3u8
+#EXTINF:-1 tvg-id="conmebol.4.br" tvg-name="Prime Vídeo 04 " tvg-logo="http://7upsp8.com.br/tvlogos/primevideo.png" group-title="Canais | Esportes PPV",Prime Vídeo 04 
+http://7up2.com:80/live/Josilaine1/21976061603/674.m3u8
+#EXTINF:-1 tvg-id="conmebol.4.br" tvg-name="Prime Vídeo 05 " tvg-logo="http://7upsp8.com.br/tvlogos/primevideo.png" group-title="Canais | Esportes PPV",Prime Vídeo 05 
+http://7up2.com:80/live/Josilaine1/21976061603/675.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Prime Vídeo 06" tvg-logo="http://7upsp8.com.br/tvlogos/primevideo.png" group-title="Canais | Esportes PPV",Prime Vídeo 06
+http://7up2.com:80/live/Josilaine1/21976061603/664.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Prime Vídeo 07" tvg-logo="http://7upsp8.com.br/tvlogos/primevideo.png" group-title="Canais | Esportes PPV",Prime Vídeo 07
+http://7up2.com:80/live/Josilaine1/21976061603/54132.m3u8
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Prime Vídeo 09" tvg-logo="http://7upsp8.com.br/tvlogos/primevideo.png" group-title="Canais | Esportes PPV",Prime Vídeo 09
+http://7up2.com:80/live/Josilaine1/21976061603/161.m3u8
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Receitas Fast HD" tvg-logo="http://7upsp8.com.br/tvlogos/receitasfast.png" group-title="Canais | Variedades",Receitas Fast HD
+http://7up2.com:80/live/Josilaine1/21976061603/47483.m3u8
+#EXTINF:-1 tvg-id="record.tv.belem.br" tvg-name="Record Belém FHD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record Belém FHD
+http://7up2.com:80/live/Josilaine1/21976061603/31.m3u8
+#EXTINF:-1 tvg-id="record.tv.belem.br" tvg-name="Record Belém HD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record Belém HD
+http://7up2.com:80/live/Josilaine1/21976061603/38.m3u8
+#EXTINF:-1 tvg-id="record.brasilia.br" tvg-name="Record Brasília FHD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record Brasília FHD
+http://7up2.com:80/live/Josilaine1/21976061603/32.m3u8
+#EXTINF:-1 tvg-id="record.tv.brasilia.br" tvg-name="Record Brasília HD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record Brasília HD
+http://7up2.com:80/live/Josilaine1/21976061603/47484.m3u8
+#EXTINF:-1 tvg-id="record.tv.campinas.br" tvg-name="Record Campinas HD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record Campinas HD
+http://7up2.com:80/live/Josilaine1/21976061603/68.m3u8
+#EXTINF:-1 tvg-id="tv.vitoria.br" tvg-name="Record ES HD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record ES HD
+http://7up2.com:80/live/Josilaine1/21976061603/33.m3u8
+#EXTINF:-1 tvg-id="record.tv.florianopolis.br" tvg-name="Record Florianópolis HD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record Florianópolis HD
+http://7up2.com:80/live/Josilaine1/21976061603/373.m3u8
+#EXTINF:-1 tvg-id="RecordTVGoiás.br" tvg-name="Record Goiás FHD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record Goiás FHD
+http://7up2.com:80/live/Josilaine1/21976061603/39.m3u8
+#EXTINF:-1 tvg-id="record.tv.goias.br" tvg-name="Record Goiás HD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record Goiás HD
+http://7up2.com:80/live/Josilaine1/21976061603/34.m3u8
+#EXTINF:-1 tvg-id="record.tv.itapoan.br" tvg-name="Record Itapoan BA HD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record Itapoan BA HD
+http://7up2.com:80/live/Josilaine1/21976061603/35.m3u8
+#EXTINF:-1 tvg-id="record.manaus.br" tvg-name="Record Manaus HD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record Manaus HD
+http://7up2.com:80/live/Josilaine1/21976061603/36.m3u8
+#EXTINF:-1 tvg-id="recordtvminas.br" tvg-name="Record Minas FHD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record Minas FHD
+http://7up2.com:80/live/Josilaine1/21976061603/37.m3u8
+#EXTINF:-1 tvg-id="recordtvminas.br" tvg-name="Record Minas HD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record Minas HD
+http://7up2.com:80/live/Josilaine1/21976061603/290.m3u8
+#EXTINF:-1 tvg-id="tv.cidade.sao.luis.br" tvg-name="Record Remanso MA HD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record Remanso MA HD
+http://7up2.com:80/live/Josilaine1/21976061603/372.m3u8
+#EXTINF:-1 tvg-id="ndtv.br" tvg-name="Record NDTV Florianópolis HD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record NDTV Florianópolis HD
+http://7up2.com:80/live/Josilaine1/21976061603/335.m3u8
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News FHD" tvg-logo="http://7upsp8.com.br/tvlogos/recordnews1.png" group-title="Canais | Jornalismo",Record News FHD
+http://7up2.com:80/live/Josilaine1/21976061603/342.m3u8
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News HD" tvg-logo="http://7upsp8.com.br/tvlogos/recordnews1.png" group-title="Canais | Jornalismo",Record News HD
+http://7up2.com:80/live/Josilaine1/21976061603/38619.m3u8
+#EXTINF:-1 tvg-id="RecordTVRJ.br" tvg-name="Record RJ FHD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record RJ FHD
+http://7up2.com:80/live/Josilaine1/21976061603/898383.m3u8
+#EXTINF:-1 tvg-id="record.tv.rio.br" tvg-name="Record RJ FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record RJ FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/898384.m3u8
+#EXTINF:-1 tvg-id="record.rio.br" tvg-name="Record RJ HD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record RJ HD
+http://7up2.com:80/live/Josilaine1/21976061603/35676.m3u8
+#EXTINF:-1 tvg-id="record.porto.alegre.br" tvg-name="Record RS FHD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record RS FHD
+http://7up2.com:80/live/Josilaine1/21976061603/41.m3u8
+#EXTINF:-1 tvg-id="record.porto.alegre.br" tvg-name="Record RS HD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record RS HD
+http://7up2.com:80/live/Josilaine1/21976061603/265589.m3u8
+#EXTINF:-1 tvg-id="ndtv.br" tvg-name="Record SC HD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record SC HD
+http://7up2.com:80/live/Josilaine1/21976061603/42.m3u8
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record Sergipe HD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record Sergipe HD
+http://7up2.com:80/live/Josilaine1/21976061603/85349.m3u8
+#EXTINF:-1 tvg-id="RecordTVSP.br" tvg-name="Record SP FHD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record SP FHD
+http://7up2.com:80/live/Josilaine1/21976061603/47.m3u8
+#EXTINF:-1 tvg-id="record.br" tvg-name="Record SP FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record SP FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/45.m3u8
+#EXTINF:-1 tvg-id="RecordTVSP.br" tvg-name="Record SP HD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record SP HD
+http://7up2.com:80/live/Josilaine1/21976061603/48.m3u8
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record TV Cidade CE FHD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record TV Cidade CE FHD
+http://7up2.com:80/live/Josilaine1/21976061603/648.m3u8
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record TV Cidade CE HD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record TV Cidade CE HD
+http://7up2.com:80/live/Josilaine1/21976061603/1119616.m3u8
+#EXTINF:-1 tvg-id="recordcuiabá.br" tvg-name="Record Vila Real MT HD" tvg-logo="http://7upsp8.com.br/tvlogos/record.png" group-title="Canais | Band, SBT, Record",Record Vila Real MT HD
+http://7up2.com:80/live/Josilaine1/21976061603/653.m3u8
+#EXTINF:-1 tvg-id="redeboasnovas.br" tvg-name="Rede Boas Novas" tvg-logo="http://7upsp8.com.br/tvlogos/boasnovas.png" group-title="Canais | Religiosos",Rede Boas Novas
+http://7up2.com:80/live/Josilaine1/21976061603/684.m3u8
+#EXTINF:-1 tvg-id="rede.brasil.br" tvg-name="Rede Brasil TV HD" tvg-logo="http://7upsp8.com.br/tvlogos/redebrasil.png" group-title="Canais | Abertos",Rede Brasil TV HD
+http://7up2.com:80/live/Josilaine1/21976061603/49.m3u8
+#EXTINF:-1 tvg-id="cnt.br" tvg-name="Rede CNT" tvg-logo="https://i.imgur.com/GJ9fNPj.png" group-title="Canais | Religiosos",Rede CNT
+http://7up2.com:80/live/Josilaine1/21976061603/687.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rede Furacão" tvg-logo="http://7upsp8.com.br/tvlogos/furacaolive.png" group-title="Canais | Esportes PPV",Rede Furacão
+http://7up2.com:80/live/Josilaine1/21976061603/595.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Rede Furacão ²" tvg-logo="http://7upsp8.com.br/tvlogos/furacaolive.png" group-title="Canais | Esportes PPV",Rede Furacão ²
+http://7up2.com:80/live/Josilaine1/21976061603/328.m3u8
+#EXTINF:-1 tvg-id="redegospel.br" tvg-name="Rede Gospel" tvg-logo="http://7upsp8.com.br/tvlogos/redegospel.png" group-title="Canais | Religiosos",Rede Gospel
+http://7up2.com:80/live/Josilaine1/21976061603/693.m3u8
+#EXTINF:-1 tvg-id="redegospel.br" tvg-name="Rede Gospel Brasil" tvg-logo="http://7upsp8.com.br/tvlogos/redegospel.png" group-title="Canais | Religiosos",Rede Gospel Brasil
+http://7up2.com:80/live/Josilaine1/21976061603/695.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rede Plenitude" tvg-logo="https://i.imgur.com/UXaaI7S.png" group-title="Canais | Religiosos",Rede Plenitude
+http://7up2.com:80/live/Josilaine1/21976061603/87139.m3u8
+#EXTINF:-1 tvg-id="redesuper.br" tvg-name="Rede Super HD" tvg-logo="http://7upsp8.com.br/tvlogos/redesuper.png" group-title="Canais | Religiosos",Rede Super HD
+http://7up2.com:80/live/Josilaine1/21976061603/694.m3u8
+#EXTINF:-1 tvg-id="redetv!.br" tvg-name="Rede TV! FHD" tvg-logo="http://7upsp8.com.br/tvlogos/redetv.png" group-title="Canais | Abertos",Rede TV! FHD
+http://7up2.com:80/live/Josilaine1/21976061603/52.m3u8
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="Rede TV! HD" tvg-logo="http://7upsp8.com.br/tvlogos/redetv.png" group-title="Canais | Abertos",Rede TV! HD
+http://7up2.com:80/live/Josilaine1/21976061603/53.m3u8
+#EXTINF:-1 tvg-id="redevida.br" tvg-name="Rede Vida HD" tvg-logo="http://7upsp8.com.br/tvlogos/redevida.png" group-title="Canais | Religiosos",Rede Vida HD
+http://38.58.176.32:80/sp8linha/TNyR4XFFP8/16275260
+#EXTINF:-1 tvg-id="rit.br" tvg-name="RIT TV" tvg-logo="http://7upsp8.com.br/tvlogos/rit.png" group-title="Canais | Religiosos",RIT TV
+http://7up2.com:80/live/Josilaine1/21976061603/697.m3u8
+#EXTINF:-1 tvg-id="sabor.and.arte.br" tvg-name="Sabor e Arte 2 HD" tvg-logo="https://cseprs3.s3.amazonaws.com/email-editor-files/e76a405b-665c-4277-6e2a-08d82a5048c3/8d6c04dd-0c53-4ea3-99b3-e0e73065dd98.png" group-title="Canais | Variedades",Sabor e Arte 2 HD
+http://7up2.com:80/live/Josilaine1/21976061603/459.m3u8
+#EXTINF:-1 tvg-id="thistv.network.mx" tvg-name="Sabor e Arte FHD" tvg-logo="http://7upsp8.com.br/tvlogos/saborearte.png" group-title="Canais | Variedades",Sabor e Arte FHD
+http://7up2.com:80/live/Josilaine1/21976061603/299.m3u8
+#EXTINF:-1 tvg-id="tv.alterosa.hd.sbt.br" tvg-name="SBT Alterosa MG FHD" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT Alterosa MG FHD
+http://7up2.com:80/live/Josilaine1/21976061603/308.m3u8
+#EXTINF:-1 tvg-id="tv.cidade.verde.br" tvg-name="SBT Cidade Verde PI HD" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT Cidade Verde PI HD
+http://7up2.com:80/live/Josilaine1/21976061603/66.m3u8
+#EXTINF:-1 tvg-id="sbt.interior.br" tvg-name="SBT Interior SP HD" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT Interior SP HD
+http://7up2.com:80/live/Josilaine1/21976061603/59.m3u8
+#EXTINF:-1 tvg-id="tv.jornal.br" tvg-name="SBT Jornal PE HD" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT Jornal PE HD
+http://7up2.com:80/live/Josilaine1/21976061603/60.m3u8
+#EXTINF:-1 tvg-id="tv.difusora.hd.sbt.br" tvg-name="SBT MA HD" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT MA HD
+http://7up2.com:80/live/Josilaine1/21976061603/61.m3u8
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT News FHD" tvg-logo="http://7upsp8.com.br/tvlogos/sbtnews.png" group-title="Canais | Jornalismo",SBT News FHD
+http://7up2.com:80/live/Josilaine1/21976061603/316.m3u8
+#EXTINF:-1 tvg-id="SBTNews.br" tvg-name="SBT News FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/sbtnews.png" group-title="Canais | Jornalismo",SBT News FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/343.m3u8
+#EXTINF:-1 tvg-id="SBTNews.br" tvg-name="SBT News HD" tvg-logo="http://7upsp8.com.br/tvlogos/sbtnews.png" group-title="Canais | Jornalismo",SBT News HD
+http://7up2.com:80/live/Josilaine1/21976061603/652.m3u8
+#EXTINF:-1 tvg-id="sbt.piaui.br" tvg-name="SBT Piauí HD" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT Piauí HD
+http://7up2.com:80/live/Josilaine1/21976061603/262.m3u8
+#EXTINF:-1 tvg-id="rede.massa.hd.sbt.br" tvg-name="SBT PR HD" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT PR HD
+http://7up2.com:80/live/Josilaine1/21976061603/67.m3u8
+#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RJ FHD" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT RJ FHD
+http://7up2.com:80/live/Josilaine1/21976061603/40405.m3u8
+#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RJ FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT RJ FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/48784.m3u8
+#EXTINF:-1 tvg-id="SBTRJ.br" tvg-name="SBT RJ HD" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT RJ HD
+http://7up2.com:80/live/Josilaine1/21976061603/69.m3u8
+#EXTINF:-1 tvg-id="sbt.natal.br" tvg-name="SBT RN HD" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT RN HD
+http://7up2.com:80/live/Josilaine1/21976061603/1941.m3u8
+#EXTINF:-1 tvg-id="sbt.rs.br" tvg-name="SBT RS HD²" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT RS HD²
+http://7up2.com:80/live/Josilaine1/21976061603/70.m3u8
+#EXTINF:-1 tvg-id="sbt.santa.catarina.br" tvg-name="SBT SC HD" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT SC HD
+http://7up2.com:80/live/Josilaine1/21976061603/71.m3u8
+#EXTINF:-1 tvg-id="sbt.goiania.tv.serra.dourada.br" tvg-name="SBT Serra Dourada GO HD" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT Serra Dourada GO HD
+http://7up2.com:80/live/Josilaine1/21976061603/57.m3u8
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP FHD" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT SP FHD
+http://7up2.com:80/live/Josilaine1/21976061603/64.m3u8
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT SP FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/73.m3u8
+#EXTINF:-1 tvg-id="SBTSP.br" tvg-name="SBT SP HD" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT SP HD
+http://7up2.com:80/live/Josilaine1/21976061603/58.m3u8
+#EXTINF:-1 tvg-id="tv.tambau.br" tvg-name="SBT Tambaú PB HD" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT Tambaú PB HD
+http://7up2.com:80/live/Josilaine1/21976061603/468299.m3u8
+#EXTINF:-1 tvg-id="tv.aratu.br" tvg-name="SBT TV Aratu BA" tvg-logo="http://7upsp8.com.br/tvlogos/sbt.png" group-title="Canais | Band, SBT, Record",SBT TV Aratu BA
+http://7up2.com:80/live/Josilaine1/21976061603/55.m3u8
+#EXTINF:-1 tvg-id="sesctv.br" tvg-name="SescTV" tvg-logo="http://7upsp8.com.br/tvlogos/sesctv.png" group-title="Canais | Abertos",SescTV
+http://7up2.com:80/live/Josilaine1/21976061603/76.m3u8
+#EXTINF:-1 tvg-id="SonyChannel.br" tvg-name="Sony FHD" tvg-logo="http://7upsp8.com.br/tvlogos/sony.png" group-title="Canais | Filmes e Séries",Sony FHD
+http://7up2.com:80/live/Josilaine1/21976061603/460.m3u8
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/sony.png" group-title="Canais | Filmes e Séries",Sony FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/463.m3u8
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony HD" tvg-logo="http://7upsp8.com.br/tvlogos/sony.png" group-title="Canais | Filmes e Séries",Sony HD
+http://7up2.com:80/live/Josilaine1/21976061603/461.m3u8
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space FHD" tvg-logo="http://7upsp8.com.br/tvlogos/space.png" group-title="Canais | Filmes e Séries",Space FHD
+http://7up2.com:80/live/Josilaine1/21976061603/464.m3u8
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/space.png" group-title="Canais | Filmes e Séries",Space FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/61022.m3u8
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space HD" tvg-logo="http://7upsp8.com.br/tvlogos/space.png" group-title="Canais | Filmes e Séries",Space HD
+http://7up2.com:80/live/Josilaine1/21976061603/465.m3u8
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space HD²" tvg-logo="http://7upsp8.com.br/tvlogos/space.png" group-title="Canais | Filmes e Séries",Space HD²
+http://7up2.com:80/live/Josilaine1/21976061603/61023.m3u8
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV 1 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/sportv1.png" group-title="Canais | Esportes",SporTV 1 FHD
+http://7up2.com:80/live/Josilaine1/21976061603/607.m3u8
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV 1 FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/sportv1.png" group-title="Canais | Esportes",SporTV 1 FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/41801.m3u8
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV 1 HD" tvg-logo="http://7upsp8.com.br/tvlogos/sportv1.png" group-title="Canais | Esportes",SporTV 1 HD
+http://7up2.com:80/live/Josilaine1/21976061603/609.m3u8
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV 1 HD²" tvg-logo="http://7upsp8.com.br/tvlogos/sportv1.png" group-title="Canais | Esportes",SporTV 1 HD²
+http://7up2.com:80/live/Josilaine1/21976061603/41800.m3u8
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/sportv2.png" group-title="Canais | Esportes",SporTV 2 FHD
+http://7up2.com:80/live/Josilaine1/21976061603/597.m3u8
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/sportv2.png" group-title="Canais | Esportes",SporTV 2 FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/47498.m3u8
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="http://7upsp8.com.br/tvlogos/sportv2.png" group-title="Canais | Esportes",SporTV 2 HD
+http://7up2.com:80/live/Josilaine1/21976061603/599.m3u8
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD²" tvg-logo="http://7upsp8.com.br/tvlogos/sportv2.png" group-title="Canais | Esportes",SporTV 2 HD²
+http://7up2.com:80/live/Josilaine1/21976061603/47500.m3u8
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/sportv3.png" group-title="Canais | Esportes",SporTV 3 FHD
+http://7up2.com:80/live/Josilaine1/21976061603/602.m3u8
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/sportv3.png" group-title="Canais | Esportes",SporTV 3 FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/449.m3u8
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="http://7upsp8.com.br/tvlogos/sportv3.png" group-title="Canais | Esportes",SporTV 3 HD
+http://7up2.com:80/live/Josilaine1/21976061603/604.m3u8
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD²" tvg-logo="http://7upsp8.com.br/tvlogos/sportv3.png" group-title="Canais | Esportes",SporTV 3 HD²
+http://7up2.com:80/live/Josilaine1/21976061603/606.m3u8
+#EXTINF:-1 tvg-id="sportv.4.br" tvg-name="SporTV 4 FHD" tvg-logo="http://7upsp8.com.br/tvlogos/sportv4.png" group-title="Canais | Esportes",SporTV 4 FHD
+http://7up2.com:80/live/Josilaine1/21976061603/572.m3u8
+#EXTINF:-1 tvg-id="sportv.4.br" tvg-name="SporTV 4 HD" tvg-logo="http://7upsp8.com.br/tvlogos/sportv4.png" group-title="Canais | Esportes",SporTV 4 HD
+http://7up2.com:80/live/Josilaine1/21976061603/282.m3u8
+#EXTINF:-1 tvg-id="StudioUniversal.br" tvg-name="Studio Universal FHD" tvg-logo="http://7upsp8.com.br/tvlogos/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal FHD
+http://7up2.com:80/live/Josilaine1/21976061603/471.m3u8
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/474.m3u8
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal HD" tvg-logo="http://7upsp8.com.br/tvlogos/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal HD
+http://7up2.com:80/live/Josilaine1/21976061603/473.m3u8
+#EXTINF:-1 tvg-id="TCM.br" tvg-name="TCM FHD" tvg-logo="http://7upsp8.com.br/tvlogos/tcm.png" group-title="Canais | Filmes e Séries",TCM FHD
+http://7up2.com:80/live/Josilaine1/21976061603/478.m3u8
+#EXTINF:-1 tvg-id="TCM.br" tvg-name="TCM HD" tvg-logo="http://7upsp8.com.br/tvlogos/tcm.png" group-title="Canais | Filmes e Séries",TCM HD
+http://7up2.com:80/live/Josilaine1/21976061603/479.m3u8
+#EXTINF:-1 tvg-id="TCM.br" tvg-name="TCM HD²" tvg-logo="http://7upsp8.com.br/tvlogos/tcm.png" group-title="Canais | Filmes e Séries",TCM HD²
+http://7up2.com:80/live/Josilaine1/21976061603/480.m3u8
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action FHD" tvg-logo="http://7upsp8.com.br/tvlogos/tcaction.png" group-title="Canais | Rede Telecine",Telecine Action FHD
+http://7up2.com:80/live/Josilaine1/21976061603/504.m3u8
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/tcaction.png" group-title="Canais | Rede Telecine",Telecine Action FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/505.m3u8
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action HD" tvg-logo="http://7upsp8.com.br/tvlogos/tcaction.png" group-title="Canais | Rede Telecine",Telecine Action HD
+http://7up2.com:80/live/Josilaine1/21976061603/506.m3u8
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action HD²" tvg-logo="http://7upsp8.com.br/tvlogos/tcaction.png" group-title="Canais | Rede Telecine",Telecine Action HD²
+http://7up2.com:80/live/Josilaine1/21976061603/507.m3u8
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult FHD" tvg-logo="http://7upsp8.com.br/tvlogos/telecinecult.png" group-title="Canais | Rede Telecine",Telecine Cult FHD
+http://7up2.com:80/live/Josilaine1/21976061603/510.m3u8
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/telecinecult.png" group-title="Canais | Rede Telecine",Telecine Cult FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/509.m3u8
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult HD" tvg-logo="http://7upsp8.com.br/tvlogos/telecinecult.png" group-title="Canais | Rede Telecine",Telecine Cult HD
+http://7up2.com:80/live/Josilaine1/21976061603/511.m3u8
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult HD²" tvg-logo="http://7upsp8.com.br/tvlogos/telecinecult.png" group-title="Canais | Rede Telecine",Telecine Cult HD²
+http://7up2.com:80/live/Josilaine1/21976061603/48772.m3u8
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun FHD" tvg-logo="http://7upsp8.com.br/tvlogos/tcfun.png" group-title="Canais | Rede Telecine",Telecine Fun FHD
+http://7up2.com:80/live/Josilaine1/21976061603/514.m3u8
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/tcfun.png" group-title="Canais | Rede Telecine",Telecine Fun FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/515.m3u8
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun HD" tvg-logo="http://7upsp8.com.br/tvlogos/tcfun.png" group-title="Canais | Rede Telecine",Telecine Fun HD
+http://7up2.com:80/live/Josilaine1/21976061603/516.m3u8
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun HD²" tvg-logo="http://7upsp8.com.br/tvlogos/tcfun.png" group-title="Canais | Rede Telecine",Telecine Fun HD²
+http://7up2.com:80/live/Josilaine1/21976061603/48773.m3u8
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca FHD" tvg-logo="http://7upsp8.com.br/tvlogos/tcpipoca.png" group-title="Canais | Rede Telecine",Telecine Pipoca FHD
+http://7up2.com:80/live/Josilaine1/21976061603/519.m3u8
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/tcpipoca.png" group-title="Canais | Rede Telecine",Telecine Pipoca FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/520.m3u8
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="http://7upsp8.com.br/tvlogos/tcpipoca.png" group-title="Canais | Rede Telecine",Telecine Pipoca HD
+http://7up2.com:80/live/Josilaine1/21976061603/521.m3u8
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca HD²" tvg-logo="http://7upsp8.com.br/tvlogos/tcpipoca.png" group-title="Canais | Rede Telecine",Telecine Pipoca HD²
+http://7up2.com:80/live/Josilaine1/21976061603/522.m3u8
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium FHD" tvg-logo="http://7upsp8.com.br/tvlogos/tcpremium.png" group-title="Canais | Rede Telecine",Telecine Premium FHD
+http://7up2.com:80/live/Josilaine1/21976061603/524.m3u8
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/tcpremium.png" group-title="Canais | Rede Telecine",Telecine Premium FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/525.m3u8
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium HD" tvg-logo="http://7upsp8.com.br/tvlogos/tcpremium.png" group-title="Canais | Rede Telecine",Telecine Premium HD
+http://7up2.com:80/live/Josilaine1/21976061603/527.m3u8
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium HD²" tvg-logo="http://7upsp8.com.br/tvlogos/tcpremium.png" group-title="Canais | Rede Telecine",Telecine Premium HD²
+http://7up2.com:80/live/Josilaine1/21976061603/526.m3u8
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch FHD" tvg-logo="http://7upsp8.com.br/tvlogos/tctouch.png" group-title="Canais | Rede Telecine",Telecine Touch FHD
+http://7up2.com:80/live/Josilaine1/21976061603/529.m3u8
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/tctouch.png" group-title="Canais | Rede Telecine",Telecine Touch FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/530.m3u8
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch HD" tvg-logo="http://7upsp8.com.br/tvlogos/tctouch.png" group-title="Canais | Rede Telecine",Telecine Touch HD
+http://7up2.com:80/live/Josilaine1/21976061603/531.m3u8
+#EXTINF:-1 tvg-id="terra.viva.br" tvg-name="Terra Viva HD" tvg-logo="http://7upsp8.com.br/tvlogos/terraviva.png" group-title="Canais | Abertos",Terra Viva HD
+http://7up2.com:80/live/Josilaine1/21976061603/77.m3u8
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="The History FHD" tvg-logo="http://7upsp8.com.br/tvlogos/history.png" group-title="Canais | Cultura e Documentário",The History FHD
+http://7up2.com:80/live/Josilaine1/21976061603/375.m3u8
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="The History FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/history.png" group-title="Canais | Cultura e Documentário",The History FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/253.m3u8
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="The History HD" tvg-logo="http://7upsp8.com.br/tvlogos/history.png" group-title="Canais | Cultura e Documentário",The History HD
+http://7up2.com:80/live/Josilaine1/21976061603/376.m3u8
+#EXTINF:-1 tvg-id="TNT.br" tvg-name="TNT FHD" tvg-logo="http://7upsp8.com.br/tvlogos/tnt.png" group-title="Canais | Filmes e Séries",TNT FHD
+http://7up2.com:80/live/Josilaine1/21976061603/485.m3u8
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/tnt.png" group-title="Canais | Filmes e Séries",TNT FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/484.m3u8
+#EXTINF:-1 tvg-id="TNT.br" tvg-name="TNT HD" tvg-logo="http://7upsp8.com.br/tvlogos/tnt.png" group-title="Canais | Filmes e Séries",TNT HD
+http://7up2.com:80/live/Josilaine1/21976061603/486.m3u8
+#EXTINF:-1 tvg-id="TNT.br" tvg-name="TNT HD²" tvg-logo="http://7upsp8.com.br/tvlogos/tnt.png" group-title="Canais | Filmes e Séries",TNT HD²
+http://7up2.com:80/live/Josilaine1/21976061603/487.m3u8
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TNT Novelas FHD" tvg-logo="http://7upsp8.com.br/tvlogos/tntnovelas.png" group-title="Canais | Variedades",TNT Novelas FHD
+http://7up2.com:80/live/Josilaine1/21976061603/475.m3u8
+#EXTINF:-1 tvg-id="tntnovelas.br" tvg-name="TNT Novelas FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/tntnovelas.png" group-title="Canais | Variedades",TNT Novelas FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/477.m3u8
+#EXTINF:-1 tvg-id="tntnovelas.br" tvg-name="TNT Novelas HD" tvg-logo="http://7upsp8.com.br/tvlogos/tntnovelas.png" group-title="Canais | Variedades",TNT Novelas HD
+http://7up2.com:80/live/Josilaine1/21976061603/476.m3u8
+#EXTINF:-1 tvg-id="TNTSeries.br" tvg-name="TNT Series FHD" tvg-logo="http://7upsp8.com.br/tvlogos/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series FHD
+http://7up2.com:80/live/Josilaine1/21976061603/489.m3u8
+#EXTINF:-1 tvg-id="TNTSeries.br" tvg-name="TNT Series FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/87170.m3u8
+#EXTINF:-1 tvg-id="TNTSeries.br" tvg-name="TNT Series HD" tvg-logo="http://7upsp8.com.br/tvlogos/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series HD
+http://7up2.com:80/live/Josilaine1/21976061603/490.m3u8
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Series HD²" tvg-logo="http://7upsp8.com.br/tvlogos/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series HD²
+http://7up2.com:80/live/Josilaine1/21976061603/87171.m3u8
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast FHD" tvg-logo="http://7upsp8.com.br/tvlogos/tooncast.png" group-title="Canais | Infantis",Tooncast FHD
+http://7up2.com:80/live/Josilaine1/21976061603/408.m3u8
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Tooncast FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/tooncast.png" group-title="Canais | Infantis",Tooncast FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/409.m3u8
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast HD" tvg-logo="http://7upsp8.com.br/tvlogos/tooncast.png" group-title="Canais | Infantis",Tooncast HD
+http://7up2.com:80/live/Josilaine1/21976061603/407.m3u8
+#EXTINF:-1 tvg-id="travel.box.brazil.br" tvg-name="Travel Box Brasil FHD" tvg-logo="http://7upsp8.com.br/tvlogos/travelboxbrazil.png" group-title="Canais | Variedades",Travel Box Brasil FHD
+http://7up2.com:80/live/Josilaine1/21976061603/298.m3u8
+#EXTINF:-1 tvg-id="gazeta.br" tvg-name="TV Alternativa (Gazeta MA) HD" tvg-logo="http://7upsp8.com.br/tvlogos/gazeta.png" group-title="Canais | Abertos",TV Alternativa (Gazeta MA) HD
+http://7up2.com:80/live/Josilaine1/21976061603/89.m3u8
+#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="TV Aparecida HD" tvg-logo="http://7upsp8.com.br/tvlogos/aparecida.png" group-title="Canais | Religiosos",TV Aparecida HD
+http://7up2.com:80/live/Josilaine1/21976061603/54601.m3u8
+#EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV Brasil FHD" tvg-logo="http://7upsp8.com.br/tvlogos/tvbrasil.png" group-title="Canais | Abertos",TV Brasil FHD
+http://7up2.com:80/live/Josilaine1/21976061603/80.m3u8
+#EXTINF:-1 tvg-id="tv.brasil.br" tvg-name="TV Brasil HD" tvg-logo="http://7upsp8.com.br/tvlogos/tvbrasil.png" group-title="Canais | Abertos",TV Brasil HD
+http://7up2.com:80/live/Josilaine1/21976061603/79.m3u8
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV Cultura FHD" tvg-logo="http://7upsp8.com.br/tvlogos/tvcultura.png" group-title="Canais | Variedades",TV Cultura FHD
+http://7up2.com:80/live/Josilaine1/21976061603/304.m3u8
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV Cultura HD" tvg-logo="http://7upsp8.com.br/tvlogos/tvcultura.png" group-title="Canais | Variedades",TV Cultura HD
+http://7up2.com:80/live/Josilaine1/21976061603/303.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Tv Diario FHD" tvg-logo="http://7upsp8.com.br/tvlogos/diario.png" group-title="Canais | Abertos",Tv Diario FHD
+http://7up2.com:80/live/Josilaine1/21976061603/84.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Tv Diario HD" tvg-logo="http://7upsp8.com.br/tvlogos/diario.png" group-title="Canais | Abertos",Tv Diario HD
+http://7up2.com:80/live/Josilaine1/21976061603/85.m3u8
+#EXTINF:-1 tvg-id="tv.escola.br" tvg-name="TV Escola HD" tvg-logo="http://7upsp8.com.br/tvlogos/tvescola.png" group-title="Canais | Variedades",TV Escola HD
+http://7up2.com:80/live/Josilaine1/21976061603/305.m3u8
+#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="TV Gazeta FHD" tvg-logo="http://7upsp8.com.br/tvlogos/gazeta.png" group-title="Canais | Abertos",TV Gazeta FHD
+http://7up2.com:80/live/Josilaine1/21976061603/88.m3u8
+#EXTINF:-1 tvg-id="gazeta.br" tvg-name="TV Gazeta SP (TV Araçatuba)" tvg-logo="http://7upsp8.com.br/tvlogos/gazeta.png" group-title="Canais | Abertos",TV Gazeta SP (TV Araçatuba)
+http://7up2.com:80/live/Josilaine1/21976061603/699.m3u8
+#EXTINF:-1 tvg-id="tvjustiça.br" tvg-name="TV Justiça FHD" tvg-logo="http://7upsp8.com.br/tvlogos/tvjustica.png" group-title="Canais | Abertos",TV Justiça FHD
+http://7up2.com:80/live/Josilaine1/21976061603/91.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Novo Tempo HD" tvg-logo="http://7upsp8.com.br/tvlogos/novotempo.png" group-title="Canais | Religiosos",TV Novo Tempo HD
+http://7up2.com:80/live/Josilaine1/21976061603/707.m3u8
+#EXTINF:-1 tvg-id="tv.novo.tempo.br" tvg-name="TV Novo Tempo HD²" tvg-logo="http://7upsp8.com.br/tvlogos/novotempo.png" group-title="Canais | Religiosos",TV Novo Tempo HD²
+http://7up2.com:80/live/Josilaine1/21976061603/291.m3u8
+#EXTINF:-1 tvg-id="tv.pai.eterno.br" tvg-name="TV Pai Eterno HD" tvg-logo="https://i.imgur.com/kr2uvhC.png" group-title="Canais | Religiosos",TV Pai Eterno HD
+http://7up2.com:80/live/Josilaine1/21976061603/708.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Paraná Turismo (Cultura PR) HD" tvg-logo="http://7upsp8.com.br/tvlogos/cultura.png" group-title="Canais | Abertos",TV Paraná Turismo (Cultura PR) HD
+http://7up2.com:80/live/Josilaine1/21976061603/654.m3u8
+#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="TV Ra Tim Bum FHD" tvg-logo="http://7upsp8.com.br/tvlogos/tvratimbum.png" group-title="Canais | Infantis",TV Ra Tim Bum FHD
+http://7up2.com:80/live/Josilaine1/21976061603/410.m3u8
+#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="TV Ra Tim Bum HD" tvg-logo="http://7upsp8.com.br/tvlogos/tvratimbum.png" group-title="Canais | Infantis",TV Ra Tim Bum HD
+http://7up2.com:80/live/Josilaine1/21976061603/411.m3u8
+#EXTINF:-1 tvg-id="dummy-3" tvg-name="UFC Fight Pass 01 HD" tvg-logo="http://7upsp8.com.br/tvlogos/ufcfight.png" group-title="Canais | Esportes",UFC Fight Pass 01 HD
+http://7up2.com:80/live/Josilaine1/21976061603/81649.m3u8
+#EXTINF:-1 tvg-id="ufc.br" tvg-name="UFC Fight Pass 01 HD²" tvg-logo="http://7upsp8.com.br/tvlogos/ufcfight.png" group-title="Canais | Esportes",UFC Fight Pass 01 HD²
+http://7up2.com:80/live/Josilaine1/21976061603/80107.m3u8
+#EXTINF:-1 tvg-id="ufc.br" tvg-name="UFC Fight Pass 24H (UK)" tvg-logo="http://7upsp8.com.br/tvlogos/ufcfight.png" group-title="Canais | Esportes",UFC Fight Pass 24H (UK)
+http://7up2.com:80/live/Josilaine1/21976061603/269249.m3u8
+#EXTINF:-1 tvg-id="dummy-965" tvg-name="UFC Fight Pass 02 HD" tvg-logo="http://7upsp8.com.br/tvlogos/ufcfight.png" group-title="Canais | Esportes",UFC Fight Pass 02 HD
+http://7up2.com:80/live/Josilaine1/21976061603/610.m3u8
+#EXTINF:-1 tvg-id="dummy-966" tvg-name="UFC Fight Pass 03 HD" tvg-logo="http://7upsp8.com.br/tvlogos/ufcfight.png" group-title="Canais | Esportes",UFC Fight Pass 03 HD
+http://7up2.com:80/live/Josilaine1/21976061603/591.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UFC Night Pass 24H (USA)" tvg-logo="http://7upsp8.com.br/tvlogos/ufcfight.png" group-title="Canais | Esportes",UFC Night Pass 24H (USA)
+http://7up2.com:80/live/Josilaine1/21976061603/269248.m3u8
+#EXTINF:-1 tvg-id="dummy-970" tvg-name="Universal Premiere FHD" tvg-logo="http://7upsp8.com.br/tvlogos/Universal_Premiere.png" group-title="Canais | Filmes e Séries",Universal Premiere FHD
+http://7up2.com:80/live/Josilaine1/21976061603/374.m3u8
+#EXTINF:-1 tvg-id="dummy-970" tvg-name="Universal Premiere HD" tvg-logo="http://7upsp8.com.br/tvlogos/Universal_Premiere.png" group-title="Canais | Filmes e Séries",Universal Premiere HD
+http://7up2.com:80/live/Josilaine1/21976061603/378.m3u8
+#EXTINF:-1 tvg-id="UniversalReality.br" tvg-name="Universal Reality FHD" tvg-logo="http://7upsp8.com.br/tvlogos/Universal_Reality.png" group-title="Canais | Filmes e Séries",Universal Reality FHD
+http://7up2.com:80/live/Josilaine1/21976061603/379.m3u8
+#EXTINF:-1 tvg-id="UniversalReality.br" tvg-name="Universal Reality HD" tvg-logo="http://7upsp8.com.br/tvlogos/Universal_Reality.png" group-title="Canais | Filmes e Séries",Universal Reality HD
+http://7up2.com:80/live/Josilaine1/21976061603/380.m3u8
+#EXTINF:-1 tvg-id="Universal.br" tvg-name="Universal TV FHD" tvg-logo="http://7upsp8.com.br/tvlogos/universalchannel.png" group-title="Canais | Filmes e Séries",Universal TV FHD
+http://7up2.com:80/live/Josilaine1/21976061603/493.m3u8
+#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal TV FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/universalchannel.png" group-title="Canais | Filmes e Séries",Universal TV FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/496.m3u8
+#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal TV HD" tvg-logo="http://7upsp8.com.br/tvlogos/universalchannel.png" group-title="Canais | Filmes e Séries",Universal TV HD
+http://7up2.com:80/live/Josilaine1/21976061603/494.m3u8
+#EXTINF:-1 tvg-id="USA.br" tvg-name="USA FHD" tvg-logo="http://7upsp8.com.br/tvlogos/usa.png" group-title="Canais | Filmes e Séries",USA FHD
+http://7up2.com:80/live/Josilaine1/21976061603/292.m3u8
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="USA FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/usa.png" group-title="Canais | Filmes e Séries",USA FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/294.m3u8
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="USA HD" tvg-logo="http://7upsp8.com.br/tvlogos/usa.png" group-title="Canais | Filmes e Séries",USA HD
+http://7up2.com:80/live/Josilaine1/21976061603/293.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel.br" tvg-name="Warner Channel" tvg-logo="http://7upsp8.com.br/tvlogos/warner.png" group-title="Canais | Filmes e Séries",Warner Channel
+http://7up2.com:80/live/Josilaine1/21976061603/503.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel.br" tvg-name="Warner Channel FHD" tvg-logo="http://7upsp8.com.br/tvlogos/warner.png" group-title="Canais | Filmes e Séries",Warner Channel FHD
+http://7up2.com:80/live/Josilaine1/21976061603/499.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel.br" tvg-name="Warner Channel FHD²" tvg-logo="http://7upsp8.com.br/tvlogos/warner.png" group-title="Canais | Filmes e Séries",Warner Channel FHD²
+http://7up2.com:80/live/Josilaine1/21976061603/497.m3u8
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel HD" tvg-logo="http://7upsp8.com.br/tvlogos/warner.png" group-title="Canais | Filmes e Séries",Warner Channel HD
+http://7up2.com:80/live/Josilaine1/21976061603/501.m3u8
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="Woohoo FHD" tvg-logo="http://7upsp8.com.br/tvlogos/woohoo.png" group-title="Canais | Esportes",Woohoo FHD
+http://7up2.com:80/live/Josilaine1/21976061603/612.m3u8
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="Woohoo HD" tvg-logo="http://7upsp8.com.br/tvlogos/woohoo.png" group-title="Canais | Esportes",Woohoo HD
+http://7up2.com:80/live/Josilaine1/21976061603/613.m3u8
+#EXTINF:-1 tvg-id="Xsports.br" tvg-name="X Sports HD" tvg-logo="http://7upsp8.com.br/tvlogos/xsports.png" group-title="Canais | Esportes",X Sports HD
+http://7up2.com:80/live/Josilaine1/21976061603/488.m3u8
+#EXTINF:-1 tvg-id="space.br" tvg-name="X Sports HD²" tvg-logo="http://7upsp8.com.br/tvlogos/xsports.png" group-title="Canais | Esportes",X Sports HD²
+http://7up2.com:80/live/Josilaine1/21976061603/466.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zoom TV" tvg-logo="https://www.pngkey.com/png/full/352-3523284_zoom-tv-ua-logo-zoom.png" group-title="Canais | Abertos",Zoom TV
+http://7up2.com:80/live/Josilaine1/21976061603/96.m3u8
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZooMoo FHD" tvg-logo="http://7upsp8.com.br/tvlogos/zoomoo.png" group-title="Canais | Infantis",ZooMoo FHD
+http://7up2.com:80/live/Josilaine1/21976061603/414.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal GOAT 05" tvg-logo="http://7upsp8.com.br/tvlogos/goat.png" group-title="Canais | Esportes PPV",Canal GOAT 05
+http://7up2.com:80/live/Josilaine1/21976061603/2065733.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal GOAT 06" tvg-logo="http://7upsp8.com.br/tvlogos/goat.png" group-title="Canais | Esportes PPV",Canal GOAT 06
+http://7up2.com:80/live/Josilaine1/21976061603/2065734.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM: Alvor - Portugal" tvg-logo="http://7upsp8.com.br/tvlogos/camera.png" group-title="Canais | Câmeras ao Vivo",CAM: Alvor - Portugal
+http://7up2.com:80/live/Josilaine1/21976061603/9409.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM: Barra da Tijuca - RJ" tvg-logo="http://7upsp8.com.br/tvlogos/camera.png" group-title="Canais | Câmeras ao Vivo",CAM: Barra da Tijuca - RJ
+http://7up2.com:80/live/Josilaine1/21976061603/9410.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM: Bucuti Beach - Oranjestad - Aruba" tvg-logo="http://7upsp8.com.br/tvlogos/camera.png" group-title="Canais | Câmeras ao Vivo",CAM: Bucuti Beach - Oranjestad - Aruba
+http://7up2.com:80/live/Josilaine1/21976061603/1698664.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM: Budapeste - Hungria (Câmera Hotel Victoria)" tvg-logo="http://7upsp8.com.br/tvlogos/camera.png" group-title="Canais | Câmeras ao Vivo",CAM: Budapeste - Hungria (Câmera Hotel Victoria)
+http://7up2.com:80/live/Josilaine1/21976061603/1698663.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM: Cats Meow Karaokê - New Orleans LA" tvg-logo="http://7upsp8.com.br/tvlogos/camera.png" group-title="Canais | Câmeras ao Vivo",CAM: Cats Meow Karaokê - New Orleans LA
+http://7up2.com:80/live/Josilaine1/21976061603/9412.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM: Chobe - Botswana" tvg-logo="http://7upsp8.com.br/tvlogos/camera.png" group-title="Canais | Câmeras ao Vivo",CAM: Chobe - Botswana
+http://7up2.com:80/live/Josilaine1/21976061603/9422.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM: CN Tower Cam, West View" tvg-logo="http://7upsp8.com.br/tvlogos/camera.png" group-title="Canais | Câmeras ao Vivo",CAM: CN Tower Cam, West View
+http://7up2.com:80/live/Josilaine1/21976061603/9428.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM: Copacabana- RJ" tvg-logo="http://7upsp8.com.br/tvlogos/camera.png" group-title="Canais | Câmeras ao Vivo",CAM: Copacabana- RJ
+http://7up2.com:80/live/Josilaine1/21976061603/9414.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM: Empire State Building - NY" tvg-logo="http://7upsp8.com.br/tvlogos/camera.png" group-title="Canais | Câmeras ao Vivo",CAM: Empire State Building - NY
+http://7up2.com:80/live/Josilaine1/21976061603/9429.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM: Fremont Street - Las Vegas" tvg-logo="http://7upsp8.com.br/tvlogos/camera.png" group-title="Canais | Câmeras ao Vivo",CAM: Fremont Street - Las Vegas
+http://7up2.com:80/live/Josilaine1/21976061603/9417.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM: Grand Canyon - Arizona" tvg-logo="http://7upsp8.com.br/tvlogos/camera.png" group-title="Canais | Câmeras ao Vivo",CAM: Grand Canyon - Arizona
+http://7up2.com:80/live/Josilaine1/21976061603/9411.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM: Grand Haven - Lake Michigan" tvg-logo="http://7upsp8.com.br/tvlogos/camera.png" group-title="Canais | Câmeras ao Vivo",CAM: Grand Haven - Lake Michigan
+http://7up2.com:80/live/Josilaine1/21976061603/9420.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM: Hotel Nes Cam - Amsterdam" tvg-logo="http://7upsp8.com.br/tvlogos/camera.png" group-title="Canais | Câmeras ao Vivo",CAM: Hotel Nes Cam - Amsterdam
+http://7up2.com:80/live/Josilaine1/21976061603/9421.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM: Imagem do Espaço - NASA" tvg-logo="http://7upsp8.com.br/tvlogos/camera.png" group-title="Canais | Câmeras ao Vivo",CAM: Imagem do Espaço - NASA
+http://7up2.com:80/live/Josilaine1/21976061603/9419.m3u8
+#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="CAM: Midtown Manhattan, NY" tvg-logo="http://7upsp8.com.br/tvlogos/camera.png" group-title="Canais | Câmeras ao Vivo",CAM: Midtown Manhattan, NY
+http://7up2.com:80/live/Josilaine1/21976061603/47492.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM: Montana - Big Sky" tvg-logo="http://7upsp8.com.br/tvlogos/camera.png" group-title="Canais | Câmeras ao Vivo",CAM: Montana - Big Sky
+http://7up2.com:80/live/Josilaine1/21976061603/9423.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM: Muro das Lamentações" tvg-logo="http://7upsp8.com.br/tvlogos/camera.png" group-title="Canais | Câmeras ao Vivo",CAM: Muro das Lamentações
+http://7up2.com:80/live/Josilaine1/21976061603/9424.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM: Muro das Lamentações - Jerusalém" tvg-logo="http://7upsp8.com.br/tvlogos/camera.png" group-title="Canais | Câmeras ao Vivo",CAM: Muro das Lamentações - Jerusalém
+http://7up2.com:80/live/Josilaine1/21976061603/9418.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM: Niágara Falls - Cataratas do Niágara" tvg-logo="http://7upsp8.com.br/tvlogos/camera.png" group-title="Canais | Câmeras ao Vivo",CAM: Niágara Falls - Cataratas do Niágara
+http://7up2.com:80/live/Josilaine1/21976061603/9416.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM: Paterson Falls" tvg-logo="http://7upsp8.com.br/tvlogos/camera.png" group-title="Canais | Câmeras ao Vivo",CAM: Paterson Falls
+http://7up2.com:80/live/Josilaine1/21976061603/9425.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM: Ponte da Amizade (BR-PY)" tvg-logo="http://7upsp8.com.br/tvlogos/camera.png" group-title="Canais | Câmeras ao Vivo",CAM: Ponte da Amizade (BR-PY)
+http://7up2.com:80/live/Josilaine1/21976061603/9426.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM: Ponte da Amizade (PY-BR)" tvg-logo="http://7upsp8.com.br/tvlogos/camera.png" group-title="Canais | Câmeras ao Vivo",CAM: Ponte da Amizade (PY-BR)
+http://7up2.com:80/live/Josilaine1/21976061603/9427.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM: Rua Bourbon - New Orleans" tvg-logo="http://7upsp8.com.br/tvlogos/camera.png" group-title="Canais | Câmeras ao Vivo",CAM: Rua Bourbon - New Orleans
+http://7up2.com:80/live/Josilaine1/21976061603/9430.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM: Santa Mônica - Califórnia" tvg-logo="http://7upsp8.com.br/tvlogos/camera.png" group-title="Canais | Câmeras ao Vivo",CAM: Santa Mônica - Califórnia
+http://7up2.com:80/live/Josilaine1/21976061603/9432.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM: Times Square" tvg-logo="http://7upsp8.com.br/tvlogos/camera.png" group-title="Canais | Câmeras ao Vivo",CAM: Times Square
+http://7up2.com:80/live/Josilaine1/21976061603/9435.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM: Times Square - South View" tvg-logo="http://7upsp8.com.br/tvlogos/camera.png" group-title="Canais | Câmeras ao Vivo",CAM: Times Square - South View
+http://7up2.com:80/live/Josilaine1/21976061603/9434.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM: Times Square Crossroads" tvg-logo="http://7upsp8.com.br/tvlogos/camera.png" group-title="Canais | Câmeras ao Vivo",CAM: Times Square Crossroads
+http://7up2.com:80/live/Josilaine1/21976061603/9433.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM: Topo da CN Tower - Toronto" tvg-logo="http://7upsp8.com.br/tvlogos/camera.png" group-title="Canais | Câmeras ao Vivo",CAM: Topo da CN Tower - Toronto
+http://7up2.com:80/live/Josilaine1/21976061603/9436.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM: World Trade Center" tvg-logo="http://7upsp8.com.br/tvlogos/camera.png" group-title="Canais | Câmeras ao Vivo",CAM: World Trade Center
+http://7up2.com:80/live/Josilaine1/21976061603/9437.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Ação" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Cine Ação
+http://7up2.com:80/live/Josilaine1/21976061603/419.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Brasil" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Cine Brasil
+http://7up2.com:80/live/Josilaine1/21976061603/532.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Comédia" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Cine Comédia
+http://7up2.com:80/live/Josilaine1/21976061603/422.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Crime" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Cine Crime
+http://7up2.com:80/live/Josilaine1/21976061603/420.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Espanto" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Cine Espanto
+http://7up2.com:80/live/Josilaine1/21976061603/297.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Família" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Cine Família
+http://7up2.com:80/live/Josilaine1/21976061603/417.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Faroeste" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Cine Faroeste
+http://7up2.com:80/live/Josilaine1/21976061603/418.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Filmes Variados" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Cine Filmes Variados
+http://7up2.com:80/live/Josilaine1/21976061603/425.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Movie Sphere" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Cine Movie Sphere
+http://7up2.com:80/live/Josilaine1/21976061603/94.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Romance" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Cine Romance
+http://7up2.com:80/live/Josilaine1/21976061603/423.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 01" tvg-logo="http://7upsp8.com.br/tvlogos/cinesky.png" group-title="Canais | Cinema 24 HRS",Cine Sky 01
+http://7up2.com:80/live/Josilaine1/21976061603/35673.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 02" tvg-logo="http://7upsp8.com.br/tvlogos/cinesky.png" group-title="Canais | Cinema 24 HRS",Cine Sky 02
+http://7up2.com:80/live/Josilaine1/21976061603/458.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 03" tvg-logo="http://7upsp8.com.br/tvlogos/cinesky.png" group-title="Canais | Cinema 24 HRS",Cine Sky 03
+http://7up2.com:80/live/Josilaine1/21976061603/2784.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 04" tvg-logo="http://7upsp8.com.br/tvlogos/cinesky.png" group-title="Canais | Cinema 24 HRS",Cine Sky 04
+http://7up2.com:80/live/Josilaine1/21976061603/2785.m3u8
+#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="Cine Sky 05" tvg-logo="http://7upsp8.com.br/tvlogos/cinesky.png" group-title="Canais | Cinema 24 HRS",Cine Sky 05
+http://7up2.com:80/live/Josilaine1/21976061603/626.m3u8
+#EXTINF:-1 tvg-id="globo.recife.br" tvg-name="Cine Sky 06" tvg-logo="http://7upsp8.com.br/tvlogos/cinesky.png" group-title="Canais | Cinema 24 HRS",Cine Sky 06
+http://7up2.com:80/live/Josilaine1/21976061603/472.m3u8
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Cine Sky 07" tvg-logo="http://7upsp8.com.br/tvlogos/cinesky.png" group-title="Canais | Cinema 24 HRS",Cine Sky 07
+http://7up2.com:80/live/Josilaine1/21976061603/528.m3u8
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="Cine Sky 08" tvg-logo="http://7upsp8.com.br/tvlogos/cinesky.png" group-title="Canais | Cinema 24 HRS",Cine Sky 08
+http://7up2.com:80/live/Josilaine1/21976061603/302.m3u8
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Cine Sky 09" tvg-logo="http://7upsp8.com.br/tvlogos/cinesky.png" group-title="Canais | Cinema 24 HRS",Cine Sky 09
+http://7up2.com:80/live/Josilaine1/21976061603/518.m3u8
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Cine Sky 10" tvg-logo="http://7upsp8.com.br/tvlogos/cinesky.png" group-title="Canais | Cinema 24 HRS",Cine Sky 10
+http://7up2.com:80/live/Josilaine1/21976061603/523.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Classic TV 01" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Classic TV 01
+http://7up2.com:80/live/Josilaine1/21976061603/30.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Classic TV 02" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Classic TV 02
+http://7up2.com:80/live/Josilaine1/21976061603/153.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Classic TV Séries" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Classic TV Séries
+http://7up2.com:80/live/Josilaine1/21976061603/150.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Filmes e Séries" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Filmes e Séries
+http://7up2.com:80/live/Josilaine1/21976061603/241.m3u8
+#EXTINF:-1 tvg-id="plus.globosat.br" tvg-name="Filmes Variados 2" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Filmes Variados 2
+http://7up2.com:80/live/Josilaine1/21976061603/306.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Top Mix TV" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",Top Mix TV
+http://7up2.com:80/live/Josilaine1/21976061603/416.m3u8
+#EXTINF:-1 tvg-id="CineSky.br" tvg-name="TV Clássicos - Filmes" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Cinema 24 HRS",TV Clássicos - Filmes
+http://7up2.com:80/live/Josilaine1/21976061603/424.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H]  A Grande Família do Alasca" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Programação 24 HRS",[24H]  A Grande Família do Alasca
+http://7up2.com:80/live/Josilaine1/21976061603/2762.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] 3 PALAVRINHAS" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] 3 PALAVRINHAS
+http://7up2.com:80/live/Josilaine1/21976061603/2039218.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Família Dinossauros" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Programação 24 HRS",[24H] A Família Dinossauros
+http://7up2.com:80/live/Josilaine1/21976061603/2796.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A TURMA DO PATETA" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] A TURMA DO PATETA
+http://7up2.com:80/live/Josilaine1/21976061603/2039241.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Alf, O ETeimoso" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Programação 24 HRS",[24H] Alf, O ETeimoso
+http://7up2.com:80/live/Josilaine1/21976061603/2848.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] AMERICAN DAD!" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] AMERICAN DAD!
+http://7up2.com:80/live/Josilaine1/21976061603/2039262.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] APENAS UM SHOW" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] APENAS UM SHOW
+http://7up2.com:80/live/Josilaine1/21976061603/2039263.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] AS AVENTURAS DE JACKIE CHAN" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] AS AVENTURAS DE JACKIE CHAN
+http://7up2.com:80/live/Josilaine1/21976061603/2039240.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] AS MENINAS SUPERPODEROSAS" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] AS MENINAS SUPERPODEROSAS
+http://7up2.com:80/live/Josilaine1/21976061603/2039220.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BABY LOONEY TUNES" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] BABY LOONEY TUNES
+http://7up2.com:80/live/Josilaine1/21976061603/2039232.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BABY SHARK" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] BABY SHARK
+http://7up2.com:80/live/Josilaine1/21976061603/2039264.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BATMAN: A SÉRIE ANIMADA" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] BATMAN: A SÉRIE ANIMADA
+http://7up2.com:80/live/Josilaine1/21976061603/2039225.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BEYBLADE" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] BEYBLADE
+http://7up2.com:80/live/Josilaine1/21976061603/2039265.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BLAZE E OS MONSTER MACHINES" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] BLAZE E OS MONSTER MACHINES
+http://7up2.com:80/live/Josilaine1/21976061603/2039266.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BOB ESPONJA" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] BOB ESPONJA
+http://7up2.com:80/live/Josilaine1/21976061603/2039250.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BOB ZOOM" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] BOB ZOOM
+http://7up2.com:80/live/Josilaine1/21976061603/2039267.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BOKU NO HERO ACADEMIA" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] BOKU NO HERO ACADEMIA
+http://7up2.com:80/live/Josilaine1/21976061603/2039224.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodíaco" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Programação 24 HRS",[24H] Cavaleiros do Zodíaco
+http://7up2.com:80/live/Josilaine1/21976061603/2782.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CAVERNA DO DRAGÃO" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] CAVERNA DO DRAGÃO
+http://7up2.com:80/live/Josilaine1/21976061603/2039219.m3u8
+#EXTINF:-1 tvg-id="dummy-40" tvg-name="[24H] Chaves" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Programação 24 HRS",[24H] Chaves
+http://7up2.com:80/live/Josilaine1/21976061603/2790.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CORRIDA MALUCA" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] CORRIDA MALUCA
+http://7up2.com:80/live/Josilaine1/21976061603/2039268.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DEATH NOTE" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] DEATH NOTE
+http://7up2.com:80/live/Josilaine1/21976061603/2039252.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DESENHOS BÍBLICOS" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] DESENHOS BÍBLICOS
+http://7up2.com:80/live/Josilaine1/21976061603/2039269.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DIGIMON" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] DIGIMON
+http://7up2.com:80/live/Josilaine1/21976061603/2039222.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Programação 24 HRS",[24H] Dois Homens e Meio
+http://7up2.com:80/live/Josilaine1/21976061603/2802.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DORA E SEUS AMIGOS" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] DORA E SEUS AMIGOS
+http://7up2.com:80/live/Josilaine1/21976061603/2039270.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DRAGON BALL" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] DRAGON BALL
+http://7up2.com:80/live/Josilaine1/21976061603/2039271.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DRAGON BALL KAI" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] DRAGON BALL KAI
+http://7up2.com:80/live/Josilaine1/21976061603/2039273.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DRAGON BALL SUPER" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] DRAGON BALL SUPER
+http://7up2.com:80/live/Josilaine1/21976061603/2039274.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DRAGON BALL Z" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] DRAGON BALL Z
+http://7up2.com:80/live/Josilaine1/21976061603/2039272.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Eu, a Patroa e as Crianças" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Programação 24 HRS",[24H] Eu, a Patroa e as Crianças
+http://7up2.com:80/live/Josilaine1/21976061603/2758.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Friends" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Programação 24 HRS",[24H] Friends
+http://7up2.com:80/live/Josilaine1/21976061603/2797.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] FUTURAMA" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] FUTURAMA
+http://7up2.com:80/live/Josilaine1/21976061603/2039275.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] GAGUINHO E PATOLINO" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] GAGUINHO E PATOLINO
+http://7up2.com:80/live/Josilaine1/21976061603/2039257.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] GALINHA PINTADINHA" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] GALINHA PINTADINHA
+http://7up2.com:80/live/Josilaine1/21976061603/2039276.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] HE-MAN" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] HE-MAN
+http://7up2.com:80/live/Josilaine1/21976061603/2039253.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] HOMEM DE FERRO" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] HOMEM DE FERRO
+http://7up2.com:80/live/Josilaine1/21976061603/2039247.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] HOMEM-ARANHA" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] HOMEM-ARANHA
+http://7up2.com:80/live/Josilaine1/21976061603/2039235.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] HOMEM-ARANHA: AÇÃO SEM LIMITES" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] HOMEM-ARANHA: AÇÃO SEM LIMITES
+http://7up2.com:80/live/Josilaine1/21976061603/2039237.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] HOMEM-ARANHA: ULTIMATE" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] HOMEM-ARANHA: ULTIMATE
+http://7up2.com:80/live/Josilaine1/21976061603/2039236.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] HORA DE AVENTURA" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] HORA DE AVENTURA
+http://7up2.com:80/live/Josilaine1/21976061603/2039234.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] IRON MAN" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] IRON MAN
+http://7up2.com:80/live/Josilaine1/21976061603/2039248.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] KND: A TURMA DO BAIRRO" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] KND: A TURMA DO BAIRRO
+http://7up2.com:80/live/Josilaine1/21976061603/2039254.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Largados e Pelados" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Programação 24 HRS",[24H] Largados e Pelados
+http://7up2.com:80/live/Josilaine1/21976061603/2844.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Largados e Pelados - Latinos" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Programação 24 HRS",[24H] Largados e Pelados - Latinos
+http://7up2.com:80/live/Josilaine1/21976061603/2788.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] LIGA DA JUSTIÇA" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] LIGA DA JUSTIÇA
+http://7up2.com:80/live/Josilaine1/21976061603/2039227.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] LIGA DA JUSTIÇA: SEM LIMITES" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] LIGA DA JUSTIÇA: SEM LIMITES
+http://7up2.com:80/live/Josilaine1/21976061603/2039226.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] LOONEY TUNES" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] LOONEY TUNES
+http://7up2.com:80/live/Josilaine1/21976061603/2039255.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] MANDA-CHUVA" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] MANDA-CHUVA
+http://7up2.com:80/live/Josilaine1/21976061603/2039238.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] MASHA E O URSO" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] MASHA E O URSO
+http://7up2.com:80/live/Josilaine1/21976061603/2039277.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] MR. BEAN" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] MR. BEAN
+http://7up2.com:80/live/Josilaine1/21976061603/2039278.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] MUNDO BITA" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] MUNDO BITA
+http://7up2.com:80/live/Josilaine1/21976061603/2039279.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] NARUTO" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] NARUTO
+http://7up2.com:80/live/Josilaine1/21976061603/2039280.m3u8
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="[24H] Novelas Turcas" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Programação 24 HRS",[24H] Novelas Turcas
+http://7up2.com:80/live/Josilaine1/21976061603/623.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] O INCRÍVEL MUNDO DE GUMBALL" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] O INCRÍVEL MUNDO DE GUMBALL
+http://7up2.com:80/live/Josilaine1/21976061603/2039233.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] O MÁSKARA" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] O MÁSKARA
+http://7up2.com:80/live/Josilaine1/21976061603/2039251.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] O NOVO PICA-PAU" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] O NOVO PICA-PAU
+http://7up2.com:80/live/Josilaine1/21976061603/2039281.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] ONE PIECE" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] ONE PIECE
+http://7up2.com:80/live/Josilaine1/21976061603/2039282.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] ONE PUNCH-MAN" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] ONE PUNCH-MAN
+http://7up2.com:80/live/Josilaine1/21976061603/2039239.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] OS CAVALEIROS DO ZODÍACO" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] OS CAVALEIROS DO ZODÍACO
+http://7up2.com:80/live/Josilaine1/21976061603/2039244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] OS FLINTSTONES" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] OS FLINTSTONES
+http://7up2.com:80/live/Josilaine1/21976061603/2039283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] OS JETSONS" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] OS JETSONS
+http://7up2.com:80/live/Josilaine1/21976061603/2039284.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] OS JOVENS TITÃS" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] OS JOVENS TITÃS
+http://7up2.com:80/live/Josilaine1/21976061603/2039285.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Programação 24 HRS",[24H] Os Simpsons
+http://7up2.com:80/live/Josilaine1/21976061603/2803.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] OS SIMPSONS" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] OS SIMPSONS
+http://7up2.com:80/live/Josilaine1/21976061603/2039230.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] OS VINGADORES" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] OS VINGADORES
+http://7up2.com:80/live/Josilaine1/21976061603/2039243.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] PAPA-LÉGUAS" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] PAPA-LÉGUAS
+http://7up2.com:80/live/Josilaine1/21976061603/2039256.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] PATATI PATATÁ" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] PATATI PATATÁ
+http://7up2.com:80/live/Josilaine1/21976061603/2039286.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] PATRULHA CANINA" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] PATRULHA CANINA
+http://7up2.com:80/live/Josilaine1/21976061603/2039223.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] PEPPA PIG" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] PEPPA PIG
+http://7up2.com:80/live/Josilaine1/21976061603/2039287.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] PICA-PAU" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] PICA-PAU
+http://7up2.com:80/live/Josilaine1/21976061603/2039259.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] PIU-PIU E FRAJOLA" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] PIU-PIU E FRAJOLA
+http://7up2.com:80/live/Josilaine1/21976061603/2039258.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] POKÉMON" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] POKÉMON
+http://7up2.com:80/live/Josilaine1/21976061603/2039288.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] RICK E MORTY" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] RICK E MORTY
+http://7up2.com:80/live/Josilaine1/21976061603/2039231.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SANTIAGO DOS MARES" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] SANTIAGO DOS MARES
+http://7up2.com:80/live/Josilaine1/21976061603/2039289.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SCOOBY-DOO" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] SCOOBY-DOO
+http://7up2.com:80/live/Josilaine1/21976061603/2039260.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Smallville" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Programação 24 HRS",[24H] Smallville
+http://7up2.com:80/live/Josilaine1/21976061603/2833.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SNOOPY" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] SNOOPY
+http://7up2.com:80/live/Josilaine1/21976061603/2039221.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SONIC THE HEDGEHOG" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] SONIC THE HEDGEHOG
+http://7up2.com:80/live/Josilaine1/21976061603/2039290.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SUPER CHOQUE" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] SUPER CHOQUE
+http://7up2.com:80/live/Josilaine1/21976061603/2039228.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] The Big Bang Theory" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Programação 24 HRS",[24H] The Big Bang Theory
+http://7up2.com:80/live/Josilaine1/21976061603/2783.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] THUNDERCATS" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] THUNDERCATS
+http://7up2.com:80/live/Josilaine1/21976061603/2039261.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Todo Mundo Odeia o Chris" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Programação 24 HRS",[24H] Todo Mundo Odeia o Chris
+http://7up2.com:80/live/Josilaine1/21976061603/2851.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] TOM E JERRY" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] TOM E JERRY
+http://7up2.com:80/live/Josilaine1/21976061603/2039242.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] TRÊS ESPIÃS DEMAIS" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] TRÊS ESPIÃS DEMAIS
+http://7up2.com:80/live/Josilaine1/21976061603/2039249.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Um Maluco no Pedaço" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Programação 24 HRS",[24H] Um Maluco no Pedaço
+http://7up2.com:80/live/Josilaine1/21976061603/2855.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Uma Familía da Pesada" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Programação 24 HRS",[24H] Uma Familía da Pesada
+http://7up2.com:80/live/Josilaine1/21976061603/2842.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] UMA FAMÍLIA DA PESADA" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] UMA FAMÍLIA DA PESADA
+http://7up2.com:80/live/Josilaine1/21976061603/2039229.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] WOLVERINE E OS X-MEN" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] WOLVERINE E OS X-MEN
+http://7up2.com:80/live/Josilaine1/21976061603/2039245.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] X-MEN: EVOLUTION" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] X-MEN: EVOLUTION
+http://7up2.com:80/live/Josilaine1/21976061603/2039246.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[24H] YIN YANG YO!" tvg-logo="http://7upsp8.com.br/tvlogos/24horas.png" group-title="Canais | Infantil 24 HRS",[24H] YIN YANG YO!
+http://7up2.com:80/live/Josilaine1/21976061603/2039291.m3u8
